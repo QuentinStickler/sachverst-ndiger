@@ -29,6 +29,8 @@ Erstellt für jeden Sender eine Tabelle, in welcher Stunde er wie viele Nachrich
 
 Erstellt für jeden Empfänger eine Tabelle, in welcher Stunde er wie viele Nachrichten bekommen hat.
 
+[Histogramme Empfänger](received_messages_histogrmas)
+
 
 #### Lassen sich aus den Zeiträumen bevorzugte Aktivitätszeiten ableiten?
 [Python Programm preferred_activity_time.py](preferred_activity_time.py)
