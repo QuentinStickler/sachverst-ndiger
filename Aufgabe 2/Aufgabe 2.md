@@ -29,7 +29,7 @@ Erstellt für jeden Sender eine Tabelle, in welcher Stunde er wie viele Nachrich
 
 Erstellt für jeden Empfänger eine Tabelle, in welcher Stunde er wie viele Nachrichten bekommen hat.
 
-[Histogramme Empfänger](received_messages_histogrmas)
+[Histogramme Empfänger](received_messages_histograms)
 
 
 #### Lassen sich aus den Zeiträumen bevorzugte Aktivitätszeiten ableiten?
@@ -40,7 +40,7 @@ Erstellt für jeden Empfänger eine Tabelle, in welcher Stunde er wie viele Nach
 
 Gibt die Stunde mit den höchsten gesendeten Nachrichten am Tag für jeden Nutzer aus.
 
-[CSV Ergebnis preferred_activity_time.csv](preferred_activity_time.py)
+[CSV Ergebnis preferred_activity_time.csv](preferred_activity_time.csv)
 
 
 #### Lassen sich Gemeinsamkeiten in den Aktivitätszeiten zwischen einzelnen Nutzern feststellen?
@@ -68,8 +68,8 @@ Noch nicht bearbeitet.
 
 Berechnet die Korrelation zwischen den verschiedenen Sendern anhand der gesendeten Nachrichten pro Stunde.
 
-[CSV Ergebnis sender_correlation_result.csv](sender_correlation_result.csv)
-[CSV Ergebnis high_correlation_result.csv](high_correlation_result.csv)
+[CSV Ergebnis sender_correlation_result.csv](sender_correlation_results.csv)
+[CSV Ergebnis high_correlation_result.csv](high_correlation_results.csv)
 
 
 #### Lassen sich Nutzer mit ähnlichen Chatnamen in diversen Messengern, über mehrere Mobilgeräte hinweg, als ein und dieselbe Person durch die Aktivitätsprofile identifizieren?
