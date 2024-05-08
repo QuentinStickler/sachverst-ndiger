@@ -6,11 +6,8 @@ data = pd.read_csv("Data.csv", sep="|", encoding="utf-16-LE")
 # Remove leading and trailing spaces from the "Timestamp" string
 data["Timestamp"] = data["Timestamp"].str.strip()
 
-# Remove the UTC offset from the "Timestamp" string
-data["Timestamp"] = data["Timestamp"].str.replace(" UTC[+-]\d{2}:\d{2}", "", regex=True)
-
 # Convert the "Timestamp" column to datetime format
-data["Timestamp"] = pd.to_datetime(data["Timestamp"], format="%d.%m.%Y %H:%M:%S")
+data["Timestamp"] = pd.to_datetime(data["Timestamp"], utc=True)
 
 # Sort the data by "Timestamp"
 data = data.sort_values(by="Timestamp")
