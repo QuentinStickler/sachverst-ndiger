@@ -26,5 +26,4 @@ TO DO: 1. Dartstellung der Häufigkeiten
 Python Program ngram_counts_data_0.py
   Tokenisiert die Nachrichten und gibt eine Liste an  bi-tri-Grammen aus
 
-  TO DO: 1. nicht tokenisierte bi- tri-Gramme
-         2. für alle Datensätze 0-3
+  TO DO: 1. für alle Datensätze 0-3
