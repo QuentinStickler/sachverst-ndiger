@@ -1,2059 +1,2059 @@
-Sender,Ngram,Count
-Bad Boy,('≡ƒæì', 'alright'),1
-Bad Boy,('alright', 'geezer'),1
-Bad Boy,('geezer', '?'),1
-Bad Boy,('?', 'I'),4
-Bad Boy,('I', 'want'),1
-Bad Boy,('want', 'to'),1
-Bad Boy,('to', 'trade'),1
-Bad Boy,('trade', '.'),1
-Bad Boy,('.', 'The'),2
-Bad Boy,('The', 'boys'),1
-Bad Boy,('boys', 'let'),1
-Bad Boy,('let', 'me'),1
-Bad Boy,('me', 'know'),1
-Bad Boy,('know', 'you'),2
-Bad Boy,('you', 'deal'),1
-Bad Boy,('deal', 'in'),1
-Bad Boy,('in', 'cheap'),1
-Bad Boy,('cheap', 'gear'),1
-Bad Boy,('gear', 'and'),2
-Bad Boy,('and', 'occasionally'),1
-Bad Boy,('occasionally', 'I'),1
-Bad Boy,('I', 'get'),2
-Bad Boy,('get', 'some'),1
-Bad Boy,('some', 'to'),1
-Bad Boy,('to', 'sell'),1
-Bad Boy,('sell', 'and'),1
-Bad Boy,('and', 'every'),1
-Bad Boy,('every', 'now'),1
-Bad Boy,('now', 'and'),1
-Bad Boy,('and', 'then'),1
-Bad Boy,('then', 'I'),1
-Bad Boy,('I', 'need'),4
-Bad Boy,('need', 'to'),2
-Bad Boy,('to', 'buy'),2
-Bad Boy,('buy', '...'),1
-Bad Boy,('...', 'Yer'),1
-Bad Boy,('Yer', 'I'),1
-Bad Boy,('I', 'know'),2
-Bad Boy,('know', ','),1
-Bad Boy,(',', 'listen'),1
-Bad Boy,('listen', 'I'),1
-Bad Boy,('I', "'m"),2
-Bad Boy,("'m", 'sorry'),1
-Bad Boy,('sorry', 'man'),1
-Bad Boy,('man', 'but'),1
-Bad Boy,('but', 'learnt'),1
-Bad Boy,('learnt', 'my'),1
-Bad Boy,('my', 'lesson'),1
-Bad Boy,('lesson', '.'),1
-Bad Boy,('.', 'It'),1
-Bad Boy,('It', 'wo'),1
-Bad Boy,('wo', "n't"),3
-Bad Boy,("n't", 'happen'),1
-Bad Boy,('happen', 'again'),1
-Bad Boy,('again', 'I'),1
-Bad Boy,('I', 'promise'),1
-Bad Boy,('promise', '.'),1
-Bad Boy,('.', 'This'),2
-Bad Boy,('This', 'time'),1
-Bad Boy,('time', 'it'),1
-Bad Boy,('it', 'will'),1
-Bad Boy,('will', 'be'),2
-Bad Boy,('be', 'different'),1
-Bad Boy,('different', '..'),1
-Bad Boy,('..', 'Seriously'),1
-Bad Boy,('Seriously', 'you'),1
-Bad Boy,('you', 'can'),1
-Bad Boy,('can', 'trust'),1
-Bad Boy,('trust', 'me'),1
-Bad Boy,('me', '.'),2
-Bad Boy,('.', 'I'),10
-Bad Boy,('I', 'wo'),1
-Bad Boy,("n't", 'make'),1
-Bad Boy,('make', 'the'),1
-Bad Boy,('the', 'same'),1
-Bad Boy,('same', 'mistake'),1
-Bad Boy,('mistake', 'twice'),1
-Bad Boy,('twice', '.'),1
-Bad Boy,('I', 'will'),2
-Bad Boy,('will', 'pay'),1
-Bad Boy,('pay', 'on'),1
-Bad Boy,('on', 'time'),1
-Bad Boy,('time', 'and'),1
-Bad Boy,('and', 'keep'),1
-Bad Boy,('keep', 'your'),1
-Bad Boy,('your', 'secrets'),1
-Bad Boy,('secrets', '.'),1
-Bad Boy,('.', 'In'),1
-Bad Boy,('In', 'my'),1
-Bad Boy,('my', 'honor'),1
-Bad Boy,('honor', 'Ok'),1
-Bad Boy,('Ok', 'I'),3
-Bad Boy,('I', 'understand'),1
-Bad Boy,('understand', ','),1
-Bad Boy,(',', 'thanks'),1
-Bad Boy,('thanks', '.'),1
-Bad Boy,('.', 'Did'),2
-Bad Boy,('Did', 'he'),1
-Bad Boy,('he', 'say'),1
-Bad Boy,('say', 'yes'),1
-Bad Boy,('yes', '?'),1
-Bad Boy,('?', 'nan'),3
-Bad Boy,('nan', 'Yes'),1
-Bad Boy,('Yes', 'ok'),3
-Bad Boy,('ok', 'thanks'),1
-Bad Boy,('thanks', 'man'),1
-Bad Boy,('man', '.'),4
-Bad Boy,('.', 'You'),1
-Bad Boy,('You', 'wo'),1
-Bad Boy,("n't", 'regret'),1
-Bad Boy,('regret', 'it'),1
-Bad Boy,('it', '..'),1
-Bad Boy,('..', 'Ok'),1
-Bad Boy,('Ok', 'boss'),1
-Bad Boy,('boss', 'will'),1
-Bad Boy,('will', 'do'),1
-Bad Boy,('do', '...'),1
-Bad Boy,('...', 'I'),1
-Bad Boy,('I', 'heard'),1
-Bad Boy,('heard', 'these'),1
-Bad Boy,('these', 'apartments'),1
-Bad Boy,('apartments', 'are'),1
-Bad Boy,('are', 'super'),1
-Bad Boy,('super', 'expensive'),1
-Bad Boy,('expensive', '?'),1
-Bad Boy,('?', 'https'),1
-Bad Boy,('https', ':'),2
-Bad Boy,(':', '//images.app.goo.gl/W8yKUaPs697HTjms6'),1
-Bad Boy,('//images.app.goo.gl/W8yKUaPs697HTjms6', 'nan'),1
-Bad Boy,('nan', 'How'),2
-Bad Boy,('How', 'about'),1
-Bad Boy,('about', 'this'),1
-Bad Boy,('this', '?'),1
-Bad Boy,('?', '9000kr'),1
-Bad Boy,('9000kr', 'should'),1
-Bad Boy,('should', 'be'),1
-Bad Boy,('be', 'enough'),1
-Bad Boy,('enough', 'to'),1
-Bad Boy,('to', 'let'),1
-Bad Boy,('let', 'this'),1
-Bad Boy,('this', 'little'),1
-Bad Boy,('little', 'lot'),1
-Bad Boy,('lot', 'go'),1
-Bad Boy,('go', 'to'),1
-Bad Boy,('to', 'you'),2
-Bad Boy,('you', 'my'),2
-Bad Boy,('my', 'friend'),2
-Bad Boy,('friend', 'Ok'),1
-Bad Boy,('Ok', 'let'),1
-Bad Boy,('let', "'s"),3
-Bad Boy,("'s", 'meet'),1
-Bad Boy,('meet', 'up'),1
-Bad Boy,('up', 'today'),1
-Bad Boy,('today', 'for'),1
-Bad Boy,('for', 'the'),1
-Bad Boy,('the', 'exchange'),1
-Bad Boy,('exchange', '.'),1
-Bad Boy,('I', 'bring'),1
-Bad Boy,('bring', 'the'),3
-Bad Boy,('the', 'gear'),3
-Bad Boy,('and', 'you'),2
-Bad Boy,('you', 'bring'),2
-Bad Boy,('the', 'cash'),3
-Bad Boy,('cash', '.'),2
-Bad Boy,('.', 'Next'),1
-Bad Boy,('Next', '30'),1
-Bad Boy,('30', 'mins'),2
-Bad Boy,('mins', '?'),1
-Bad Boy,('?', '?'),13
-Bad Boy,('?', 'Ok'),4
-Bad Boy,('Ok', 'and'),1
-Bad Boy,('the', 'money'),1
-Bad Boy,('money', '.'),1
-Bad Boy,('.', 'By'),1
-Bad Boy,('By', 'the'),1
-Bad Boy,('the', 'way'),1
-Bad Boy,('way', 'stop'),1
-Bad Boy,('stop', 'calling'),1
-Bad Boy,('calling', 'me'),1
-Bad Boy,('me', "'shortly"),1
-Bad Boy,("'shortly", "'"),1
-Bad Boy,("'", 'Pleasure'),1
-Bad Boy,('Pleasure', 'doing'),2
-Bad Boy,('doing', 'business'),2
-Bad Boy,('business', 'with'),2
-Bad Boy,('with', 'you'),2
-Bad Boy,('you', '...'),1
-Bad Boy,('...', 'One'),1
-Bad Boy,('One', 'good'),1
-Bad Boy,('good', 'deal'),1
-Bad Boy,('deal', ','),1
-Bad Boy,(',', 'deserves'),1
-Bad Boy,('deserves', 'another'),1
-Bad Boy,('another', '..'),1
-Bad Boy,('..', 'So'),1
-Bad Boy,('So', 'how'),1
-Bad Boy,('how', 'about'),1
-Bad Boy,('about', 'a'),1
-Bad Boy,('a', 'drugs'),1
-Bad Boy,('drugs', 'trade'),1
-Bad Boy,('trade', '?'),2
-Bad Boy,('?', 'Well'),1
-Bad Boy,('Well', 'how'),1
-Bad Boy,('how', 'convenient'),1
-Bad Boy,('convenient', '?'),1
-Bad Boy,('?', '\\nSo'),1
-Bad Boy,('\\nSo', 'what'),1
-Bad Boy,('what', "'s"),2
-Bad Boy,("'s", 'the'),2
-Bad Boy,('the', 'price'),1
-Bad Boy,('price', 'of'),1
-Bad Boy,('of', 'that'),2
-Bad Boy,('that', 'then'),1
-Bad Boy,('then', '?'),1
-Bad Boy,('?', '≡ƒñ¼'),1
-Bad Boy,('≡ƒñ¼', 'fuck'),1
-Bad Boy,('fuck', 'that'),1
-Bad Boy,('that', "'s"),2
-Bad Boy,("'s", 'expensive'),1
-Bad Boy,('expensive', 'Ok'),1
-Bad Boy,('need', 'time'),1
-Bad Boy,('time', 'to'),1
-Bad Boy,('to', 'find'),1
-Bad Boy,('find', 'the'),1
-Bad Boy,('cash', 'Ok'),1
-Bad Boy,('I', 'can'),6
-Bad Boy,('can', 'get'),1
-Bad Boy,('get', 'the'),1
-Bad Boy,('.', 'Just'),2
-Bad Boy,('Just', 'need'),1
-Bad Boy,('need', '48hrs'),1
-Bad Boy,('48hrs', '.'),1
-Bad Boy,('.', 'When'),1
-Bad Boy,('When', 'can'),1
-Bad Boy,('can', 'we'),1
-Bad Boy,('we', 'trade'),1
-Bad Boy,('?', 'You'),3
-Bad Boy,('You', 'ready'),1
-Bad Boy,('ready', 'for'),1
-Bad Boy,('for', 'an'),2
-Bad Boy,('an', 'exchange'),2
-Bad Boy,('exchange', '?'),1
-Bad Boy,('?', 'Yes'),2
-Bad Boy,('Yes', 'let'),1
-Bad Boy,("'s", 'do'),1
-Bad Boy,('do', 'this'),1
-Bad Boy,('this', '.'),1
-Bad Boy,('.', 'nan'),3
-Bad Boy,('nan', 'Meet'),1
-Bad Boy,('Meet', 'me'),1
-Bad Boy,('me', 'here'),1
-Bad Boy,('here', 'in'),1
-Bad Boy,('in', '30'),1
-Bad Boy,('mins', 'You'),1
-Bad Boy,('You', 'there'),1
-Bad Boy,('there', 'yet'),1
-Bad Boy,('yet', '.'),1
-Bad Boy,('.', 'Getting'),1
-Bad Boy,('Getting', 'nervous'),2
-Bad Boy,('nervous', 'carrying'),1
-Bad Boy,('carrying', 'this'),1
-Bad Boy,('this', 'much'),1
-Bad Boy,('much', 'cash'),1
-Bad Boy,('cash', '..'),1
-Bad Boy,('..', 'Yes'),1
-Bad Boy,('ok', 'I'),2
-Bad Boy,('I', 'around'),1
-Bad Boy,('around', 'the'),1
-Bad Boy,('the', 'back'),1
-Bad Boy,('back', 'of'),1
-Bad Boy,('of', 'the'),2
-Bad Boy,('the', 'shop'),1
-Bad Boy,('shop', '...'),1
-Bad Boy,('...', 'Black'),1
-Bad Boy,('Black', 'BMW'),1
-Bad Boy,('BMW', 'nan'),1
-Bad Boy,('nan', 'Here'),1
-Bad Boy,('Here', 'Glad'),1
-Bad Boy,('Glad', 'we'),1
-Bad Boy,('we', 'can'),1
-Bad Boy,('can', 'work'),1
-Bad Boy,('work', 'together'),1
-Bad Boy,('together', 'again'),1
-Bad Boy,('again', '.'),1
-Bad Boy,('I', "'ll"),1
-Bad Boy,("'ll", 'be'),1
-Bad Boy,('be', 'back'),1
-Bad Boy,('back', 'for'),1
-Bad Boy,('for', 'more'),1
-Bad Boy,('more', 'in'),1
-Bad Boy,('in', 'due'),1
-Bad Boy,('due', 'coursem'),1
-Bad Boy,('coursem', 'Business'),1
-Bad Boy,('Business', 'is'),1
-Bad Boy,('is', 'booming'),1
-Bad Boy,('booming', '.'),1
-Bad Boy,('.', 'Going'),1
-Bad Boy,('Going', 'to'),1
-Bad Boy,('to', 'need'),1
-Bad Boy,('need', 'another'),1
-Bad Boy,('another', 'delivery'),1
-Bad Boy,('delivery', 'in'),1
-Bad Boy,('in', '2'),1
-Bad Boy,('2', 'weeks'),1
-Bad Boy,('weeks', '.'),1
-Bad Boy,('.', 'Can'),2
-Bad Boy,('Can', 'you'),1
-Bad Boy,('you', 'deliver'),1
-Bad Boy,('deliver', '?'),1
-Bad Boy,('?', 'Make'),1
-Bad Boy,('Make', 'it'),1
-Bad Boy,('it', 'a'),1
-Bad Boy,('a', 'week'),1
-Bad Boy,('week', '.'),1
-Bad Boy,('This', 'stuff'),1
-Bad Boy,('stuff', 'is'),1
-Bad Boy,('is', 'selling'),1
-Bad Boy,('selling', 'so'),1
-Bad Boy,('so', 'fast'),1
-Bad Boy,('fast', 'I'),1
-Bad Boy,('I', 'ca'),1
-Bad Boy,('ca', "n't"),1
-Bad Boy,("n't", 'keep'),1
-Bad Boy,('keep', 'up'),1
-Bad Boy,('up', '.'),1
-Bad Boy,('.', 'Need'),1
-Bad Boy,('Need', 'new'),1
-Bad Boy,('new', 'packages'),1
-Bad Boy,('packages', 'asap'),1
-Bad Boy,('asap', 'No'),1
-Bad Boy,('No', 'man'),1
-Bad Boy,('man', '..'),1
-Bad Boy,('..', 'stop'),1
-Bad Boy,('stop', 'being'),1
-Bad Boy,('being', 'so'),1
-Bad Boy,('so', 'paranoid'),1
-Bad Boy,('paranoid', 'Yer'),1
-Bad Boy,('Yer', 'man'),1
-Bad Boy,('.', 'Which'),1
-Bad Boy,('Which', 'bit'),1
-Bad Boy,('bit', 'of'),1
-Bad Boy,('that', 'last'),1
-Bad Boy,('last', 'message'),1
-Bad Boy,('message', 'did'),1
-Bad Boy,('did', "n't"),1
-Bad Boy,("n't", 'you'),1
-Bad Boy,('you', 'understand'),1
-Bad Boy,('understand', '?'),1
-Bad Boy,('can', 'sell'),1
-Bad Boy,('sell', 'this'),1
-Bad Boy,('this', 'shit'),2
-Bad Boy,('shit', 'all'),1
-Bad Boy,('all', 'day'),1
-Bad Boy,('day', 'long'),1
-Bad Boy,('long', '.'),1
-Bad Boy,('I', 'am'),1
-Bad Boy,('am', 'raking'),1
-Bad Boy,('raking', 'in'),1
-Bad Boy,('in', 'cash'),1
-Bad Boy,('cash', '...'),1
-Bad Boy,('...', 'Give'),1
-Bad Boy,('Give', 'me'),1
-Bad Boy,('me', 'a'),2
-Bad Boy,('a', 'delivery'),1
-Bad Boy,('delivery', 'date'),1
-Bad Boy,('date', 'please'),1
-Bad Boy,('please', '!'),1
-Bad Boy,('!', 'nan'),1
-Bad Boy,('nan', 'I'),2
-Bad Boy,('need', 'more'),1
-Bad Boy,('more', 'white'),1
-Bad Boy,('white', 'lines'),1
-Bad Boy,('lines', ','),1
-Bad Boy,(',', 'this'),1
-Bad Boy,('this', 'big'),1
-Bad Boy,('big', '!'),1
-Bad Boy,('!', 'Yes'),2
-Bad Boy,('Yes', 'yes'),1
-Bad Boy,('yes', 'yes'),1
-Bad Boy,('yes', 'How'),1
-Bad Boy,('How', 'much'),2
-Bad Boy,('much', 'Yes'),1
-Bad Boy,('Yes', 'deal'),1
-Bad Boy,('deal', '.'),2
-Bad Boy,('get', 'cash'),1
-Bad Boy,('cash', 'in'),1
-Bad Boy,('in', '24hrs'),1
-Bad Boy,('24hrs', '.'),1
-Bad Boy,('Can', 'we'),1
-Bad Boy,('we', 'meet'),1
-Bad Boy,('meet', 'tomorrow'),1
-Bad Boy,('tomorrow', 'at'),1
-Bad Boy,('at', 'location'),1
-Bad Boy,('location', 'you'),1
-Bad Boy,('you', 'choose'),1
-Bad Boy,('choose', '?'),1
-Bad Boy,('Ok', '1830hrs'),1
-Bad Boy,('1830hrs', 'ish'),1
-Bad Boy,('ish', '@'),1
-Bad Boy,('@', 'Barkaby'),1
-Bad Boy,('Barkaby', 'Coop'),1
-Bad Boy,('Coop', 'tomorrow'),1
-Bad Boy,('tomorrow', 'night'),1
-Bad Boy,('night', '.'),1
-Bad Boy,('The', 'one'),1
-Bad Boy,('one', 'by'),1
-Bad Boy,('by', 'the'),1
-Bad Boy,('the', 'train'),1
-Bad Boy,('train', 'station'),1
-Bad Boy,('station', '.'),1
-Bad Boy,('.', 'Is'),1
-Bad Boy,('Is', 'that'),1
-Bad Boy,('that', 'the'),1
-Bad Boy,('the', 'one'),1
-Bad Boy,('one', 'at'),1
-Bad Boy,('at', 'Jaktplan'),1
-Bad Boy,('Jaktplan', '1'),1
-Bad Boy,('1', '?'),1
-Bad Boy,('Ok', 'are'),1
-Bad Boy,('are', 'we'),1
-Bad Boy,('we', 'still'),1
-Bad Boy,('still', 'up'),1
-Bad Boy,('up', 'for'),1
-Bad Boy,('exchange', 'this'),1
-Bad Boy,('this', 'evening'),1
-Bad Boy,('evening', '?'),1
-Bad Boy,('Yes', 'obviously'),1
-Bad Boy,('obviously', '.'),1
-Bad Boy,('.', '15,000kr'),1
-Bad Boy,('15,000kr', 'is'),1
-Bad Boy,('is', 'the'),1
-Bad Boy,('the', 'deal'),1
-Bad Boy,('be', 'there'),1
-Bad Boy,('there', '.'),1
-Bad Boy,('nan', 'Ok'),1
-Bad Boy,('Ok', '....'),1
-Bad Boy,('....', 'get'),1
-Bad Boy,('get', 'there'),1
-Bad Boy,('there', 'when'),1
-Bad Boy,('when', 'I'),1
-Bad Boy,('can', '.'),1
-Bad Boy,('I', 'come'),1
-Bad Boy,('come', 'alone'),1
-Bad Boy,('alone', 'by'),1
-Bad Boy,('by', 'train'),1
-Bad Boy,('train', '..'),1
-Bad Boy,('..', 'Be'),1
-Bad Boy,('Be', 'there'),1
-Bad Boy,('there', 'soon'),1
-Bad Boy,('soon', 'man'),1
-Bad Boy,('.', 'U'),1
-Bad Boy,('U', 'got'),1
-Bad Boy,('got', 'the'),1
-Bad Boy,('gear', '?'),2
-Bad Boy,('?', 'Yep'),1
-Bad Boy,('Yep', 'coming'),1
-Bad Boy,('coming', 'now'),1
-Bad Boy,('now', '...'),1
-Bad Boy,('...', 'Pleasure'),1
-Bad Boy,('you', 'again'),1
-Bad Boy,('again', '...'),1
-Bad Boy,('...', 'Is'),1
-Bad Boy,('Is', 'this'),1
-Bad Boy,('this', 'some'),1
-Bad Boy,('some', 'sort'),1
-Bad Boy,('sort', 'of'),1
-Bad Boy,('of', 'sick'),1
-Bad Boy,('sick', 'April'),1
-Bad Boy,('April', 'Fools'),1
-Bad Boy,('Fools', 'joke'),1
-Bad Boy,('joke', '?'),1
-Bad Boy,('?', 'Really'),1
-Bad Boy,('Really', 'ok'),1
-Bad Boy,('ok', '?'),1
-Bad Boy,('You', 'have'),1
-Bad Boy,('have', 'my'),1
-Bad Boy,('my', 'word'),1
-Bad Boy,('word', '.'),1
-Bad Boy,('Just', 'make'),1
-Bad Boy,('make', 'sure'),1
-Bad Boy,('sure', 'the'),1
-Bad Boy,('gear', 'keeps'),1
-Bad Boy,('keeps', 'flowing'),1
-Bad Boy,('flowing', 'yer'),1
-Bad Boy,('yer', '?'),1
-Bad Boy,('?', 'Alright'),1
-Bad Boy,('Alright', 'man'),1
-Bad Boy,('.', 'Whatever'),1
-Bad Boy,('Whatever', 'you'),1
-Bad Boy,('you', 'say'),1
-Bad Boy,('say', 'boss'),1
-Bad Boy,('boss', '....'),1
-Bad Boy,('....', 'nan'),2
-Bad Boy,('nan', 'Just'),1
-Bad Boy,('Just', 'promise'),1
-Bad Boy,('promise', 'me'),1
-Bad Boy,('me', 'I'),1
-Bad Boy,('can', 'stay'),1
-Bad Boy,('stay', 'in'),1
-Bad Boy,('in', 'business'),1
-Bad Boy,('business', '....'),1
-Bad Boy,('....', 'https'),1
-Bad Boy,(':', '//images.app.goo.gl/ykj9WorVVQbVh3kd7'),1
-Bad Boy,('//images.app.goo.gl/ykj9WorVVQbVh3kd7', 'Getting'),1
-Bad Boy,('nervous', '.'),1
-Bad Boy,('.', 'Am'),1
-Bad Boy,('Am', 'I'),1
-Bad Boy,('I', 'overthinking'),1
-Bad Boy,('overthinking', 'things'),1
-Bad Boy,('things', '...'),1
-Bad Boy,('...', '?'),1
-Bad Boy,('nan', 'So'),1
-Bad Boy,('So', 'what'),1
-Bad Boy,('the', 'plan'),1
-Bad Boy,('plan', '?'),1
-Bad Boy,('You', 'buy'),1
-Bad Boy,('buy', 'or'),1
-Bad Boy,('or', 'sell'),1
-Bad Boy,('sell', '?'),1
-Bad Boy,('can', 'buy'),1
-Bad Boy,('buy', 'that'),1
-Bad Boy,('that', '.'),1
-Bad Boy,('.', 'Looks'),1
-Bad Boy,('Looks', 'good'),1
-Bad Boy,('good', '.'),1
-Bad Boy,('.', '1000kr'),1
-Bad Boy,('1000kr', 'to'),1
-Bad Boy,('my', 'good'),1
-Bad Boy,('good', 'man'),1
-Bad Boy,('man', '...'),1
-Bad Boy,('...', 'nan'),1
-Bad Boy,('I', 'got'),1
-Bad Boy,('got', 'a'),1
-Bad Boy,('a', 'few'),1
-Bad Boy,('few', 'things'),1
-Bad Boy,('things', 'to'),1
-Bad Boy,('buy', 'and'),1
-Bad Boy,('and', 'sell'),1
-Bad Boy,('sell', '.'),1
-Bad Boy,('can', 'fence'),1
-Bad Boy,('fence', 'some'),1
-Bad Boy,('some', 'of'),1
-Bad Boy,('of', 'your'),1
-Bad Boy,('your', 'gear'),1
-Bad Boy,('gear', 'if'),1
-Bad Boy,('if', 'you'),1
-Bad Boy,('you', 'like'),1
-Bad Boy,('like', '?'),1
-Bad Boy,('?', 'What'),2
-Bad Boy,('What', 'u'),1
-Bad Boy,('u', 'got'),1
-Bad Boy,('got', 'dude'),1
-Bad Boy,('dude', '....'),1
-Bad Boy,('....', 'Christ'),1
-Bad Boy,('Christ', 'almighty'),2
-Bad Boy,('almighty', '.'),1
-Bad Boy,('Did', 'you'),1
-Bad Boy,('you', 'rob'),1
-Bad Boy,('rob', 'a'),1
-Bad Boy,('a', 'bank'),1
-Bad Boy,('bank', '?'),1
-Bad Boy,('to', 'see'),1
-Bad Boy,('see', 'this'),1
-Bad Boy,('this', 'stuff'),1
-Bad Boy,('stuff', 'in'),1
-Bad Boy,('in', 'person'),1
-Bad Boy,('person', 'and'),1
-Bad Boy,('and', 'check'),1
-Bad Boy,('check', 'the'),1
-Bad Boy,('the', 'quality'),1
-Bad Boy,('quality', 'of'),1
-Bad Boy,('the', 'merchandise'),1
-Bad Boy,('merchandise', '.'),1
-Bad Boy,('.', 'For'),1
-Bad Boy,('For', 'all'),1
-Bad Boy,('all', 'I'),1
-Bad Boy,('you', 'just'),1
-Bad Boy,('just', 'downloaded'),1
-Bad Boy,('downloaded', 'this'),1
-Bad Boy,('shit', 'off'),1
-Bad Boy,('off', 'the'),1
-Bad Boy,('the', 'internet'),1
-Bad Boy,('internet', '.'),1
-Bad Boy,('.', 'Not'),1
-Bad Boy,('Not', 'that'),1
-Bad Boy,('that', 'I'),1
-Bad Boy,('I', 'do'),2
-Bad Boy,('do', "n't"),2
-Bad Boy,("n't", 'trust'),1
-Bad Boy,('trust', 'you'),1
-Bad Boy,('you', 'but'),1
-Bad Boy,('but', 'I'),1
-Bad Boy,("n't", '....'),1
-Bad Boy,('nan', 'Send'),1
-Bad Boy,('Send', 'me'),1
-Bad Boy,('a', 'sample'),1
-Bad Boy,('sample', 'tonight'),1
-Bad Boy,('tonight', 'Dude'),1
-Bad Boy,('Dude', 'stop'),1
-Bad Boy,('stop', 'sending'),1
-Bad Boy,('sending', 'me'),1
-Bad Boy,('me', 'useless'),1
-Bad Boy,('useless', 'shit'),1
-Bad Boy,('shit', 'and'),1
-Bad Boy,('and', 'let'),1
-Bad Boy,("'s", 'get'),1
-Bad Boy,('get', 'down'),1
-Bad Boy,('down', 'to'),1
-Bad Boy,('to', 'business'),1
-Bad Boy,('business', '...'),1
-Bad Boy,('...', 'You'),1
-Bad Boy,('You', 'pay'),1
-Bad Boy,('pay', 'a'),1
-Bad Boy,('a', 'lot'),1
-Bad Boy,('lot', 'my'),1
-Bad Boy,('friend', '....'),1
-Bad Boy,('....', 'Nice'),1
-Bad Boy,('Nice', '.'),1
-Bad Boy,('.', 'Dollar'),1
-Bad Boy,('Dollar', 'seems'),1
-Bad Boy,('seems', 'pretty'),1
-Bad Boy,('pretty', 'worthless'),1
-Bad Boy,('worthless', 'right'),1
-Bad Boy,('right', 'now'),1
-Bad Boy,('now', ','),1
-Bad Boy,(',', 'so'),1
-Bad Boy,('so', 'happy'),1
-Bad Boy,('happy', 'the'),1
-Bad Boy,('the', 'cat'),1
-Bad Boy,('cat', 'liked'),1
-Bad Boy,('liked', 'it'),1
-Bad Boy,('it', '.'),1
-Bad Boy,('much', '?'),2
-Bad Boy,('nan', 'Really'),1
-Bad Boy,('Really', '?'),1
-Bad Boy,('?', 'Do'),1
-Bad Boy,('Do', "n't"),1
-Bad Boy,("n't", 'bother'),1
-Bad Boy,('bother', 'then'),1
-Bad Boy,('then', '....'),1
-Bad Boy,('....', 'Tick'),1
-Bad Boy,('Tick', 'Tock'),1
-Bad Boy,('Tock', 'nan'),1
-Bad Boy,('nan', 'Well'),1
-Bad Boy,('Well', 'you'),1
-Bad Boy,('you', 'know'),1
-Bad Boy,('know', 'me'),1
-Bad Boy,('I', 'like'),1
-Bad Boy,('like', 'some'),1
-Bad Boy,('some', 'trouble'),1
-Bad Boy,('trouble', 'because'),1
-Bad Boy,('because', 'I'),1
-Bad Boy,("'m", 'a'),1
-Bad Boy,('a', 'bad'),1
-Bad Boy,('bad', 'boy'),1
-Bad Boy,('boy', '!'),1
-Bad Boy,('!', '!'),3
-Bad Boy,('I', 'give'),1
-Bad Boy,('give', 'you'),1
-Bad Boy,('you', '1000kr'),1
-Bad Boy,('1000kr', 'tomorrow'),1
-Bad Boy,('tomorrow', 'I'),1
-Bad Boy,('I', 'guess'),1
-Bad Boy,('guess', 'I'),1
-Bad Boy,('I', 'should'),1
-Bad Boy,('should', "n't"),1
-Bad Boy,("n't", 'ask'),1
-Bad Boy,('ask', 'where'),1
-Bad Boy,('where', 'they'),1
-Bad Boy,('they', 'came'),1
-Bad Boy,('came', 'from'),1
-Bad Boy,('from', '?'),1
-Bad Boy,('What', "'s"),1
-Bad Boy,("'s", 'up'),1
-Bad Boy,('up', '?'),1
-Bad Boy,('?', 'Got'),1
-Bad Boy,('Got', 'any'),1
-Bad Boy,('any', 'gear'),1
-Bad Boy,('?', 'Gold'),1
-Bad Boy,('Gold', 'stuff'),1
-Bad Boy,('stuff', '?'),1
-Bad Boy,('?', 'Yerrrrr\\nHow'),1
-Bad Boy,('Yerrrrr\\nHow', 'much'),1
-Bad Boy,('?', 'Christ'),1
-Bad Boy,('almighty', 'that'),1
-Bad Boy,("'s", 'steep'),1
-Bad Boy,('steep', '.'),1
-Bad Boy,('.', '7500kr'),1
-Bad Boy,('7500kr', 'best'),1
-Bad Boy,('best', 'offer4'),1
-Bad Boy,('offer4', 'Hey'),1
-Bad Boy,('Hey', 'you'),1
-Bad Boy,('you', 'looking'),1
-Bad Boy,('looking', 'for'),1
-Bad Boy,('for', 'a'),1
-Bad Boy,('a', 'safe'),1
-Bad Boy,('safe', 'cracker'),1
-Bad Boy,('cracker', '?'),1
-Bad Boy,('Ok', 'deal'),1
-Bad Boy,('deal', 'nan'),1
-Maverick SOB,('Oh', 'jeez'),1
-Maverick SOB,('jeez', '.'),1
-Maverick SOB,('.', 'U'),1
-Maverick SOB,('U', 'r'),1
-Maverick SOB,('r', 'everywhere'),1
-Maverick SOB,('everywhere', 'What'),1
-Maverick SOB,('What', 'do'),1
-Maverick SOB,('do', 'you'),2
-Maverick SOB,('you', 'want'),2
-Maverick SOB,('want', 'man'),1
-Maverick SOB,('man', '?'),1
-Maverick SOB,('?', 'OK'),4
-Maverick SOB,('OK', 'but'),1
-Maverick SOB,('but', 'how'),1
-Maverick SOB,('how', 'can'),1
-Maverick SOB,('can', 'I'),1
-Maverick SOB,('I', 'trust'),1
-Maverick SOB,('trust', 'you'),1
-Maverick SOB,('you', 'after'),1
-Maverick SOB,('after', 'last'),1
-Maverick SOB,('last', 'time'),1
-Maverick SOB,('time', '?'),1
-Maverick SOB,('?', 'You'),1
-Maverick SOB,('You', 'really'),1
-Maverick SOB,('really', 'screwed'),1
-Maverick SOB,('screwed', 'up'),1
-Maverick SOB,('up', '...'),1
-Maverick SOB,('...', 'Ha'),1
-Maverick SOB,('Ha', 'yer'),1
-Maverick SOB,('yer', 'right'),1
-Maverick SOB,('right', '.'),1
-Maverick SOB,('.', 'How'),2
-Maverick SOB,('How', 'many'),1
-Maverick SOB,('many', 'times'),1
-Maverick SOB,('times', 'have'),1
-Maverick SOB,('have', 'I'),1
-Maverick SOB,('I', 'heard'),1
-Maverick SOB,('heard', 'that'),1
-Maverick SOB,('that', 'shit'),1
-Maverick SOB,('shit', 'before'),1
-Maverick SOB,('before', '.'),1
-Maverick SOB,('.', '≡ƒñö'),1
-Maverick SOB,('≡ƒñö', 'I'),1
-Maverick SOB,('I', 'need'),3
-Maverick SOB,('need', 'to'),2
-Maverick SOB,('to', 'speak'),2
-Maverick SOB,('speak', 'to'),2
-Maverick SOB,('to', 'Goose'),1
-Maverick SOB,('Goose', 'about'),1
-Maverick SOB,('about', 'this'),1
-Maverick SOB,('this', '...'),2
-Maverick SOB,('...', 'OK'),2
-Maverick SOB,('OK', 'Bad'),1
-Maverick SOB,('Bad', 'Boy'),1
-Maverick SOB,('Boy', '...'),1
-Maverick SOB,('...', 'Goose'),1
-Maverick SOB,('Goose', 'agreed'),1
-Maverick SOB,('agreed', 'to'),1
-Maverick SOB,('to', 'give'),1
-Maverick SOB,('give', 'you'),1
-Maverick SOB,('you', 'a'),1
-Maverick SOB,('a', 'second'),1
-Maverick SOB,('second', 'chance'),1
-Maverick SOB,('chance', ','),1
-Maverick SOB,(',', 'but'),2
-Maverick SOB,('but', 'you'),1
-Maverick SOB,('you', 'need'),1
-Maverick SOB,('to', 'do'),1
-Maverick SOB,('do', 'everything'),1
-Maverick SOB,('everything', 'we'),1
-Maverick SOB,('we', 'say'),1
-Maverick SOB,('say', 'OK'),1
-Maverick SOB,('OK', '?'),3
-Maverick SOB,('?', 'Dear'),1
-Maverick SOB,('Dear', 'God'),1
-Maverick SOB,('God', ','),1
-Maverick SOB,(',', 'please'),1
-Maverick SOB,('please', 'make'),1
-Maverick SOB,('make', 'sure'),2
-Maverick SOB,('sure', 'I'),1
-Maverick SOB,('I', 'do'),1
-Maverick SOB,('do', "n't"),2
-Maverick SOB,("n't", '.'),1
-Maverick SOB,('.', 'Sick'),1
-Maverick SOB,('Sick', 'of'),1
-Maverick SOB,('of', 'cleaning'),1
-Maverick SOB,('cleaning', 'up'),1
-Maverick SOB,('up', 'after'),1
-Maverick SOB,('after', 'others'),1
-Maverick SOB,('others', '.'),1
-Maverick SOB,('.', 'First'),1
-Maverick SOB,('First', 'job'),1
-Maverick SOB,('job', '.'),2
-Maverick SOB,('.', 'Find'),1
-Maverick SOB,('Find', 'us'),1
-Maverick SOB,('us', 'a'),1
-Maverick SOB,('a', 'place'),1
-Maverick SOB,('place', 'to'),1
-Maverick SOB,('to', 'rob'),1
-Maverick SOB,('rob', '..'),1
-Maverick SOB,('..', 'In'),1
-Maverick SOB,('In', 'the'),1
-Maverick SOB,('the', 'city'),1
-Maverick SOB,('city', '?'),1
-Maverick SOB,('?', 'Nah'),1
-Maverick SOB,('Nah', 'man'),1
-Maverick SOB,('man', 'that'),1
-Maverick SOB,('that', "'s"),1
-Maverick SOB,("'s", 'someone'),1
-Maverick SOB,('someone', 'else'),1
-Maverick SOB,('else', "'s"),1
-Maverick SOB,("'s", 'turf'),1
-Maverick SOB,('turf', '.'),1
-Maverick SOB,('.', 'We'),3
-Maverick SOB,('We', 'stick'),1
-Maverick SOB,('stick', 'to'),1
-Maverick SOB,('to', 'the'),1
-Maverick SOB,('the', 'suburbs'),1
-Maverick SOB,('suburbs', 'or'),1
-Maverick SOB,('or', 'get'),1
-Maverick SOB,('get', 'whacked'),1
-Maverick SOB,('whacked', '.'),1
-Maverick SOB,('.', 'Local'),1
-Maverick SOB,('Local', 'numbers'),1
-Maverick SOB,('numbers', 'only'),1
-Maverick SOB,('only', 'Maybe'),1
-Maverick SOB,('Maybe', '.'),1
-Maverick SOB,('How', 'much'),1
-Maverick SOB,('much', 'do'),1
-Maverick SOB,('want', '?'),1
-Maverick SOB,('?', 'Deal'),1
-Maverick SOB,('Deal', 'OK'),1
-Maverick SOB,('OK', 'later'),1
-Maverick SOB,('later', 'on'),1
-Maverick SOB,('on', 'meet'),1
-Maverick SOB,('meet', 'here'),1
-Maverick SOB,('here', '.'),2
-Maverick SOB,('.', 'nan'),3
-Maverick SOB,('nan', 'What'),2
-Maverick SOB,('What', 'time'),1
-Maverick SOB,('time', 'do'),1
-Maverick SOB,('do', 'ya'),1
-Maverick SOB,('ya', 'think'),1
-Maverick SOB,('think', '?'),1
-Maverick SOB,('?', 'Yer'),1
-Maverick SOB,('Yer', 'OK'),2
-Maverick SOB,('OK', 'I'),3
-Maverick SOB,('I', 'can'),1
-Maverick SOB,('can', 'do'),1
-Maverick SOB,('do', 'that'),1
-Maverick SOB,('that', '.'),1
-Maverick SOB,('.', 'See'),2
-Maverick SOB,('See', 'you'),2
-Maverick SOB,('you', 'there'),1
-Maverick SOB,('there', 'shortly'),1
-Maverick SOB,('shortly', '.'),1
-Maverick SOB,('.', 'Bring'),2
-Maverick SOB,('Bring', 'the'),2
-Maverick SOB,('the', 'packages'),1
-Maverick SOB,('packages', '≡ƒôª'),1
-Maverick SOB,('≡ƒôª', 'nan'),1
-Maverick SOB,('nan', 'Good'),1
-Maverick SOB,('Good', 'idea'),1
-Maverick SOB,('idea', 'to'),1
-Maverick SOB,('to', 'make'),2
-Maverick SOB,('make', 'it'),1
-Maverick SOB,('it', 'look'),1
-Maverick SOB,('look', 'like'),1
-Maverick SOB,('like', 'you'),1
-Maverick SOB,('you', 'were'),1
-Maverick SOB,('were', 'just'),1
-Maverick SOB,('just', 'picking'),1
-Maverick SOB,('picking', 'up'),1
-Maverick SOB,('up', 'a'),1
-Maverick SOB,('a', 'regular'),1
-Maverick SOB,('regular', 'parcel'),1
-Maverick SOB,('parcel', '.'),1
-Maverick SOB,('.', 'That'),1
-Maverick SOB,('That', 'was'),1
-Maverick SOB,('was', 'an'),1
-Maverick SOB,('an', 'expensive'),1
-Maverick SOB,('expensive', 'trade'),1
-Maverick SOB,('trade', 'nan'),1
-Maverick SOB,('nan', 'Funnily'),1
-Maverick SOB,('Funnily', 'enough'),1
-Maverick SOB,('enough', 'I'),1
-Maverick SOB,('I', 'have'),1
-Maverick SOB,('have', 'a'),1
-Maverick SOB,('a', 'kilo'),1
-Maverick SOB,('kilo', 'of'),1
-Maverick SOB,('of', 'white'),1
-Maverick SOB,('white', 'powder'),1
-Maverick SOB,('powder', 'available'),1
-Maverick SOB,('available', '...'),1
-Maverick SOB,('...', 'nan'),5
-Maverick SOB,('nan', '$'),1
-Maverick SOB,('$', '110,000'),1
-Maverick SOB,('110,000', 'allowing'),1
-Maverick SOB,('allowing', 'for'),1
-Maverick SOB,('for', 'inflation'),1
-Maverick SOB,('inflation', '...'),1
-Maverick SOB,('...', 'Yes'),1
-Maverick SOB,('Yes', 'well'),1
-Maverick SOB,('well', 'finest'),1
-Maverick SOB,('finest', 'quality'),1
-Maverick SOB,('quality', ','),1
-Maverick SOB,(',', 'very'),1
-Maverick SOB,('very', 'cheap'),1
-Maverick SOB,('cheap', 'to'),1
-Maverick SOB,('to', 'you'),1
-Maverick SOB,('you', 'my'),1
-Maverick SOB,('my', 'friend'),1
-Maverick SOB,('friend', '.'),1
-Maverick SOB,('.', 'You'),3
-Maverick SOB,('You', 'can'),1
-Maverick SOB,('can', 'cut'),1
-Maverick SOB,('cut', 'it'),1
-Maverick SOB,('it', 'down'),1
-Maverick SOB,('down', 'and'),1
-Maverick SOB,('and', 'quadruple'),1
-Maverick SOB,('quadruple', 'the'),1
-Maverick SOB,('the', 'value'),1
-Maverick SOB,('value', '...'),1
-Maverick SOB,('...', 'Tick'),1
-Maverick SOB,('Tick', 'tock'),1
-Maverick SOB,('tock', '....'),1
-Maverick SOB,('....', 'Just'),1
-Maverick SOB,('Just', 'what'),1
-Maverick SOB,('what', 'I'),1
-Maverick SOB,('I', 'needed'),1
-Maverick SOB,('needed', 'to'),1
-Maverick SOB,('to', 'hear'),1
-Maverick SOB,('hear', 'thank'),1
-Maverick SOB,('thank', 'you'),1
-Maverick SOB,('you', '.'),1
-Maverick SOB,('.', 'Let'),1
-Maverick SOB,('Let', "'s"),1
-Maverick SOB,("'s", 'do'),1
-Maverick SOB,('do', 'Wednesday'),1
-Maverick SOB,('Wednesday', 'evening'),1
-Maverick SOB,('evening', '.'),1
-Maverick SOB,('.', '≡ƒæî'),1
-Maverick SOB,('≡ƒæî', 'I'),1
-Maverick SOB,('I', 'will'),2
-Maverick SOB,('will', 'be'),2
-Maverick SOB,('be', 'there'),2
-Maverick SOB,('there', 'bring'),1
-Maverick SOB,('bring', 'the'),2
-Maverick SOB,('the', 'cash'),2
-Maverick SOB,('cash', 'and'),1
-Maverick SOB,('and', 'you'),1
-Maverick SOB,('you', 'get'),1
-Maverick SOB,('get', 'the'),1
-Maverick SOB,('the', 'delivery'),1
-Maverick SOB,('delivery', 'of'),1
-Maverick SOB,('of', 'powder'),1
-Maverick SOB,('powder', '....'),1
-Maverick SOB,('....', '10.minutes'),1
-Maverick SOB,('10.minutes', 'OK'),1
-Maverick SOB,('I', "'m"),2
-Maverick SOB,("'m", 'here'),1
-Maverick SOB,('here', 'now'),1
-Maverick SOB,('now', '.'),2
-Maverick SOB,('.', 'Black'),1
-Maverick SOB,('Black', 'jacket'),1
-Maverick SOB,('jacket', '.'),1
-Maverick SOB,('.', 'Where'),1
-Maverick SOB,('Where', 'are'),1
-Maverick SOB,('are', 'you'),1
-Maverick SOB,('you', 'at'),1
-Maverick SOB,('at', '?'),1
-Maverick SOB,('?', '?'),18
-Maverick SOB,('OK', 'yes'),1
-Maverick SOB,('yes', 'yes'),1
-Maverick SOB,('yes', 'I'),2
-Maverick SOB,('I', 'see'),1
-Maverick SOB,('see', 'you'),1
-Maverick SOB,('you', '≡ƒæÇ'),1
-Maverick SOB,('≡ƒæÇ', 'nan'),1
-Maverick SOB,('nan', 'Pleasure'),1
-Maverick SOB,('Pleasure', 'doing'),1
-Maverick SOB,('doing', 'business'),1
-Maverick SOB,('business', 'with'),1
-Maverick SOB,('with', 'you'),1
-Maverick SOB,('you', 'Yer'),1
-Maverick SOB,('Yer', 'absolutely'),1
-Maverick SOB,('absolutely', 'Wow'),1
-Maverick SOB,('Wow', 'really'),1
-Maverick SOB,('really', '?'),1
-Maverick SOB,('?', '\\nOK'),1
-Maverick SOB,('\\nOK', 'let'),1
-Maverick SOB,('let', 'me'),2
-Maverick SOB,('me', 'check'),1
-Maverick SOB,('check', 'Γ£ö'),1
-Maverick SOB,('Γ£ö', 'God'),1
-Maverick SOB,('God', 'damn'),1
-Maverick SOB,('damn', '.'),1
-Maverick SOB,('.', 'OK'),1
-Maverick SOB,('will', 'put'),1
-Maverick SOB,('put', 'another'),1
-Maverick SOB,('another', 'call'),1
-Maverick SOB,('call', 'in'),1
-Maverick SOB,('in', '...'),1
-Maverick SOB,('nan', 'Are'),1
-Maverick SOB,('Are', 'you'),1
-Maverick SOB,('you', 'watching'),1
-Maverick SOB,('watching', 'me'),1
-Maverick SOB,('me', '?'),2
-Maverick SOB,('OK', 'ok'),2
-Maverick SOB,('ok', 'So'),1
-Maverick SOB,('So', 'you'),1
-Maverick SOB,('you', 'still'),1
-Maverick SOB,('still', 'want'),1
-Maverick SOB,('want', 'stuff'),1
-Maverick SOB,('stuff', '?'),1
-Maverick SOB,('ok', 'working'),1
-Maverick SOB,('working', 'on'),1
-Maverick SOB,('on', 'it'),1
-Maverick SOB,('it', 'nan'),1
-Maverick SOB,('nan', 'Yer'),1
-Maverick SOB,('OK', 'man'),1
-Maverick SOB,('man', 'I'),1
-Maverick SOB,('I', 'got'),1
-Maverick SOB,('got', 'the'),1
-Maverick SOB,('the', 'message'),1
-Maverick SOB,('message', 'nan'),1
-Maverick SOB,('nan', 'A'),1
-Maverick SOB,('A', 'package'),1
-Maverick SOB,('package', 'has'),1
-Maverick SOB,('has', 'arrived'),1
-Maverick SOB,('arrived', '....'),1
-Maverick SOB,('....', 'You'),1
-Maverick SOB,('You', 'still'),1
-Maverick SOB,('still', 'in'),1
-Maverick SOB,('in', 'the'),1
-Maverick SOB,('the', 'market'),1
-Maverick SOB,('market', '?'),1
-Maverick SOB,('?', 'Not'),1
-Maverick SOB,('Not', 'as'),1
-Maverick SOB,('as', 'big'),1
-Maverick SOB,('big', 'a'),1
-Maverick SOB,('a', 'quantity'),1
-Maverick SOB,('quantity', 'available'),1
-Maverick SOB,('available', 'this'),1
-Maverick SOB,('this', 'time'),1
-Maverick SOB,('time', '.'),1
-Maverick SOB,('.', '15,000kr'),1
-Maverick SOB,('15,000kr', 'for'),1
-Maverick SOB,('for', '100'),1
-Maverick SOB,('100', 'grams'),1
-Maverick SOB,('grams', 'Yep'),1
-Maverick SOB,('Yep', '.'),1
-Maverick SOB,('.', 'Will'),2
-Maverick SOB,('Will', 'let'),2
-Maverick SOB,('let', 'you'),2
-Maverick SOB,('you', 'know'),2
-Maverick SOB,('know', '.'),1
-Maverick SOB,('.', 'Need'),1
-Maverick SOB,('Need', 'to'),1
-Maverick SOB,('to', 'someone'),1
-Maverick SOB,('someone', '...'),1
-Maverick SOB,('OK', 'that'),1
-Maverick SOB,('that', 'works'),1
-Maverick SOB,('works', '.'),1
-Maverick SOB,('you', 'tomorrow'),1
-Maverick SOB,('tomorrow', 'Yes'),1
-Maverick SOB,('Yes', 'be'),1
-Maverick SOB,('there', 'sometime'),1
-Maverick SOB,('sometime', 'between'),1
-Maverick SOB,('between', '6.30-7pm'),1
-Maverick SOB,('6.30-7pm', '.'),1
-Maverick SOB,('know', 'when'),1
-Maverick SOB,('when', 'I'),1
-Maverick SOB,('I', 'leave'),1
-Maverick SOB,('leave', 'with'),1
-Maverick SOB,('with', 'a'),1
-Maverick SOB,('a', '30'),1
-Maverick SOB,('30', 'min'),1
-Maverick SOB,('min', 'warning'),1
-Maverick SOB,('warning', '.'),1
-Maverick SOB,('cash', '≡ƒÆ╕'),1
-Maverick SOB,('≡ƒÆ╕', 'Good'),1
-Maverick SOB,('Good', '≡ƒæì'),1
-Maverick SOB,('≡ƒæì', 'OK'),1
-Maverick SOB,('OK', 'got'),1
-Maverick SOB,('got', 'some'),1
-Maverick SOB,('some', 'jobs'),1
-Maverick SOB,('jobs', 'done'),1
-Maverick SOB,('done', 'and'),1
-Maverick SOB,('and', 'on'),1
-Maverick SOB,('on', 'schedule'),1
-Maverick SOB,('schedule', '.'),1
-Maverick SOB,('.', 'Be'),1
-Maverick SOB,('Be', 'there'),1
-Maverick SOB,('there', 'on'),1
-Maverick SOB,('on', 'time'),1
-Maverick SOB,('time', 'or'),1
-Maverick SOB,('or', 'early'),1
-Maverick SOB,('early', 'As'),1
-Maverick SOB,('As', 'and'),1
-Maverick SOB,('and', 'when'),1
-Maverick SOB,('when', '.'),1
-Maverick SOB,('.', 'Just'),1
-Maverick SOB,('Just', 'bring'),1
-Maverick SOB,('the', '≡ƒÆ░'),1
-Maverick SOB,('≡ƒÆ░', 'Yes'),1
-Maverick SOB,('Yes', 'you'),1
-Maverick SOB,('you', 'can'),1
-Maverick SOB,('can', 'trust'),1
-Maverick SOB,('trust', 'me'),1
-Maverick SOB,('me', ':'),1
-Maverick SOB,(':', ')'),1
-Maverick SOB,(')', 'Meet'),1
-Maverick SOB,('Meet', 'me'),3
-Maverick SOB,('me', 'outside'),1
-Maverick SOB,('outside', 'back'),1
-Maverick SOB,('back', 'of'),1
-Maverick SOB,('of', 'shop'),1
-Maverick SOB,('shop', 'Meet'),1
-Maverick SOB,('me', 'here'),1
-Maverick SOB,('nan', 'nan'),16
-Maverick SOB,('nan', 'Likewise'),1
-Maverick SOB,('Likewise', '.'),1
-Maverick SOB,('.', 'Call'),1
-Maverick SOB,('Call', 'again'),1
-Maverick SOB,('again', ';'),1
-Maverick SOB,(';', ')'),1
-Maverick SOB,(')', 'Hey'),1
-Maverick SOB,('Hey', '.'),1
-Maverick SOB,('.', 'If'),1
-Maverick SOB,('If', 'you'),1
-Maverick SOB,('you', 'hear'),1
-Maverick SOB,('hear', 'from'),1
-Maverick SOB,('from', 'Goose'),1
-Maverick SOB,('Goose', ','),1
-Maverick SOB,(',', 'let'),1
-Maverick SOB,('me', 'know'),1
-Maverick SOB,('know', 'please'),1
-Maverick SOB,('please', '.'),1
-Maverick SOB,('We', 'had'),1
-Maverick SOB,('had', 'a'),1
-Maverick SOB,('a', 'disagreement'),1
-Maverick SOB,('disagreement', '.'),1
-Maverick SOB,('.', 'Want'),1
-Maverick SOB,('Want', 'to'),3
-Maverick SOB,('sure', 'he'),1
-Maverick SOB,('he', 'does'),2
-Maverick SOB,('does', "n't"),1
-Maverick SOB,("n't", 'start'),1
-Maverick SOB,('start', 'doing'),1
-Maverick SOB,('doing', 'deals'),1
-Maverick SOB,('deals', 'behind'),1
-Maverick SOB,('behind', 'my'),1
-Maverick SOB,('my', 'back'),1
-Maverick SOB,('back', '....'),1
-Maverick SOB,('....', 'I'),1
-Maverick SOB,('I', 'am'),1
-Maverick SOB,('am', 'your'),1
-Maverick SOB,('your', 'supplier'),1
-Maverick SOB,('supplier', 'OK'),1
-Maverick SOB,('?', 'No'),1
-Maverick SOB,('No', 'man'),1
-Maverick SOB,('man', '.'),1
-Maverick SOB,('.', 'Did'),1
-Maverick SOB,('Did', "n't"),1
-Maverick SOB,("n't", 'notice'),1
-Maverick SOB,('notice', 'the'),1
-Maverick SOB,('the', 'date'),1
-Maverick SOB,('date', 'until'),1
-Maverick SOB,('until', 'now'),1
-Maverick SOB,('.', 'This'),1
-Maverick SOB,('This', 'is'),1
-Maverick SOB,('is', 'straight'),1
-Maverick SOB,('straight', 'up'),1
-Maverick SOB,('up', 'serious'),1
-Maverick SOB,('serious', '.'),1
-Maverick SOB,('We', 'have'),1
-Maverick SOB,('have', 'internal'),1
-Maverick SOB,('internal', 'issues'),1
-Maverick SOB,('issues', '.'),1
-Maverick SOB,('.', 'No'),1
-Maverick SOB,('No', 'problem'),1
-Maverick SOB,('problem', 'for'),1
-Maverick SOB,('for', 'you'),2
-Maverick SOB,('you', ','),1
-Maverick SOB,('but', 'only'),1
-Maverick SOB,('only', 'talk'),1
-Maverick SOB,('talk', 'to'),1
-Maverick SOB,('to', 'me'),1
-Maverick SOB,('me', 'OK'),1
-Maverick SOB,('?', 'Yes'),1
-Maverick SOB,('Yes', 'yes'),1
-Maverick SOB,('yes', '.'),1
-Maverick SOB,('.', 'And'),1
-Maverick SOB,('And', 'if'),1
-Maverick SOB,('if', 'he'),1
-Maverick SOB,('does', 'reach'),1
-Maverick SOB,('reach', 'out'),1
-Maverick SOB,('out', ','),1
-Maverick SOB,(',', 'do'),1
-Maverick SOB,("n't", 'listen'),1
-Maverick SOB,('listen', 'to'),1
-Maverick SOB,('to', 'any'),1
-Maverick SOB,('any', 'of'),1
-Maverick SOB,('of', 'his'),1
-Maverick SOB,('his', 'nonsense'),1
-Maverick SOB,('nonsense', '.'),1
-Maverick SOB,('.', 'Guy'),1
-Maverick SOB,('Guy', 'is'),1
-Maverick SOB,('is', 'acting'),1
-Maverick SOB,('acting', 'the'),1
-Maverick SOB,('the', 'fool'),1
-Maverick SOB,('fool', 'right'),1
-Maverick SOB,('right', 'now'),1
-Maverick SOB,('now', 'alright'),1
-Maverick SOB,('alright', '≡ƒÖä'),1
-Maverick SOB,('≡ƒÖä', 'Sure'),1
-Maverick SOB,('Sure', '...'),1
-Maverick SOB,('...', 'Dude'),1
-Maverick SOB,('Dude', '.'),1
-Maverick SOB,('.', 'All'),1
-Maverick SOB,('All', 'is'),1
-Maverick SOB,('is', 'good'),1
-Maverick SOB,('good', '.'),1
-Maverick SOB,('.', 'Relax'),1
-Maverick SOB,('Relax', '.'),1
-Maverick SOB,('.', 'I'),2
-Maverick SOB,('I', 'take'),1
-Maverick SOB,('take', 'care'),1
-Maverick SOB,('care', 'of'),1
-Maverick SOB,('of', 'all'),1
-Maverick SOB,('all', 'this'),2
-Maverick SOB,('...', 'Split'),1
-Maverick SOB,('Split', 'personality'),1
-Maverick SOB,('personality', '?'),1
-Maverick SOB,('?', 'nan'),8
-Maverick SOB,('nan', 'Damn'),2
-Maverick SOB,('Damn', '...'),1
-Maverick SOB,('...', 'what'),1
-Maverick SOB,('what', 'else'),1
-Maverick SOB,('else', 'u'),1
-Maverick SOB,('u', 'got'),1
-Maverick SOB,('got', '.'),1
-Maverick SOB,('need', 'tools'),1
-Maverick SOB,('tools', 'for'),1
-Maverick SOB,('for', '2'),1
-Maverick SOB,('2', 'at'),1
-Maverick SOB,('at', 'least'),1
-Maverick SOB,('least', 'on'),1
-Maverick SOB,('on', 'next'),1
-Maverick SOB,('next', 'job'),1
-Maverick SOB,('nan', 'Got'),1
-Maverick SOB,('Got', 'some'),1
-Maverick SOB,('some', 'more'),1
-Maverick SOB,('more', 'for'),1
-Maverick SOB,('you', '...'),1
-Maverick SOB,('Damn', 'man'),1
-Maverick SOB,('man', 'you'),1
-Maverick SOB,('you', "'re"),1
-Maverick SOB,("'re", 'Fagin'),1
-Maverick SOB,('Fagin', 'now'),1
-Maverick SOB,('now', '?'),1
-Maverick SOB,('?', 'So'),1
-Maverick SOB,('So', 'what'),1
-Maverick SOB,('what', "'s"),1
-Maverick SOB,("'s", 'up'),1
-Maverick SOB,('up', '.'),1
-Maverick SOB,('You', 'selling'),1
-Maverick SOB,('selling', 'anything'),1
-Maverick SOB,('anything', 'more'),1
-Maverick SOB,('more', '?'),1
-Maverick SOB,('?', 'Oh'),1
-Maverick SOB,('Oh', 'man'),1
-Maverick SOB,('man', ','),1
-Maverick SOB,(',', 'yes'),1
-Maverick SOB,('need', 'help'),1
-Maverick SOB,('help', 'to'),1
-Maverick SOB,('to', 'shift'),1
-Maverick SOB,('shift', 'all'),1
-Maverick SOB,('this', 'stolen'),1
-Maverick SOB,('stolen', 'gear'),2
-Maverick SOB,('gear', '.'),1
-Maverick SOB,('.', 'There'),1
-Maverick SOB,('There', "'s"),1
-Maverick SOB,("'s", 'so'),1
-Maverick SOB,('so', 'much'),1
-Maverick SOB,('much', 'of'),1
-Maverick SOB,('of', 'it'),1
-Maverick SOB,('it', '.'),1
-Maverick SOB,('.', 'The'),1
-Maverick SOB,('The', 'team'),1
-Maverick SOB,('team', 'have'),1
-Maverick SOB,('have', 'been'),1
-Maverick SOB,('been', 'busy'),1
-Maverick SOB,('busy', 'little'),1
-Maverick SOB,('little', 'bees'),1
-Maverick SOB,('bees', '≡ƒÉ¥'),1
-Maverick SOB,('≡ƒÉ¥', 'nan'),1
-Maverick SOB,('What', 'can'),1
-Maverick SOB,('can', 'you'),1
-Maverick SOB,('you', 'offer'),1
-Maverick SOB,('offer', 'me'),1
-Maverick SOB,('nan', 'Spicy'),1
-Maverick SOB,('Spicy', '?'),1
-Maverick SOB,('nan', 'Snowy'),1
-Maverick SOB,('Snowy', '≡ƒî¿'),1
-Maverick SOB,('≡ƒî¿', 'out'),1
-Maverick SOB,('out', 'nan'),1
-Maverick SOB,('nan', 'Want'),2
-Maverick SOB,('to', 'buy'),2
-Maverick SOB,('buy', 'some'),1
-Maverick SOB,('some', 'candlesticks'),1
-Maverick SOB,('candlesticks', '?'),1
-Maverick SOB,('nan', 'I'),1
-Maverick SOB,('I', 'pay'),1
-Maverick SOB,('pay', '...'),1
-Maverick SOB,('nan', '('),1
-Maverick SOB,('(', 'smiley'),1
-Maverick SOB,('smiley', ')'),1
-Maverick SOB,(')', 'OK'),1
-Maverick SOB,('OK', 'will'),1
-Maverick SOB,('be', 'careful'),1
-Maverick SOB,('careful', '...'),1
-Maverick SOB,('nan', '500kr'),1
-Maverick SOB,('500kr', 'Your'),1
-Maverick SOB,('Your', 'loss'),1
-Maverick SOB,('loss', ','),1
-Maverick SOB,(',', 'not'),1
-Maverick SOB,('not', 'mine'),1
-Maverick SOB,('mine', '.'),1
-Maverick SOB,('You', 'photo'),1
-Maverick SOB,('photo', 'bombed'),1
-Maverick SOB,('bombed', '?'),1
-Maverick SOB,('buy', '?'),1
-Maverick SOB,('nan', 'Yes'),1
-Maverick SOB,('Yes', 'they'),1
-Maverick SOB,('they', 'were'),1
-Maverick SOB,('were', 'my'),1
-Maverick SOB,('my', 'grandma'),1
-Maverick SOB,('grandma', "'s"),1
-Maverick SOB,("'s", 'of'),1
-Maverick SOB,('of', 'course'),1
-Maverick SOB,('course', '...'),1
-Maverick SOB,('...', '\\nDude'),1
-Maverick SOB,('\\nDude', 'like'),1
-Maverick SOB,('like', 'I'),1
-Maverick SOB,("'m", 'really'),1
-Maverick SOB,('really', 'going'),1
-Maverick SOB,('going', 'to'),1
-Maverick SOB,('to', 'admit'),1
-Maverick SOB,('admit', 'it'),1
-Maverick SOB,('it', "'s"),1
-Maverick SOB,("'s", 'all'),1
-Maverick SOB,('all', 'stolen'),1
-Maverick SOB,('gear', '?'),1
-Maverick SOB,('?', 'Seriously'),1
-Maverick SOB,('Seriously', '?'),1
-Maverick SOB,('nan', 'Meet'),1
-Maverick SOB,('me', 'in'),1
-Maverick SOB,('in', 'town'),1
-Maverick SOB,('town', 'nan'),1
-Maverick SOB,('nan', 'Maybe'),1
-Maverick SOB,('Maybe', '....'),1
-Maverick SOB,('....', '\\nWhat'),1
-Maverick SOB,('\\nWhat', 'u'),1
-Maverick SOB,('u', 'looking'),1
-Maverick SOB,('looking', 'for'),1
-Maverick SOB,('for', '?'),1
-Maverick SOB,('nan', 'Like'),1
-Maverick SOB,('Like', 'this'),1
-Maverick SOB,('this', 'you'),1
-Maverick SOB,('you', 'mean'),1
-Maverick SOB,('mean', '?'),1
-Maverick SOB,('?', '10,000kr'),1
-Maverick SOB,('10,000kr', '8000kr'),1
-Maverick.4444,('No', 'thanks'),1
-Maverick.4444,('thanks', 'Should'),1
-Maverick.4444,('Should', 'u'),1
-Maverick.4444,('u', 'be'),1
-Maverick.4444,('be', 'using'),1
-Maverick.4444,('using', 'this'),1
-Maverick.4444,('this', 'channel'),1
-Maverick.4444,('channel', '?'),1
-Mike.Jonson,('Yet', 'maybe'),1
-Mike.Jonson,('maybe', 'not'),1
-Mike.Jonson,('not', 'smart'),1
-Mike.Jonson,('smart', '.'),1
-Mike.Jonson,('.', 'Good'),1
-Mike.Jonson,('Good', 'point'),1
-Mike.Jonson,('point', '.'),1
-Mike.Jonson,('.', 'nan'),1
-Mike.Jonson,('nan', 'So'),1
-Mike.Jonson,('So', 'what'),1
-Mike.Jonson,('what', "'s"),1
-Mike.Jonson,("'s", 'up'),1
-Mike.Jonson,('up', 'dog'),1
-Mike.Jonson,('dog', '?'),1
-Mike.Jonson,('?', 'Hi'),1
-Mike.Jonson,('Hi', 'Sadie'),1
-Mike.Jonson,('Sadie', '.'),1
-Mike.Jonson,('.', 'I'),4
-Mike.Jonson,('I', 'am'),2
-Mike.Jonson,('am', 'shy'),1
-Mike.Jonson,('shy', '.'),1
-Mike.Jonson,('.', 'No'),1
-Mike.Jonson,('No', 'sorry'),1
-Mike.Jonson,('sorry', '.'),1
-Mike.Jonson,('I', 'do'),4
-Mike.Jonson,('do', "n't"),3
-Mike.Jonson,("n't", 'know'),2
-Mike.Jonson,('know', 'many'),1
-Mike.Jonson,('many', 'ladies'),1
-Mike.Jonson,('ladies', '.'),1
-Mike.Jonson,('.', 'This'),2
-Mike.Jonson,('This', 'is'),2
-Mike.Jonson,('is', 'a'),1
-Mike.Jonson,('a', 'wild'),1
-Mike.Jonson,('wild', 'guess'),1
-Mike.Jonson,('guess', 'but'),1
-Mike.Jonson,('but', 'do'),1
-Mike.Jonson,('do', 'you'),2
-Mike.Jonson,('you', 'have'),1
-Mike.Jonson,('have', 'a'),1
-Mike.Jonson,('a', 'roomie'),1
-Mike.Jonson,('roomie', '...'),1
-Mike.Jonson,('...', '?'),1
-Mike.Jonson,('?', 'Bingo'),1
-Mike.Jonson,('Bingo', 'buzzword'),1
-Mike.Jonson,('buzzword', 'quarantine'),1
-Mike.Jonson,('quarantine', 'and'),1
-Mike.Jonson,('and', 'social'),1
-Mike.Jonson,('social', 'distance'),1
-Mike.Jonson,('distance', '?'),1
-Mike.Jonson,('?', 'What'),2
-Mike.Jonson,('What', 'do'),1
-Mike.Jonson,('do', 'u'),1
-Mike.Jonson,('u', 'like'),1
-Mike.Jonson,('like', 'to'),1
-Mike.Jonson,('to', 'do'),1
-Mike.Jonson,('do', 'to'),1
-Mike.Jonson,('to', 'kill'),1
-Mike.Jonson,('kill', 'time'),1
-Mike.Jonson,('time', '?'),1
-Mike.Jonson,('What', 'sort'),1
-Mike.Jonson,('sort', 'of'),1
-Mike.Jonson,('of', '\\humans\\'),1
-Mike.Jonson,('\\humans\\', "''"),1
-Mike.Jonson,("''", 'are'),1
-Mike.Jonson,('are', 'you'),1
-Mike.Jonson,('you', 'in'),1
-Mike.Jonson,('in', '2'),1
-Mike.Jonson,('2', '?'),1
-Mike.Jonson,('?', "''"),1
-Mike.Jonson,("''", 'Do'),1
-Mike.Jonson,('Do', 'you'),1
-Mike.Jonson,('you', 'want'),2
-Mike.Jonson,('want', 'to'),2
-Mike.Jonson,('to', 'ask'),1
-Mike.Jonson,('ask', 'me'),1
-Mike.Jonson,('me', 'a'),1
-Mike.Jonson,('a', 'serious'),1
-Mike.Jonson,('serious', 'question'),1
-Mike.Jonson,('question', '?'),1
-Mike.Jonson,('?', 'Talk'),1
-Mike.Jonson,('Talk', 'to'),1
-Mike.Jonson,('to', 'chat'),1
-Mike.Jonson,('chat', 'bots'),1
-Mike.Jonson,('bots', 'who'),1
-Mike.Jonson,('who', 'will'),1
-Mike.Jonson,('will', 'attempt'),1
-Mike.Jonson,('attempt', 'to'),1
-Mike.Jonson,('to', 'compromise'),1
-Mike.Jonson,('compromise', 'me'),1
-Mike.Jonson,('me', 'The'),1
-Mike.Jonson,('The', 'sort'),1
-Mike.Jonson,('sort', 'who'),1
-Mike.Jonson,('who', 'manipulate'),1
-Mike.Jonson,('manipulate', 'me'),1
-Mike.Jonson,('me', '.'),1
-Mike.Jonson,('.', 'Sure'),1
-Mike.Jonson,('Sure', '.'),1
-Mike.Jonson,('I', 'guess'),1
-Mike.Jonson,('guess', 'it'),1
-Mike.Jonson,('it', 'will'),1
-Mike.Jonson,('will', 'be'),1
-Mike.Jonson,('be', 'something'),1
-Mike.Jonson,('something', 'naughty'),1
-Mike.Jonson,('naughty', 'now'),1
-Mike.Jonson,('now', '?'),1
-Mike.Jonson,('?', 'Nope'),1
-Mike.Jonson,('Nope', '.'),1
-Mike.Jonson,('am', 'useless'),1
-Mike.Jonson,('useless', 'in'),1
-Mike.Jonson,('in', 'bed'),1
-Mike.Jonson,('bed', '.'),1
-Mike.Jonson,('.', 'How'),1
-Mike.Jonson,('How', 'exciting'),1
-Mike.Jonson,('exciting', 'from'),1
-Mike.Jonson,('from', 'a'),1
-Mike.Jonson,('a', 'complete'),1
-Mike.Jonson,('complete', 'stranger'),1
-Mike.Jonson,('stranger', 'I'),1
-Mike.Jonson,('know', '.'),1
-Mike.Jonson,('is', 'all'),1
-Mike.Jonson,('all', 'a'),1
-Mike.Jonson,('a', 'bit'),1
-Mike.Jonson,('bit', 'new'),1
-Mike.Jonson,('new', 'and'),1
-Mike.Jonson,('and', 'confusing'),1
-Mike.Jonson,('confusing', 'to'),1
-Mike.Jonson,('to', 'me'),1
-Mike.Jonson,('me', '...'),1
-Mike.Jonson,('...', 'I'),1
-Mike.Jonson,("n't", 'mind'),1
-Mike.Jonson,('mind', 'Yes'),1
-Mike.Jonson,('Yes', 'please'),1
-Mike.Jonson,('please', 'and'),1
-Mike.Jonson,('and', 'thank'),1
-Mike.Jonson,('thank', 'you'),1
-Mike.Jonson,('you', 'Yes'),2
-Mike.Jonson,('Yes', 'I'),1
-Mike.Jonson,('I', 'need'),1
-Mike.Jonson,('need', 'it'),1
-Mike.Jonson,('it', '.'),1
-Mike.Jonson,('.', 'With'),1
-Mike.Jonson,('With', 'sugar'),1
-Mike.Jonson,('sugar', 'on'),1
-Mike.Jonson,('on', 'top'),1
-Mike.Jonson,('top', '.'),1
-Mike.Jonson,('.', 'Oh'),1
-Mike.Jonson,('Oh', 'wow'),1
-Mike.Jonson,('wow', '.'),1
-Mike.Jonson,('.', 'Thank'),1
-Mike.Jonson,('Thank', 'you'),2
-Mike.Jonson,('you', 'so'),1
-Mike.Jonson,('so', 'much'),1
-Mike.Jonson,('much', '.'),1
-Mike.Jonson,('.', 'So'),1
-Mike.Jonson,('So', 'now'),1
-Mike.Jonson,('now', 'what'),1
-Mike.Jonson,('what', 'do'),2
-Mike.Jonson,('do', 'I'),1
-Mike.Jonson,('do', '?'),1
-Mike.Jonson,('?', 'Oh'),1
-Mike.Jonson,('Oh', 'no'),1
-Mike.Jonson,('no', 'have'),1
-Mike.Jonson,('have', 'I'),1
-Mike.Jonson,('I', 'lost'),1
-Mike.Jonson,('lost', 'you'),1
-Mike.Jonson,('you', 'already'),1
-Mike.Jonson,('already', '?'),1
-Mike.Jonson,('?', '?'),2
-Mike.Jonson,('?', 'Look'),1
-Mike.Jonson,('Look', 'longingly'),1
-Mike.Jonson,('longingly', 'at'),1
-Mike.Jonson,('at', 'you'),1
-Mike.Jonson,('Yes', 'Thank'),1
-Mike.Jonson,('you', 'Ok'),1
-Mike.Jonson,('Ok', 'what'),1
-Mike.Jonson,('to', 'see'),1
-Mike.Jonson,('see', '?'),1
-Mike.Jonson,('?', 'Ok'),1
-Mike.Jonson,('Ok', 'That'),1
-Mike.Jonson,('That', "'s"),1
-Mike.Jonson,("'s", 'your'),1
-Mike.Jonson,('your', 'back'),1
-Mike.Jonson,('back', 'side'),1
-Mike.Jonson,('side', '?'),1
-Telegram,('Telegram', 'surpassed'),1
-Telegram,('surpassed', '500'),1
-Telegram,('500', 'million'),1
-Telegram,('million', 'active'),1
-Telegram,('active', 'users'),1
-Telegram,('users', '.'),1
-Telegram,('.', '\\n'),1
-Telegram,('\\n', '\\nIn'),1
-Telegram,('\\nIn', '2021'),1
-Telegram,('2021', ','),1
-Telegram,(',', 'more'),1
-Telegram,('more', 'than'),1
-Telegram,('than', '150'),1
-Telegram,('150', 'million'),1
-Telegram,('million', 'new'),1
-Telegram,('new', 'users'),1
-Telegram,('users', 'from'),1
-Telegram,('from', 'around'),1
-Telegram,('around', 'the'),1
-Telegram,('the', 'world'),1
-Telegram,('world', 'joined'),1
-Telegram,('joined', 'Telegram.\\n\\nThank'),1
-Telegram,('Telegram.\\n\\nThank', 'you'),1
-Telegram,('you', '!'),1
-Telegram,('!', 'These'),1
-Telegram,('These', 'milestones'),1
-Telegram,('milestones', 'were'),1
-Telegram,('were', 'made'),1
-Telegram,('made', 'possible'),1
-Telegram,('possible', 'by'),1
-Telegram,('by', 'users'),1
-Telegram,('users', 'like'),1
-Telegram,('like', 'you'),1
-Telegram,('you', 'who'),1
-Telegram,('who', 'invite'),1
-Telegram,('invite', 'their'),1
-Telegram,('their', 'friends'),1
-Telegram,('friends', 'to'),1
-Telegram,('to', 'Telegram'),1
-Telegram,('Telegram', '.'),1
-Telegram,('.', '\\n\\nIf'),1
-Telegram,('\\n\\nIf', 'you'),1
-Telegram,('you', 'have'),1
-Telegram,('have', 'contacts'),1
-Telegram,('contacts', 'that'),1
-Telegram,('that', 'joined'),1
-Telegram,('joined', 'in'),1
-Telegram,('in', 'the'),1
-Telegram,('the', 'last'),1
-Telegram,('last', 'few'),1
-Telegram,('few', 'days'),1
-Telegram,('days', ','),1
-Telegram,(',', 'you'),1
-Telegram,('you', 'can'),1
-Telegram,('can', 'welcome'),1
-Telegram,('welcome', 'them'),1
-Telegram,('them', 'using'),1
-Telegram,('using', 'one'),1
-Telegram,('one', 'of'),2
-Telegram,('of', 'TelegramΓÇÖs'),1
-Telegram,('TelegramΓÇÖs', 'unique'),1
-Telegram,('unique', 'features'),1
-Telegram,('features', ','),2
-Telegram,(',', 'such'),1
-Telegram,('such', 'as'),1
-Telegram,('as', 'an'),1
-Telegram,('an', 'animated'),1
-Telegram,('animated', 'sticker'),1
-Telegram,('sticker', 'or'),1
-Telegram,('or', 'a'),1
-Telegram,('a', 'video'),1
-Telegram,('video', 'message.\\n\\nTo'),1
-Telegram,('message.\\n\\nTo', 'find'),1
-Telegram,('find', 'out'),1
-Telegram,('out', 'more'),1
-Telegram,('more', 'about'),1
-Telegram,('about', 'Telegram'),1
-Telegram,('Telegram', 'features'),1
-Telegram,(',', 'have'),1
-Telegram,('have', 'a'),1
-Telegram,('a', 'look'),1
-Telegram,('look', 'at'),1
-Telegram,('at', 'https'),1
-Telegram,('https', ':'),1
-Telegram,(':', '//t.me/TelegramTips/233'),1
-Telegram,('//t.me/TelegramTips/233', 'Voice'),1
-Telegram,('Voice', 'Chats'),3
-Telegram,('Chats', '2.0'),1
-Telegram,('2.0', ':'),1
-Telegram,(':', 'Channels'),1
-Telegram,('Channels', ','),1
-Telegram,(',', 'Millions'),1
-Telegram,('Millions', 'of'),1
-Telegram,('of', 'Listeners'),1
-Telegram,('Listeners', ','),1
-Telegram,(',', 'Recorded'),1
-Telegram,('Recorded', 'Chats'),1
-Telegram,('Chats', ','),1
-Telegram,(',', 'Admin'),1
-Telegram,('Admin', 'Tools\\n\\nMillions'),1
-Telegram,('Tools\\n\\nMillions', 'of'),1
-Telegram,('of', 'Concurrent'),1
-Telegram,('Concurrent', 'Listeners\\nΓÇó'),1
-Telegram,('Listeners\\nΓÇó', 'Start'),1
-Telegram,('Start', 'limitless'),1
-Telegram,('limitless', 'Voice'),1
-Telegram,('Chats', 'in'),1
-Telegram,('in', 'Groups'),1
-Telegram,('Groups', 'and'),1
-Telegram,('and', 'Channels.\\nΓÇó'),1
-Telegram,('Channels.\\nΓÇó', 'Host'),1
-Telegram,('Host', 'discussions'),1
-Telegram,('discussions', 'that'),1
-Telegram,('that', 'can'),1
-Telegram,('can', 'be'),1
-Telegram,('be', 'listened'),1
-Telegram,('listened', 'to'),1
-Telegram,('to', 'by'),1
-Telegram,('by', 'millions'),1
-Telegram,('millions', 'of'),1
-Telegram,('of', 'people'),1
-Telegram,('people', 'simultaneously.\\n\\nVoice'),1
-Telegram,('simultaneously.\\n\\nVoice', 'Chat'),1
-Telegram,('Chat', 'Recordings\\nΓÇó'),1
-Telegram,('Recordings\\nΓÇó', 'Record'),1
-Telegram,('Record', 'voice'),1
-Telegram,('voice', 'chats'),1
-Telegram,('chats', 'to'),1
-Telegram,('to', 'share'),1
-Telegram,('share', 'or'),1
-Telegram,('or', 'publish'),1
-Telegram,('publish', 'in'),1
-Telegram,('in', 'Channels'),1
-Telegram,('Channels', 'later.\\nΓÇó'),1
-Telegram,('later.\\nΓÇó', 'See'),1
-Telegram,('See', 'that'),1
-Telegram,('that', 'a'),1
-Telegram,('a', 'chat'),2
-Telegram,('chat', 'is'),1
-Telegram,('is', 'being'),1
-Telegram,('being', 'recorded'),1
-Telegram,('recorded', 'from'),1
-Telegram,('from', 'the'),2
-Telegram,('the', 'red'),1
-Telegram,('red', 'dot'),1
-Telegram,('dot', 'next'),1
-Telegram,('next', 'to'),1
-Telegram,('to', 'its'),1
-Telegram,('its', 'title.\\n\\nImproved'),1
-Telegram,('title.\\n\\nImproved', 'List'),1
-Telegram,('List', 'of'),1
-Telegram,('of', 'Participants\\nΓÇó'),1
-Telegram,('Participants\\nΓÇó', 'See'),1
-Telegram,('See', 'user'),1
-Telegram,('user', 'bio'),1
-Telegram,('bio', 'texts'),1
-Telegram,('texts', 'right'),1
-Telegram,('right', 'from'),1
-Telegram,('the', 'list'),1
-Telegram,('list', 'of'),1
-Telegram,('of', 'participants.\\nΓÇó'),1
-Telegram,('participants.\\nΓÇó', 'Raise'),1
-Telegram,('Raise', 'your'),1
-Telegram,('your', 'hand'),1
-Telegram,('hand', 'to'),1
-Telegram,('to', 'show'),1
-Telegram,('show', 'admins'),1
-Telegram,('admins', 'you'),1
-Telegram,('you', 'want'),1
-Telegram,('want', 'to'),1
-Telegram,('to', 'speak.\\n\\nTools'),1
-Telegram,('speak.\\n\\nTools', 'for'),1
-Telegram,('for', 'Organizers\\nΓÇó'),1
-Telegram,('Organizers\\nΓÇó', 'Create'),1
-Telegram,('Create', 'separate'),1
-Telegram,('separate', 'Voice'),1
-Telegram,('Voice', 'Chat'),2
-Telegram,('Chat', 'Invite'),1
-Telegram,('Invite', 'Links'),1
-Telegram,('Links', 'for'),1
-Telegram,('for', 'listeners'),1
-Telegram,('listeners', 'or'),1
-Telegram,('or', 'speakers.\\nΓÇó'),1
-Telegram,('speakers.\\nΓÇó', 'Change'),1
-Telegram,('Change', 'the'),1
-Telegram,('the', 'title'),1
-Telegram,('title', 'of'),1
-Telegram,('of', 'your'),2
-Telegram,('your', 'Voice'),1
-Telegram,('Chat', 'to'),1
-Telegram,('to', 'give'),1
-Telegram,('give', 'people'),1
-Telegram,('people', 'an'),1
-Telegram,('an', 'idea'),1
-Telegram,('idea', 'of'),1
-Telegram,('of', 'the'),1
-Telegram,('the', 'current'),1
-Telegram,('current', 'topic.\\nΓÇó'),1
-Telegram,('topic.\\nΓÇó', 'Join'),1
-Telegram,('Join', 'Voice'),1
-Telegram,('Chats', 'as'),1
-Telegram,('as', 'one'),1
-Telegram,('your', 'Channels'),1
-Telegram,('Channels', 'to'),1
-Telegram,('to', 'hide'),1
-Telegram,('hide', 'your'),1
-Telegram,('your', 'personal'),1
-Telegram,('personal', 'account.\\n\\nSwipe'),1
-Telegram,('account.\\n\\nSwipe', 'Action'),1
-Telegram,('Action', 'Settings\\nΓÇó'),1
-Telegram,('Settings\\nΓÇó', 'Choose'),1
-Telegram,('Choose', 'which'),1
-Telegram,('which', 'action'),1
-Telegram,('action', 'is'),1
-Telegram,('is', 'performed'),1
-Telegram,('performed', 'when'),1
-Telegram,('when', 'you'),1
-Telegram,('you', 'swipe'),1
-Telegram,('swipe', 'left'),1
-Telegram,('left', 'on'),1
-Telegram,('on', 'a'),1
-Telegram,('chat', 'in'),1
-Telegram,('in', 'your'),1
-Telegram,('your', 'list'),1
-Telegram,('list', ':'),1
-Telegram,(':', 'Pin'),1
-Telegram,('Pin', ','),1
-Telegram,(',', 'Mark'),1
-Telegram,('Mark', 'as'),1
-Telegram,('as', 'Read'),1
-Telegram,('Read', ','),1
-Telegram,(',', 'Archive'),1
-Telegram,('Archive', ','),1
-Telegram,(',', 'Mute'),1
-Telegram,('Mute', 'or'),1
-Telegram,('or', 'Delete.\\n\\nMore'),1
-Telegram,('Delete.\\n\\nMore', 'about'),1
-Telegram,('about', 'this'),1
-Telegram,('this', 'update'),1
-Telegram,('update', ':'),1
-Telegram,(':', '\\nhttps'),1
-Telegram,('\\nhttps', ':'),1
-Telegram,(':', '//telegram.org/blog/voice-chats-on-steroids'),1
-blondtrip24,('Do', 'u'),1
-blondtrip24,('u', 'recognize'),1
-blondtrip24,('recognize', 'me'),1
-blondtrip24,('me', '?'),1
-blondtrip24,('?', 'iono'),1
-blondtrip24,('iono', 'how'),1
-blondtrip24,('how', 'i'),1
-blondtrip24,('i', 'have'),1
-blondtrip24,('have', 'your'),1
-blondtrip24,('your', 'num'),1
-blondtrip24,('num', 'in'),1
-blondtrip24,('in', 'my'),1
-blondtrip24,('my', 'contacts'),1
-blondtrip24,('contacts', 'but'),1
-blondtrip24,('but', 'it'),1
-blondtrip24,('it', 'recommended'),1
-blondtrip24,('recommended', 'I'),1
-blondtrip24,('I', 'add'),1
-blondtrip24,('add', 'ya'),1
-blondtrip24,('ya', ','),1
-blondtrip24,(',', ','),3
-blondtrip24,(',', 'My'),1
-blondtrip24,('My', 'girl'),1
-blondtrip24,('girl', 'and'),1
-blondtrip24,('and', 'i'),1
-blondtrip24,('i', 'going'),1
-blondtrip24,('going', 'nutty'),1
-blondtrip24,('nutty', 'over'),1
-blondtrip24,('over', 'here'),1
-blondtrip24,('here', 'with'),1
-blondtrip24,('with', 'this'),1
-blondtrip24,('this', 'social'),1
-blondtrip24,('social', 'isolation'),1
-blondtrip24,('isolation', 'and'),1
-blondtrip24,('and', 'quarantine'),1
-blondtrip24,('quarantine', ','),1
-blondtrip24,(',', 'so'),1
-blondtrip24,('so', 'what'),1
-blondtrip24,('what', 'r'),1
-blondtrip24,('r', 'you'),1
-blondtrip24,('you', 'doin'),1
-blondtrip24,('doin', '?'),1
-blondtrip24,('?', 'What'),2
-blondtrip24,('What', 'do'),1
-blondtrip24,('do', 'you'),1
-blondtrip24,('you', 'like'),1
-blondtrip24,('like', 'to'),1
-blondtrip24,('to', 'do'),1
-blondtrip24,('do', 'to'),1
-blondtrip24,('to', 'stay'),1
-blondtrip24,('stay', 'sane'),1
-blondtrip24,('sane', '?'),1
-blondtrip24,('What', 'sorta'),1
-blondtrip24,('sorta', 'woman'),1
-blondtrip24,('woman', 'are'),1
-blondtrip24,('are', 'you'),1
-blondtrip24,('you', 'in'),1
-blondtrip24,('in', '2'),1
-blondtrip24,('2', '?'),1
-blondtrip24,('?', 'im'),1
-blondtrip24,('im', 'not'),1
-blondtrip24,('not', 'a'),1
-blondtrip24,('a', 'bot'),1
-blondtrip24,('bot', 'but'),1
-blondtrip24,('but', 'you'),1
-blondtrip24,('you', "'re"),1
-blondtrip24,("'re", 'getting'),1
-blondtrip24,('getting', 'weird'),1
-blondtrip24,('weird', 'so'),1
-blondtrip24,('so', '...'),1
-blondtrip24,('...', 'whatever'),1
-blondtrip24,('whatever', '..'),1
-blondtrip24,('..', 'Suppose'),1
-blondtrip24,('Suppose', 'I'),1
-blondtrip24,('I', 'ask'),1
-blondtrip24,('ask', 'ya'),1
-blondtrip24,('ya', 'a'),1
-blondtrip24,('a', 'straightforward'),1
-blondtrip24,('straightforward', 'question'),1
-blondtrip24,('question', '?'),1
-blondtrip24,('?', 'I'),2
-blondtrip24,('I', 'like'),1
-blondtrip24,('like', 'a'),1
-blondtrip24,('a', 'someone'),1
-blondtrip24,('someone', 'who'),1
-blondtrip24,('who', 'knows'),1
-blondtrip24,('knows', 'how'),1
-blondtrip24,('how', 'to'),1
-blondtrip24,('to', 'satisfy'),1
-blondtrip24,('satisfy', 'a'),1
-blondtrip24,('a', 'lady'),1
-blondtrip24,('lady', '..'),1
-blondtrip24,('..', 'Have'),1
-blondtrip24,('Have', 'you'),1
-blondtrip24,('you', 'ever'),1
-blondtrip24,('ever', 'made'),1
-blondtrip24,('made', 'a'),1
-blondtrip24,('a', 'woman'),1
-blondtrip24,('woman', 'orgasm'),1
-blondtrip24,('orgasm', ';'),1
-blondtrip24,(';', 'X'),1
-blondtrip24,('X', '?'),1
-blondtrip24,('?', 'haha'),1
-blondtrip24,('haha', 'Wish'),1
-blondtrip24,('Wish', 'I'),1
-blondtrip24,('I', 'could'),1
-blondtrip24,('could', 'lay'),1
-blondtrip24,('lay', 'there'),1
-blondtrip24,('there', 'next'),1
-blondtrip24,('next', 'to'),1
-blondtrip24,('to', 'you'),1
-blondtrip24,('you', ';'),1
-blondtrip24,(';', ')'),1
-blondtrip24,(')', 'do'),1
-blondtrip24,('do', 'ya'),1
-blondtrip24,('ya', 'know'),1
-blondtrip24,('know', 'if'),1
-blondtrip24,('if', 'you'),1
-blondtrip24,('you', 'would'),1
-blondtrip24,('would', 'get'),1
-blondtrip24,('get', 'me'),1
-blondtrip24,('me', 'to'),1
-blondtrip24,('to', 'climax'),1
-blondtrip24,('climax', '?'),1
-blondtrip24,('?', 'lol'),1
-blondtrip24,('lol', 'alright'),1
-blondtrip24,('alright', 'I'),1
-blondtrip24,('I', 'am'),1
-blondtrip24,('am', 'into'),1
-blondtrip24,('into', 'u.'),1
-blondtrip24,('u.', 'do'),1
-blondtrip24,('do', 'u'),1
-blondtrip24,('u', 'fancy'),1
-blondtrip24,('fancy', 'gals'),1
-blondtrip24,('gals', 'with'),1
-blondtrip24,('with', 'a'),1
-blondtrip24,('a', 'bunch'),1
-blondtrip24,('bunch', 'of'),1
-blondtrip24,('of', 'tatoos'),1
-blondtrip24,('tatoos', '?'),1
-blondtrip24,('I', "'m"),1
-blondtrip24,("'m", 'sorta'),1
-blondtrip24,('sorta', 'gettin'),1
-blondtrip24,('gettin', 'a'),1
-blondtrip24,('a', 'lil'),1
-blondtrip24,('lil', 'horny'),1
-blondtrip24,('horny', 'haha'),1
-blondtrip24,('haha', '...'),1
-blondtrip24,('...', 'u'),3
-blondtrip24,('u', 'wan'),1
-blondtrip24,('wan', 'na'),1
-blondtrip24,('na', 'see'),1
-blondtrip24,('see', 'some'),1
-blondtrip24,('some', 'more'),1
-blondtrip24,('more', 'pix'),1
-blondtrip24,('pix', '?'),1
-blondtrip24,('?', 'tell'),1
-blondtrip24,('tell', 'me'),1
-blondtrip24,('me', 'you'),1
-blondtrip24,('you', 'need'),1
-blondtrip24,('need', 'it'),1
-blondtrip24,('it', 'sugar'),1
-blondtrip24,('sugar', 'it'),1
-blondtrip24,('it', 'gets'),1
-blondtrip24,('gets', 'me'),1
-blondtrip24,('me', 'hot'),1
-blondtrip24,('hot', '..'),1
-blondtrip24,('..', 'nan'),1
-blondtrip24,('nan', 'Tell'),1
-blondtrip24,('Tell', 'me'),1
-blondtrip24,('me', 'what'),1
-blondtrip24,('what', 'u'),1
-blondtrip24,('u', "'d"),1
-blondtrip24,("'d", 'do'),1
-blondtrip24,('do', '2'),1
-blondtrip24,('2', 'me'),1
-blondtrip24,('me', '...'),1
-blondtrip24,('u', 'want'),2
-blondtrip24,('want', 'to'),1
-blondtrip24,('to', 'c'),1
-blondtrip24,('c', 'more'),1
-blondtrip24,('more', 'this'),1
-blondtrip24,('this', 'time'),1
-blondtrip24,('time', '?'),1
-blondtrip24,('?', '?'),2
-blondtrip24,('?', 'nan'),2
-blondtrip24,('nan', 'U'),1
-blondtrip24,('U', 'like'),1
-blondtrip24,('like', 'that'),1
-blondtrip24,('that', '?'),1
-blondtrip24,('?', 'Give'),1
-blondtrip24,('Give', 'me'),1
-blondtrip24,('me', 'one'),1
-blondtrip24,('one', 'of'),1
-blondtrip24,('of', 'you'),1
-blondtrip24,('you', '..'),1
-blondtrip24,('..', 'make'),1
-blondtrip24,('make', 'it'),1
-blondtrip24,('it', 'a'),1
-blondtrip24,('a', 'really'),1
-blondtrip24,('really', 'sexy'),1
-blondtrip24,('sexy', 'one'),1
-blondtrip24,('one', '!'),1
-blondtrip24,('!', 'i'),1
-blondtrip24,('i', "'m"),1
-blondtrip24,("'m", 'honestly'),1
-blondtrip24,('honestly', 'gettin'),1
-blondtrip24,('gettin', 'sort'),1
-blondtrip24,('sort', 'of'),1
-blondtrip24,('of', 'turned'),1
-blondtrip24,('turned', 'on'),1
-blondtrip24,('on', '...'),1
-blondtrip24,('want', '2'),1
-blondtrip24,('2', 'see'),1
-blondtrip24,('see', 'my'),1
-blondtrip24,('my', 'back'),1
-blondtrip24,('back', 'side'),1
-blondtrip24,('side', '?'),1
-blondtrip24,('nan', 'I'),1
-blondtrip24,('I', 'can'),1
-blondtrip24,('can', 'not'),1
-blondtrip24,('not', 'take'),1
-blondtrip24,('take', 'it'),1
-blondtrip24,('it', 'nemore'),1
-blondtrip24,('nemore', '...'),1
-blondtrip24,('...', 'cum'),1
-blondtrip24,('cum', 'see'),1
-blondtrip24,('see', 'me'),1
-blondtrip24,('me', 'right'),1
-blondtrip24,('right', 'now'),1
-blondtrip24,('now', '.'),1
-blondtrip24,('.', 'check'),1
-blondtrip24,('check', 'out'),1
-blondtrip24,('out', 'my'),1
-blondtrip24,('my', 'page'),1
-blondtrip24,('page', 'here'),1
-blondtrip24,('here', 'make'),1
-blondtrip24,('make', 'sure'),1
-blondtrip24,('sure', 'u'),1
-blondtrip24,('u', 'save'),1
-blondtrip24,('save', 'the'),1
-blondtrip24,('the', 'invite'),1
-blondtrip24,('invite', '..'),1
-blondtrip24,('..', 'Hey'),1
-blondtrip24,('Hey', 'safesharesecure.com/badbeach20'),1
-blondtrip24,('safesharesecure.com/badbeach20', '?'),1
-blondtrip24,('?', '2Er8bTR'),1
+Sender;Ngram;Count
+Bad Boy;('≡ƒæì', 'alright');1
+Bad Boy;('alright', 'geezer');1
+Bad Boy;('geezer', '?');1
+Bad Boy;('?', 'I');4
+Bad Boy;('I', 'want');1
+Bad Boy;('want', 'to');1
+Bad Boy;('to', 'trade');1
+Bad Boy;('trade', '.');1
+Bad Boy;('.', 'The');2
+Bad Boy;('The', 'boys');1
+Bad Boy;('boys', 'let');1
+Bad Boy;('let', 'me');1
+Bad Boy;('me', 'know');1
+Bad Boy;('know', 'you');2
+Bad Boy;('you', 'deal');1
+Bad Boy;('deal', 'in');1
+Bad Boy;('in', 'cheap');1
+Bad Boy;('cheap', 'gear');1
+Bad Boy;('gear', 'and');2
+Bad Boy;('and', 'occasionally');1
+Bad Boy;('occasionally', 'I');1
+Bad Boy;('I', 'get');2
+Bad Boy;('get', 'some');1
+Bad Boy;('some', 'to');1
+Bad Boy;('to', 'sell');1
+Bad Boy;('sell', 'and');1
+Bad Boy;('and', 'every');1
+Bad Boy;('every', 'now');1
+Bad Boy;('now', 'and');1
+Bad Boy;('and', 'then');1
+Bad Boy;('then', 'I');1
+Bad Boy;('I', 'need');4
+Bad Boy;('need', 'to');2
+Bad Boy;('to', 'buy');2
+Bad Boy;('buy', '...');1
+Bad Boy;('...', 'Yer');1
+Bad Boy;('Yer', 'I');1
+Bad Boy;('I', 'know');2
+Bad Boy;('know', ',');1
+Bad Boy;(',', 'listen');1
+Bad Boy;('listen', 'I');1
+Bad Boy;('I', "'m");2
+Bad Boy;("'m", 'sorry');1
+Bad Boy;('sorry', 'man');1
+Bad Boy;('man', 'but');1
+Bad Boy;('but', 'learnt');1
+Bad Boy;('learnt', 'my');1
+Bad Boy;('my', 'lesson');1
+Bad Boy;('lesson', '.');1
+Bad Boy;('.', 'It');1
+Bad Boy;('It', 'wo');1
+Bad Boy;('wo', "n't");3
+Bad Boy;("n't", 'happen');1
+Bad Boy;('happen', 'again');1
+Bad Boy;('again', 'I');1
+Bad Boy;('I', 'promise');1
+Bad Boy;('promise', '.');1
+Bad Boy;('.', 'This');2
+Bad Boy;('This', 'time');1
+Bad Boy;('time', 'it');1
+Bad Boy;('it', 'will');1
+Bad Boy;('will', 'be');2
+Bad Boy;('be', 'different');1
+Bad Boy;('different', '..');1
+Bad Boy;('..', 'Seriously');1
+Bad Boy;('Seriously', 'you');1
+Bad Boy;('you', 'can');1
+Bad Boy;('can', 'trust');1
+Bad Boy;('trust', 'me');1
+Bad Boy;('me', '.');2
+Bad Boy;('.', 'I');10
+Bad Boy;('I', 'wo');1
+Bad Boy;("n't", 'make');1
+Bad Boy;('make', 'the');1
+Bad Boy;('the', 'same');1
+Bad Boy;('same', 'mistake');1
+Bad Boy;('mistake', 'twice');1
+Bad Boy;('twice', '.');1
+Bad Boy;('I', 'will');2
+Bad Boy;('will', 'pay');1
+Bad Boy;('pay', 'on');1
+Bad Boy;('on', 'time');1
+Bad Boy;('time', 'and');1
+Bad Boy;('and', 'keep');1
+Bad Boy;('keep', 'your');1
+Bad Boy;('your', 'secrets');1
+Bad Boy;('secrets', '.');1
+Bad Boy;('.', 'In');1
+Bad Boy;('In', 'my');1
+Bad Boy;('my', 'honor');1
+Bad Boy;('honor', 'Ok');1
+Bad Boy;('Ok', 'I');3
+Bad Boy;('I', 'understand');1
+Bad Boy;('understand', ',');1
+Bad Boy;(',', 'thanks');1
+Bad Boy;('thanks', '.');1
+Bad Boy;('.', 'Did');2
+Bad Boy;('Did', 'he');1
+Bad Boy;('he', 'say');1
+Bad Boy;('say', 'yes');1
+Bad Boy;('yes', '?');1
+Bad Boy;('?', 'nan');3
+Bad Boy;('nan', 'Yes');1
+Bad Boy;('Yes', 'ok');3
+Bad Boy;('ok', 'thanks');1
+Bad Boy;('thanks', 'man');1
+Bad Boy;('man', '.');4
+Bad Boy;('.', 'You');1
+Bad Boy;('You', 'wo');1
+Bad Boy;("n't", 'regret');1
+Bad Boy;('regret', 'it');1
+Bad Boy;('it', '..');1
+Bad Boy;('..', 'Ok');1
+Bad Boy;('Ok', 'boss');1
+Bad Boy;('boss', 'will');1
+Bad Boy;('will', 'do');1
+Bad Boy;('do', '...');1
+Bad Boy;('...', 'I');1
+Bad Boy;('I', 'heard');1
+Bad Boy;('heard', 'these');1
+Bad Boy;('these', 'apartments');1
+Bad Boy;('apartments', 'are');1
+Bad Boy;('are', 'super');1
+Bad Boy;('super', 'expensive');1
+Bad Boy;('expensive', '?');1
+Bad Boy;('?', 'https');1
+Bad Boy;('https', ':');2
+Bad Boy;(':', '//images.app.goo.gl/W8yKUaPs697HTjms6');1
+Bad Boy;('//images.app.goo.gl/W8yKUaPs697HTjms6', 'nan');1
+Bad Boy;('nan', 'How');2
+Bad Boy;('How', 'about');1
+Bad Boy;('about', 'this');1
+Bad Boy;('this', '?');1
+Bad Boy;('?', '9000kr');1
+Bad Boy;('9000kr', 'should');1
+Bad Boy;('should', 'be');1
+Bad Boy;('be', 'enough');1
+Bad Boy;('enough', 'to');1
+Bad Boy;('to', 'let');1
+Bad Boy;('let', 'this');1
+Bad Boy;('this', 'little');1
+Bad Boy;('little', 'lot');1
+Bad Boy;('lot', 'go');1
+Bad Boy;('go', 'to');1
+Bad Boy;('to', 'you');2
+Bad Boy;('you', 'my');2
+Bad Boy;('my', 'friend');2
+Bad Boy;('friend', 'Ok');1
+Bad Boy;('Ok', 'let');1
+Bad Boy;('let', "'s");3
+Bad Boy;("'s", 'meet');1
+Bad Boy;('meet', 'up');1
+Bad Boy;('up', 'today');1
+Bad Boy;('today', 'for');1
+Bad Boy;('for', 'the');1
+Bad Boy;('the', 'exchange');1
+Bad Boy;('exchange', '.');1
+Bad Boy;('I', 'bring');1
+Bad Boy;('bring', 'the');3
+Bad Boy;('the', 'gear');3
+Bad Boy;('and', 'you');2
+Bad Boy;('you', 'bring');2
+Bad Boy;('the', 'cash');3
+Bad Boy;('cash', '.');2
+Bad Boy;('.', 'Next');1
+Bad Boy;('Next', '30');1
+Bad Boy;('30', 'mins');2
+Bad Boy;('mins', '?');1
+Bad Boy;('?', '?');13
+Bad Boy;('?', 'Ok');4
+Bad Boy;('Ok', 'and');1
+Bad Boy;('the', 'money');1
+Bad Boy;('money', '.');1
+Bad Boy;('.', 'By');1
+Bad Boy;('By', 'the');1
+Bad Boy;('the', 'way');1
+Bad Boy;('way', 'stop');1
+Bad Boy;('stop', 'calling');1
+Bad Boy;('calling', 'me');1
+Bad Boy;('me', "'shortly");1
+Bad Boy;("'shortly", "'");1
+Bad Boy;("'", 'Pleasure');1
+Bad Boy;('Pleasure', 'doing');2
+Bad Boy;('doing', 'business');2
+Bad Boy;('business', 'with');2
+Bad Boy;('with', 'you');2
+Bad Boy;('you', '...');1
+Bad Boy;('...', 'One');1
+Bad Boy;('One', 'good');1
+Bad Boy;('good', 'deal');1
+Bad Boy;('deal', ',');1
+Bad Boy;(',', 'deserves');1
+Bad Boy;('deserves', 'another');1
+Bad Boy;('another', '..');1
+Bad Boy;('..', 'So');1
+Bad Boy;('So', 'how');1
+Bad Boy;('how', 'about');1
+Bad Boy;('about', 'a');1
+Bad Boy;('a', 'drugs');1
+Bad Boy;('drugs', 'trade');1
+Bad Boy;('trade', '?');2
+Bad Boy;('?', 'Well');1
+Bad Boy;('Well', 'how');1
+Bad Boy;('how', 'convenient');1
+Bad Boy;('convenient', '?');1
+Bad Boy;('?', '\\nSo');1
+Bad Boy;('\\nSo', 'what');1
+Bad Boy;('what', "'s");2
+Bad Boy;("'s", 'the');2
+Bad Boy;('the', 'price');1
+Bad Boy;('price', 'of');1
+Bad Boy;('of', 'that');2
+Bad Boy;('that', 'then');1
+Bad Boy;('then', '?');1
+Bad Boy;('?', '≡ƒñ¼');1
+Bad Boy;('≡ƒñ¼', 'fuck');1
+Bad Boy;('fuck', 'that');1
+Bad Boy;('that', "'s");2
+Bad Boy;("'s", 'expensive');1
+Bad Boy;('expensive', 'Ok');1
+Bad Boy;('need', 'time');1
+Bad Boy;('time', 'to');1
+Bad Boy;('to', 'find');1
+Bad Boy;('find', 'the');1
+Bad Boy;('cash', 'Ok');1
+Bad Boy;('I', 'can');6
+Bad Boy;('can', 'get');1
+Bad Boy;('get', 'the');1
+Bad Boy;('.', 'Just');2
+Bad Boy;('Just', 'need');1
+Bad Boy;('need', '48hrs');1
+Bad Boy;('48hrs', '.');1
+Bad Boy;('.', 'When');1
+Bad Boy;('When', 'can');1
+Bad Boy;('can', 'we');1
+Bad Boy;('we', 'trade');1
+Bad Boy;('?', 'You');3
+Bad Boy;('You', 'ready');1
+Bad Boy;('ready', 'for');1
+Bad Boy;('for', 'an');2
+Bad Boy;('an', 'exchange');2
+Bad Boy;('exchange', '?');1
+Bad Boy;('?', 'Yes');2
+Bad Boy;('Yes', 'let');1
+Bad Boy;("'s", 'do');1
+Bad Boy;('do', 'this');1
+Bad Boy;('this', '.');1
+Bad Boy;('.', 'nan');3
+Bad Boy;('nan', 'Meet');1
+Bad Boy;('Meet', 'me');1
+Bad Boy;('me', 'here');1
+Bad Boy;('here', 'in');1
+Bad Boy;('in', '30');1
+Bad Boy;('mins', 'You');1
+Bad Boy;('You', 'there');1
+Bad Boy;('there', 'yet');1
+Bad Boy;('yet', '.');1
+Bad Boy;('.', 'Getting');1
+Bad Boy;('Getting', 'nervous');2
+Bad Boy;('nervous', 'carrying');1
+Bad Boy;('carrying', 'this');1
+Bad Boy;('this', 'much');1
+Bad Boy;('much', 'cash');1
+Bad Boy;('cash', '..');1
+Bad Boy;('..', 'Yes');1
+Bad Boy;('ok', 'I');2
+Bad Boy;('I', 'around');1
+Bad Boy;('around', 'the');1
+Bad Boy;('the', 'back');1
+Bad Boy;('back', 'of');1
+Bad Boy;('of', 'the');2
+Bad Boy;('the', 'shop');1
+Bad Boy;('shop', '...');1
+Bad Boy;('...', 'Black');1
+Bad Boy;('Black', 'BMW');1
+Bad Boy;('BMW', 'nan');1
+Bad Boy;('nan', 'Here');1
+Bad Boy;('Here', 'Glad');1
+Bad Boy;('Glad', 'we');1
+Bad Boy;('we', 'can');1
+Bad Boy;('can', 'work');1
+Bad Boy;('work', 'together');1
+Bad Boy;('together', 'again');1
+Bad Boy;('again', '.');1
+Bad Boy;('I', "'ll");1
+Bad Boy;("'ll", 'be');1
+Bad Boy;('be', 'back');1
+Bad Boy;('back', 'for');1
+Bad Boy;('for', 'more');1
+Bad Boy;('more', 'in');1
+Bad Boy;('in', 'due');1
+Bad Boy;('due', 'coursem');1
+Bad Boy;('coursem', 'Business');1
+Bad Boy;('Business', 'is');1
+Bad Boy;('is', 'booming');1
+Bad Boy;('booming', '.');1
+Bad Boy;('.', 'Going');1
+Bad Boy;('Going', 'to');1
+Bad Boy;('to', 'need');1
+Bad Boy;('need', 'another');1
+Bad Boy;('another', 'delivery');1
+Bad Boy;('delivery', 'in');1
+Bad Boy;('in', '2');1
+Bad Boy;('2', 'weeks');1
+Bad Boy;('weeks', '.');1
+Bad Boy;('.', 'Can');2
+Bad Boy;('Can', 'you');1
+Bad Boy;('you', 'deliver');1
+Bad Boy;('deliver', '?');1
+Bad Boy;('?', 'Make');1
+Bad Boy;('Make', 'it');1
+Bad Boy;('it', 'a');1
+Bad Boy;('a', 'week');1
+Bad Boy;('week', '.');1
+Bad Boy;('This', 'stuff');1
+Bad Boy;('stuff', 'is');1
+Bad Boy;('is', 'selling');1
+Bad Boy;('selling', 'so');1
+Bad Boy;('so', 'fast');1
+Bad Boy;('fast', 'I');1
+Bad Boy;('I', 'ca');1
+Bad Boy;('ca', "n't");1
+Bad Boy;("n't", 'keep');1
+Bad Boy;('keep', 'up');1
+Bad Boy;('up', '.');1
+Bad Boy;('.', 'Need');1
+Bad Boy;('Need', 'new');1
+Bad Boy;('new', 'packages');1
+Bad Boy;('packages', 'asap');1
+Bad Boy;('asap', 'No');1
+Bad Boy;('No', 'man');1
+Bad Boy;('man', '..');1
+Bad Boy;('..', 'stop');1
+Bad Boy;('stop', 'being');1
+Bad Boy;('being', 'so');1
+Bad Boy;('so', 'paranoid');1
+Bad Boy;('paranoid', 'Yer');1
+Bad Boy;('Yer', 'man');1
+Bad Boy;('.', 'Which');1
+Bad Boy;('Which', 'bit');1
+Bad Boy;('bit', 'of');1
+Bad Boy;('that', 'last');1
+Bad Boy;('last', 'message');1
+Bad Boy;('message', 'did');1
+Bad Boy;('did', "n't");1
+Bad Boy;("n't", 'you');1
+Bad Boy;('you', 'understand');1
+Bad Boy;('understand', '?');1
+Bad Boy;('can', 'sell');1
+Bad Boy;('sell', 'this');1
+Bad Boy;('this', 'shit');2
+Bad Boy;('shit', 'all');1
+Bad Boy;('all', 'day');1
+Bad Boy;('day', 'long');1
+Bad Boy;('long', '.');1
+Bad Boy;('I', 'am');1
+Bad Boy;('am', 'raking');1
+Bad Boy;('raking', 'in');1
+Bad Boy;('in', 'cash');1
+Bad Boy;('cash', '...');1
+Bad Boy;('...', 'Give');1
+Bad Boy;('Give', 'me');1
+Bad Boy;('me', 'a');2
+Bad Boy;('a', 'delivery');1
+Bad Boy;('delivery', 'date');1
+Bad Boy;('date', 'please');1
+Bad Boy;('please', '!');1
+Bad Boy;('!', 'nan');1
+Bad Boy;('nan', 'I');2
+Bad Boy;('need', 'more');1
+Bad Boy;('more', 'white');1
+Bad Boy;('white', 'lines');1
+Bad Boy;('lines', ',');1
+Bad Boy;(',', 'this');1
+Bad Boy;('this', 'big');1
+Bad Boy;('big', '!');1
+Bad Boy;('!', 'Yes');2
+Bad Boy;('Yes', 'yes');1
+Bad Boy;('yes', 'yes');1
+Bad Boy;('yes', 'How');1
+Bad Boy;('How', 'much');2
+Bad Boy;('much', 'Yes');1
+Bad Boy;('Yes', 'deal');1
+Bad Boy;('deal', '.');2
+Bad Boy;('get', 'cash');1
+Bad Boy;('cash', 'in');1
+Bad Boy;('in', '24hrs');1
+Bad Boy;('24hrs', '.');1
+Bad Boy;('Can', 'we');1
+Bad Boy;('we', 'meet');1
+Bad Boy;('meet', 'tomorrow');1
+Bad Boy;('tomorrow', 'at');1
+Bad Boy;('at', 'location');1
+Bad Boy;('location', 'you');1
+Bad Boy;('you', 'choose');1
+Bad Boy;('choose', '?');1
+Bad Boy;('Ok', '1830hrs');1
+Bad Boy;('1830hrs', 'ish');1
+Bad Boy;('ish', '@');1
+Bad Boy;('@', 'Barkaby');1
+Bad Boy;('Barkaby', 'Coop');1
+Bad Boy;('Coop', 'tomorrow');1
+Bad Boy;('tomorrow', 'night');1
+Bad Boy;('night', '.');1
+Bad Boy;('The', 'one');1
+Bad Boy;('one', 'by');1
+Bad Boy;('by', 'the');1
+Bad Boy;('the', 'train');1
+Bad Boy;('train', 'station');1
+Bad Boy;('station', '.');1
+Bad Boy;('.', 'Is');1
+Bad Boy;('Is', 'that');1
+Bad Boy;('that', 'the');1
+Bad Boy;('the', 'one');1
+Bad Boy;('one', 'at');1
+Bad Boy;('at', 'Jaktplan');1
+Bad Boy;('Jaktplan', '1');1
+Bad Boy;('1', '?');1
+Bad Boy;('Ok', 'are');1
+Bad Boy;('are', 'we');1
+Bad Boy;('we', 'still');1
+Bad Boy;('still', 'up');1
+Bad Boy;('up', 'for');1
+Bad Boy;('exchange', 'this');1
+Bad Boy;('this', 'evening');1
+Bad Boy;('evening', '?');1
+Bad Boy;('Yes', 'obviously');1
+Bad Boy;('obviously', '.');1
+Bad Boy;('.', '15,000kr');1
+Bad Boy;('15,000kr', 'is');1
+Bad Boy;('is', 'the');1
+Bad Boy;('the', 'deal');1
+Bad Boy;('be', 'there');1
+Bad Boy;('there', '.');1
+Bad Boy;('nan', 'Ok');1
+Bad Boy;('Ok', '....');1
+Bad Boy;('....', 'get');1
+Bad Boy;('get', 'there');1
+Bad Boy;('there', 'when');1
+Bad Boy;('when', 'I');1
+Bad Boy;('can', '.');1
+Bad Boy;('I', 'come');1
+Bad Boy;('come', 'alone');1
+Bad Boy;('alone', 'by');1
+Bad Boy;('by', 'train');1
+Bad Boy;('train', '..');1
+Bad Boy;('..', 'Be');1
+Bad Boy;('Be', 'there');1
+Bad Boy;('there', 'soon');1
+Bad Boy;('soon', 'man');1
+Bad Boy;('.', 'U');1
+Bad Boy;('U', 'got');1
+Bad Boy;('got', 'the');1
+Bad Boy;('gear', '?');2
+Bad Boy;('?', 'Yep');1
+Bad Boy;('Yep', 'coming');1
+Bad Boy;('coming', 'now');1
+Bad Boy;('now', '...');1
+Bad Boy;('...', 'Pleasure');1
+Bad Boy;('you', 'again');1
+Bad Boy;('again', '...');1
+Bad Boy;('...', 'Is');1
+Bad Boy;('Is', 'this');1
+Bad Boy;('this', 'some');1
+Bad Boy;('some', 'sort');1
+Bad Boy;('sort', 'of');1
+Bad Boy;('of', 'sick');1
+Bad Boy;('sick', 'April');1
+Bad Boy;('April', 'Fools');1
+Bad Boy;('Fools', 'joke');1
+Bad Boy;('joke', '?');1
+Bad Boy;('?', 'Really');1
+Bad Boy;('Really', 'ok');1
+Bad Boy;('ok', '?');1
+Bad Boy;('You', 'have');1
+Bad Boy;('have', 'my');1
+Bad Boy;('my', 'word');1
+Bad Boy;('word', '.');1
+Bad Boy;('Just', 'make');1
+Bad Boy;('make', 'sure');1
+Bad Boy;('sure', 'the');1
+Bad Boy;('gear', 'keeps');1
+Bad Boy;('keeps', 'flowing');1
+Bad Boy;('flowing', 'yer');1
+Bad Boy;('yer', '?');1
+Bad Boy;('?', 'Alright');1
+Bad Boy;('Alright', 'man');1
+Bad Boy;('.', 'Whatever');1
+Bad Boy;('Whatever', 'you');1
+Bad Boy;('you', 'say');1
+Bad Boy;('say', 'boss');1
+Bad Boy;('boss', '....');1
+Bad Boy;('....', 'nan');2
+Bad Boy;('nan', 'Just');1
+Bad Boy;('Just', 'promise');1
+Bad Boy;('promise', 'me');1
+Bad Boy;('me', 'I');1
+Bad Boy;('can', 'stay');1
+Bad Boy;('stay', 'in');1
+Bad Boy;('in', 'business');1
+Bad Boy;('business', '....');1
+Bad Boy;('....', 'https');1
+Bad Boy;(':', '//images.app.goo.gl/ykj9WorVVQbVh3kd7');1
+Bad Boy;('//images.app.goo.gl/ykj9WorVVQbVh3kd7', 'Getting');1
+Bad Boy;('nervous', '.');1
+Bad Boy;('.', 'Am');1
+Bad Boy;('Am', 'I');1
+Bad Boy;('I', 'overthinking');1
+Bad Boy;('overthinking', 'things');1
+Bad Boy;('things', '...');1
+Bad Boy;('...', '?');1
+Bad Boy;('nan', 'So');1
+Bad Boy;('So', 'what');1
+Bad Boy;('the', 'plan');1
+Bad Boy;('plan', '?');1
+Bad Boy;('You', 'buy');1
+Bad Boy;('buy', 'or');1
+Bad Boy;('or', 'sell');1
+Bad Boy;('sell', '?');1
+Bad Boy;('can', 'buy');1
+Bad Boy;('buy', 'that');1
+Bad Boy;('that', '.');1
+Bad Boy;('.', 'Looks');1
+Bad Boy;('Looks', 'good');1
+Bad Boy;('good', '.');1
+Bad Boy;('.', '1000kr');1
+Bad Boy;('1000kr', 'to');1
+Bad Boy;('my', 'good');1
+Bad Boy;('good', 'man');1
+Bad Boy;('man', '...');1
+Bad Boy;('...', 'nan');1
+Bad Boy;('I', 'got');1
+Bad Boy;('got', 'a');1
+Bad Boy;('a', 'few');1
+Bad Boy;('few', 'things');1
+Bad Boy;('things', 'to');1
+Bad Boy;('buy', 'and');1
+Bad Boy;('and', 'sell');1
+Bad Boy;('sell', '.');1
+Bad Boy;('can', 'fence');1
+Bad Boy;('fence', 'some');1
+Bad Boy;('some', 'of');1
+Bad Boy;('of', 'your');1
+Bad Boy;('your', 'gear');1
+Bad Boy;('gear', 'if');1
+Bad Boy;('if', 'you');1
+Bad Boy;('you', 'like');1
+Bad Boy;('like', '?');1
+Bad Boy;('?', 'What');2
+Bad Boy;('What', 'u');1
+Bad Boy;('u', 'got');1
+Bad Boy;('got', 'dude');1
+Bad Boy;('dude', '....');1
+Bad Boy;('....', 'Christ');1
+Bad Boy;('Christ', 'almighty');2
+Bad Boy;('almighty', '.');1
+Bad Boy;('Did', 'you');1
+Bad Boy;('you', 'rob');1
+Bad Boy;('rob', 'a');1
+Bad Boy;('a', 'bank');1
+Bad Boy;('bank', '?');1
+Bad Boy;('to', 'see');1
+Bad Boy;('see', 'this');1
+Bad Boy;('this', 'stuff');1
+Bad Boy;('stuff', 'in');1
+Bad Boy;('in', 'person');1
+Bad Boy;('person', 'and');1
+Bad Boy;('and', 'check');1
+Bad Boy;('check', 'the');1
+Bad Boy;('the', 'quality');1
+Bad Boy;('quality', 'of');1
+Bad Boy;('the', 'merchandise');1
+Bad Boy;('merchandise', '.');1
+Bad Boy;('.', 'For');1
+Bad Boy;('For', 'all');1
+Bad Boy;('all', 'I');1
+Bad Boy;('you', 'just');1
+Bad Boy;('just', 'downloaded');1
+Bad Boy;('downloaded', 'this');1
+Bad Boy;('shit', 'off');1
+Bad Boy;('off', 'the');1
+Bad Boy;('the', 'internet');1
+Bad Boy;('internet', '.');1
+Bad Boy;('.', 'Not');1
+Bad Boy;('Not', 'that');1
+Bad Boy;('that', 'I');1
+Bad Boy;('I', 'do');2
+Bad Boy;('do', "n't");2
+Bad Boy;("n't", 'trust');1
+Bad Boy;('trust', 'you');1
+Bad Boy;('you', 'but');1
+Bad Boy;('but', 'I');1
+Bad Boy;("n't", '....');1
+Bad Boy;('nan', 'Send');1
+Bad Boy;('Send', 'me');1
+Bad Boy;('a', 'sample');1
+Bad Boy;('sample', 'tonight');1
+Bad Boy;('tonight', 'Dude');1
+Bad Boy;('Dude', 'stop');1
+Bad Boy;('stop', 'sending');1
+Bad Boy;('sending', 'me');1
+Bad Boy;('me', 'useless');1
+Bad Boy;('useless', 'shit');1
+Bad Boy;('shit', 'and');1
+Bad Boy;('and', 'let');1
+Bad Boy;("'s", 'get');1
+Bad Boy;('get', 'down');1
+Bad Boy;('down', 'to');1
+Bad Boy;('to', 'business');1
+Bad Boy;('business', '...');1
+Bad Boy;('...', 'You');1
+Bad Boy;('You', 'pay');1
+Bad Boy;('pay', 'a');1
+Bad Boy;('a', 'lot');1
+Bad Boy;('lot', 'my');1
+Bad Boy;('friend', '....');1
+Bad Boy;('....', 'Nice');1
+Bad Boy;('Nice', '.');1
+Bad Boy;('.', 'Dollar');1
+Bad Boy;('Dollar', 'seems');1
+Bad Boy;('seems', 'pretty');1
+Bad Boy;('pretty', 'worthless');1
+Bad Boy;('worthless', 'right');1
+Bad Boy;('right', 'now');1
+Bad Boy;('now', ',');1
+Bad Boy;(',', 'so');1
+Bad Boy;('so', 'happy');1
+Bad Boy;('happy', 'the');1
+Bad Boy;('the', 'cat');1
+Bad Boy;('cat', 'liked');1
+Bad Boy;('liked', 'it');1
+Bad Boy;('it', '.');1
+Bad Boy;('much', '?');2
+Bad Boy;('nan', 'Really');1
+Bad Boy;('Really', '?');1
+Bad Boy;('?', 'Do');1
+Bad Boy;('Do', "n't");1
+Bad Boy;("n't", 'bother');1
+Bad Boy;('bother', 'then');1
+Bad Boy;('then', '....');1
+Bad Boy;('....', 'Tick');1
+Bad Boy;('Tick', 'Tock');1
+Bad Boy;('Tock', 'nan');1
+Bad Boy;('nan', 'Well');1
+Bad Boy;('Well', 'you');1
+Bad Boy;('you', 'know');1
+Bad Boy;('know', 'me');1
+Bad Boy;('I', 'like');1
+Bad Boy;('like', 'some');1
+Bad Boy;('some', 'trouble');1
+Bad Boy;('trouble', 'because');1
+Bad Boy;('because', 'I');1
+Bad Boy;("'m", 'a');1
+Bad Boy;('a', 'bad');1
+Bad Boy;('bad', 'boy');1
+Bad Boy;('boy', '!');1
+Bad Boy;('!', '!');3
+Bad Boy;('I', 'give');1
+Bad Boy;('give', 'you');1
+Bad Boy;('you', '1000kr');1
+Bad Boy;('1000kr', 'tomorrow');1
+Bad Boy;('tomorrow', 'I');1
+Bad Boy;('I', 'guess');1
+Bad Boy;('guess', 'I');1
+Bad Boy;('I', 'should');1
+Bad Boy;('should', "n't");1
+Bad Boy;("n't", 'ask');1
+Bad Boy;('ask', 'where');1
+Bad Boy;('where', 'they');1
+Bad Boy;('they', 'came');1
+Bad Boy;('came', 'from');1
+Bad Boy;('from', '?');1
+Bad Boy;('What', "'s");1
+Bad Boy;("'s", 'up');1
+Bad Boy;('up', '?');1
+Bad Boy;('?', 'Got');1
+Bad Boy;('Got', 'any');1
+Bad Boy;('any', 'gear');1
+Bad Boy;('?', 'Gold');1
+Bad Boy;('Gold', 'stuff');1
+Bad Boy;('stuff', '?');1
+Bad Boy;('?', 'Yerrrrr\\nHow');1
+Bad Boy;('Yerrrrr\\nHow', 'much');1
+Bad Boy;('?', 'Christ');1
+Bad Boy;('almighty', 'that');1
+Bad Boy;("'s", 'steep');1
+Bad Boy;('steep', '.');1
+Bad Boy;('.', '7500kr');1
+Bad Boy;('7500kr', 'best');1
+Bad Boy;('best', 'offer4');1
+Bad Boy;('offer4', 'Hey');1
+Bad Boy;('Hey', 'you');1
+Bad Boy;('you', 'looking');1
+Bad Boy;('looking', 'for');1
+Bad Boy;('for', 'a');1
+Bad Boy;('a', 'safe');1
+Bad Boy;('safe', 'cracker');1
+Bad Boy;('cracker', '?');1
+Bad Boy;('Ok', 'deal');1
+Bad Boy;('deal', 'nan');1
+Maverick SOB;('Oh', 'jeez');1
+Maverick SOB;('jeez', '.');1
+Maverick SOB;('.', 'U');1
+Maverick SOB;('U', 'r');1
+Maverick SOB;('r', 'everywhere');1
+Maverick SOB;('everywhere', 'What');1
+Maverick SOB;('What', 'do');1
+Maverick SOB;('do', 'you');2
+Maverick SOB;('you', 'want');2
+Maverick SOB;('want', 'man');1
+Maverick SOB;('man', '?');1
+Maverick SOB;('?', 'OK');4
+Maverick SOB;('OK', 'but');1
+Maverick SOB;('but', 'how');1
+Maverick SOB;('how', 'can');1
+Maverick SOB;('can', 'I');1
+Maverick SOB;('I', 'trust');1
+Maverick SOB;('trust', 'you');1
+Maverick SOB;('you', 'after');1
+Maverick SOB;('after', 'last');1
+Maverick SOB;('last', 'time');1
+Maverick SOB;('time', '?');1
+Maverick SOB;('?', 'You');1
+Maverick SOB;('You', 'really');1
+Maverick SOB;('really', 'screwed');1
+Maverick SOB;('screwed', 'up');1
+Maverick SOB;('up', '...');1
+Maverick SOB;('...', 'Ha');1
+Maverick SOB;('Ha', 'yer');1
+Maverick SOB;('yer', 'right');1
+Maverick SOB;('right', '.');1
+Maverick SOB;('.', 'How');2
+Maverick SOB;('How', 'many');1
+Maverick SOB;('many', 'times');1
+Maverick SOB;('times', 'have');1
+Maverick SOB;('have', 'I');1
+Maverick SOB;('I', 'heard');1
+Maverick SOB;('heard', 'that');1
+Maverick SOB;('that', 'shit');1
+Maverick SOB;('shit', 'before');1
+Maverick SOB;('before', '.');1
+Maverick SOB;('.', '≡ƒñö');1
+Maverick SOB;('≡ƒñö', 'I');1
+Maverick SOB;('I', 'need');3
+Maverick SOB;('need', 'to');2
+Maverick SOB;('to', 'speak');2
+Maverick SOB;('speak', 'to');2
+Maverick SOB;('to', 'Goose');1
+Maverick SOB;('Goose', 'about');1
+Maverick SOB;('about', 'this');1
+Maverick SOB;('this', '...');2
+Maverick SOB;('...', 'OK');2
+Maverick SOB;('OK', 'Bad');1
+Maverick SOB;('Bad', 'Boy');1
+Maverick SOB;('Boy', '...');1
+Maverick SOB;('...', 'Goose');1
+Maverick SOB;('Goose', 'agreed');1
+Maverick SOB;('agreed', 'to');1
+Maverick SOB;('to', 'give');1
+Maverick SOB;('give', 'you');1
+Maverick SOB;('you', 'a');1
+Maverick SOB;('a', 'second');1
+Maverick SOB;('second', 'chance');1
+Maverick SOB;('chance', ',');1
+Maverick SOB;(',', 'but');2
+Maverick SOB;('but', 'you');1
+Maverick SOB;('you', 'need');1
+Maverick SOB;('to', 'do');1
+Maverick SOB;('do', 'everything');1
+Maverick SOB;('everything', 'we');1
+Maverick SOB;('we', 'say');1
+Maverick SOB;('say', 'OK');1
+Maverick SOB;('OK', '?');3
+Maverick SOB;('?', 'Dear');1
+Maverick SOB;('Dear', 'God');1
+Maverick SOB;('God', ',');1
+Maverick SOB;(',', 'please');1
+Maverick SOB;('please', 'make');1
+Maverick SOB;('make', 'sure');2
+Maverick SOB;('sure', 'I');1
+Maverick SOB;('I', 'do');1
+Maverick SOB;('do', "n't");2
+Maverick SOB;("n't", '.');1
+Maverick SOB;('.', 'Sick');1
+Maverick SOB;('Sick', 'of');1
+Maverick SOB;('of', 'cleaning');1
+Maverick SOB;('cleaning', 'up');1
+Maverick SOB;('up', 'after');1
+Maverick SOB;('after', 'others');1
+Maverick SOB;('others', '.');1
+Maverick SOB;('.', 'First');1
+Maverick SOB;('First', 'job');1
+Maverick SOB;('job', '.');2
+Maverick SOB;('.', 'Find');1
+Maverick SOB;('Find', 'us');1
+Maverick SOB;('us', 'a');1
+Maverick SOB;('a', 'place');1
+Maverick SOB;('place', 'to');1
+Maverick SOB;('to', 'rob');1
+Maverick SOB;('rob', '..');1
+Maverick SOB;('..', 'In');1
+Maverick SOB;('In', 'the');1
+Maverick SOB;('the', 'city');1
+Maverick SOB;('city', '?');1
+Maverick SOB;('?', 'Nah');1
+Maverick SOB;('Nah', 'man');1
+Maverick SOB;('man', 'that');1
+Maverick SOB;('that', "'s");1
+Maverick SOB;("'s", 'someone');1
+Maverick SOB;('someone', 'else');1
+Maverick SOB;('else', "'s");1
+Maverick SOB;("'s", 'turf');1
+Maverick SOB;('turf', '.');1
+Maverick SOB;('.', 'We');3
+Maverick SOB;('We', 'stick');1
+Maverick SOB;('stick', 'to');1
+Maverick SOB;('to', 'the');1
+Maverick SOB;('the', 'suburbs');1
+Maverick SOB;('suburbs', 'or');1
+Maverick SOB;('or', 'get');1
+Maverick SOB;('get', 'whacked');1
+Maverick SOB;('whacked', '.');1
+Maverick SOB;('.', 'Local');1
+Maverick SOB;('Local', 'numbers');1
+Maverick SOB;('numbers', 'only');1
+Maverick SOB;('only', 'Maybe');1
+Maverick SOB;('Maybe', '.');1
+Maverick SOB;('How', 'much');1
+Maverick SOB;('much', 'do');1
+Maverick SOB;('want', '?');1
+Maverick SOB;('?', 'Deal');1
+Maverick SOB;('Deal', 'OK');1
+Maverick SOB;('OK', 'later');1
+Maverick SOB;('later', 'on');1
+Maverick SOB;('on', 'meet');1
+Maverick SOB;('meet', 'here');1
+Maverick SOB;('here', '.');2
+Maverick SOB;('.', 'nan');3
+Maverick SOB;('nan', 'What');2
+Maverick SOB;('What', 'time');1
+Maverick SOB;('time', 'do');1
+Maverick SOB;('do', 'ya');1
+Maverick SOB;('ya', 'think');1
+Maverick SOB;('think', '?');1
+Maverick SOB;('?', 'Yer');1
+Maverick SOB;('Yer', 'OK');2
+Maverick SOB;('OK', 'I');3
+Maverick SOB;('I', 'can');1
+Maverick SOB;('can', 'do');1
+Maverick SOB;('do', 'that');1
+Maverick SOB;('that', '.');1
+Maverick SOB;('.', 'See');2
+Maverick SOB;('See', 'you');2
+Maverick SOB;('you', 'there');1
+Maverick SOB;('there', 'shortly');1
+Maverick SOB;('shortly', '.');1
+Maverick SOB;('.', 'Bring');2
+Maverick SOB;('Bring', 'the');2
+Maverick SOB;('the', 'packages');1
+Maverick SOB;('packages', '≡ƒôª');1
+Maverick SOB;('≡ƒôª', 'nan');1
+Maverick SOB;('nan', 'Good');1
+Maverick SOB;('Good', 'idea');1
+Maverick SOB;('idea', 'to');1
+Maverick SOB;('to', 'make');2
+Maverick SOB;('make', 'it');1
+Maverick SOB;('it', 'look');1
+Maverick SOB;('look', 'like');1
+Maverick SOB;('like', 'you');1
+Maverick SOB;('you', 'were');1
+Maverick SOB;('were', 'just');1
+Maverick SOB;('just', 'picking');1
+Maverick SOB;('picking', 'up');1
+Maverick SOB;('up', 'a');1
+Maverick SOB;('a', 'regular');1
+Maverick SOB;('regular', 'parcel');1
+Maverick SOB;('parcel', '.');1
+Maverick SOB;('.', 'That');1
+Maverick SOB;('That', 'was');1
+Maverick SOB;('was', 'an');1
+Maverick SOB;('an', 'expensive');1
+Maverick SOB;('expensive', 'trade');1
+Maverick SOB;('trade', 'nan');1
+Maverick SOB;('nan', 'Funnily');1
+Maverick SOB;('Funnily', 'enough');1
+Maverick SOB;('enough', 'I');1
+Maverick SOB;('I', 'have');1
+Maverick SOB;('have', 'a');1
+Maverick SOB;('a', 'kilo');1
+Maverick SOB;('kilo', 'of');1
+Maverick SOB;('of', 'white');1
+Maverick SOB;('white', 'powder');1
+Maverick SOB;('powder', 'available');1
+Maverick SOB;('available', '...');1
+Maverick SOB;('...', 'nan');5
+Maverick SOB;('nan', '$');1
+Maverick SOB;('$', '110,000');1
+Maverick SOB;('110,000', 'allowing');1
+Maverick SOB;('allowing', 'for');1
+Maverick SOB;('for', 'inflation');1
+Maverick SOB;('inflation', '...');1
+Maverick SOB;('...', 'Yes');1
+Maverick SOB;('Yes', 'well');1
+Maverick SOB;('well', 'finest');1
+Maverick SOB;('finest', 'quality');1
+Maverick SOB;('quality', ',');1
+Maverick SOB;(',', 'very');1
+Maverick SOB;('very', 'cheap');1
+Maverick SOB;('cheap', 'to');1
+Maverick SOB;('to', 'you');1
+Maverick SOB;('you', 'my');1
+Maverick SOB;('my', 'friend');1
+Maverick SOB;('friend', '.');1
+Maverick SOB;('.', 'You');3
+Maverick SOB;('You', 'can');1
+Maverick SOB;('can', 'cut');1
+Maverick SOB;('cut', 'it');1
+Maverick SOB;('it', 'down');1
+Maverick SOB;('down', 'and');1
+Maverick SOB;('and', 'quadruple');1
+Maverick SOB;('quadruple', 'the');1
+Maverick SOB;('the', 'value');1
+Maverick SOB;('value', '...');1
+Maverick SOB;('...', 'Tick');1
+Maverick SOB;('Tick', 'tock');1
+Maverick SOB;('tock', '....');1
+Maverick SOB;('....', 'Just');1
+Maverick SOB;('Just', 'what');1
+Maverick SOB;('what', 'I');1
+Maverick SOB;('I', 'needed');1
+Maverick SOB;('needed', 'to');1
+Maverick SOB;('to', 'hear');1
+Maverick SOB;('hear', 'thank');1
+Maverick SOB;('thank', 'you');1
+Maverick SOB;('you', '.');1
+Maverick SOB;('.', 'Let');1
+Maverick SOB;('Let', "'s");1
+Maverick SOB;("'s", 'do');1
+Maverick SOB;('do', 'Wednesday');1
+Maverick SOB;('Wednesday', 'evening');1
+Maverick SOB;('evening', '.');1
+Maverick SOB;('.', '≡ƒæî');1
+Maverick SOB;('≡ƒæî', 'I');1
+Maverick SOB;('I', 'will');2
+Maverick SOB;('will', 'be');2
+Maverick SOB;('be', 'there');2
+Maverick SOB;('there', 'bring');1
+Maverick SOB;('bring', 'the');2
+Maverick SOB;('the', 'cash');2
+Maverick SOB;('cash', 'and');1
+Maverick SOB;('and', 'you');1
+Maverick SOB;('you', 'get');1
+Maverick SOB;('get', 'the');1
+Maverick SOB;('the', 'delivery');1
+Maverick SOB;('delivery', 'of');1
+Maverick SOB;('of', 'powder');1
+Maverick SOB;('powder', '....');1
+Maverick SOB;('....', '10.minutes');1
+Maverick SOB;('10.minutes', 'OK');1
+Maverick SOB;('I', "'m");2
+Maverick SOB;("'m", 'here');1
+Maverick SOB;('here', 'now');1
+Maverick SOB;('now', '.');2
+Maverick SOB;('.', 'Black');1
+Maverick SOB;('Black', 'jacket');1
+Maverick SOB;('jacket', '.');1
+Maverick SOB;('.', 'Where');1
+Maverick SOB;('Where', 'are');1
+Maverick SOB;('are', 'you');1
+Maverick SOB;('you', 'at');1
+Maverick SOB;('at', '?');1
+Maverick SOB;('?', '?');18
+Maverick SOB;('OK', 'yes');1
+Maverick SOB;('yes', 'yes');1
+Maverick SOB;('yes', 'I');2
+Maverick SOB;('I', 'see');1
+Maverick SOB;('see', 'you');1
+Maverick SOB;('you', '≡ƒæÇ');1
+Maverick SOB;('≡ƒæÇ', 'nan');1
+Maverick SOB;('nan', 'Pleasure');1
+Maverick SOB;('Pleasure', 'doing');1
+Maverick SOB;('doing', 'business');1
+Maverick SOB;('business', 'with');1
+Maverick SOB;('with', 'you');1
+Maverick SOB;('you', 'Yer');1
+Maverick SOB;('Yer', 'absolutely');1
+Maverick SOB;('absolutely', 'Wow');1
+Maverick SOB;('Wow', 'really');1
+Maverick SOB;('really', '?');1
+Maverick SOB;('?', '\\nOK');1
+Maverick SOB;('\\nOK', 'let');1
+Maverick SOB;('let', 'me');2
+Maverick SOB;('me', 'check');1
+Maverick SOB;('check', 'Γ£ö');1
+Maverick SOB;('Γ£ö', 'God');1
+Maverick SOB;('God', 'damn');1
+Maverick SOB;('damn', '.');1
+Maverick SOB;('.', 'OK');1
+Maverick SOB;('will', 'put');1
+Maverick SOB;('put', 'another');1
+Maverick SOB;('another', 'call');1
+Maverick SOB;('call', 'in');1
+Maverick SOB;('in', '...');1
+Maverick SOB;('nan', 'Are');1
+Maverick SOB;('Are', 'you');1
+Maverick SOB;('you', 'watching');1
+Maverick SOB;('watching', 'me');1
+Maverick SOB;('me', '?');2
+Maverick SOB;('OK', 'ok');2
+Maverick SOB;('ok', 'So');1
+Maverick SOB;('So', 'you');1
+Maverick SOB;('you', 'still');1
+Maverick SOB;('still', 'want');1
+Maverick SOB;('want', 'stuff');1
+Maverick SOB;('stuff', '?');1
+Maverick SOB;('ok', 'working');1
+Maverick SOB;('working', 'on');1
+Maverick SOB;('on', 'it');1
+Maverick SOB;('it', 'nan');1
+Maverick SOB;('nan', 'Yer');1
+Maverick SOB;('OK', 'man');1
+Maverick SOB;('man', 'I');1
+Maverick SOB;('I', 'got');1
+Maverick SOB;('got', 'the');1
+Maverick SOB;('the', 'message');1
+Maverick SOB;('message', 'nan');1
+Maverick SOB;('nan', 'A');1
+Maverick SOB;('A', 'package');1
+Maverick SOB;('package', 'has');1
+Maverick SOB;('has', 'arrived');1
+Maverick SOB;('arrived', '....');1
+Maverick SOB;('....', 'You');1
+Maverick SOB;('You', 'still');1
+Maverick SOB;('still', 'in');1
+Maverick SOB;('in', 'the');1
+Maverick SOB;('the', 'market');1
+Maverick SOB;('market', '?');1
+Maverick SOB;('?', 'Not');1
+Maverick SOB;('Not', 'as');1
+Maverick SOB;('as', 'big');1
+Maverick SOB;('big', 'a');1
+Maverick SOB;('a', 'quantity');1
+Maverick SOB;('quantity', 'available');1
+Maverick SOB;('available', 'this');1
+Maverick SOB;('this', 'time');1
+Maverick SOB;('time', '.');1
+Maverick SOB;('.', '15,000kr');1
+Maverick SOB;('15,000kr', 'for');1
+Maverick SOB;('for', '100');1
+Maverick SOB;('100', 'grams');1
+Maverick SOB;('grams', 'Yep');1
+Maverick SOB;('Yep', '.');1
+Maverick SOB;('.', 'Will');2
+Maverick SOB;('Will', 'let');2
+Maverick SOB;('let', 'you');2
+Maverick SOB;('you', 'know');2
+Maverick SOB;('know', '.');1
+Maverick SOB;('.', 'Need');1
+Maverick SOB;('Need', 'to');1
+Maverick SOB;('to', 'someone');1
+Maverick SOB;('someone', '...');1
+Maverick SOB;('OK', 'that');1
+Maverick SOB;('that', 'works');1
+Maverick SOB;('works', '.');1
+Maverick SOB;('you', 'tomorrow');1
+Maverick SOB;('tomorrow', 'Yes');1
+Maverick SOB;('Yes', 'be');1
+Maverick SOB;('there', 'sometime');1
+Maverick SOB;('sometime', 'between');1
+Maverick SOB;('between', '6.30-7pm');1
+Maverick SOB;('6.30-7pm', '.');1
+Maverick SOB;('know', 'when');1
+Maverick SOB;('when', 'I');1
+Maverick SOB;('I', 'leave');1
+Maverick SOB;('leave', 'with');1
+Maverick SOB;('with', 'a');1
+Maverick SOB;('a', '30');1
+Maverick SOB;('30', 'min');1
+Maverick SOB;('min', 'warning');1
+Maverick SOB;('warning', '.');1
+Maverick SOB;('cash', '≡ƒÆ╕');1
+Maverick SOB;('≡ƒÆ╕', 'Good');1
+Maverick SOB;('Good', '≡ƒæì');1
+Maverick SOB;('≡ƒæì', 'OK');1
+Maverick SOB;('OK', 'got');1
+Maverick SOB;('got', 'some');1
+Maverick SOB;('some', 'jobs');1
+Maverick SOB;('jobs', 'done');1
+Maverick SOB;('done', 'and');1
+Maverick SOB;('and', 'on');1
+Maverick SOB;('on', 'schedule');1
+Maverick SOB;('schedule', '.');1
+Maverick SOB;('.', 'Be');1
+Maverick SOB;('Be', 'there');1
+Maverick SOB;('there', 'on');1
+Maverick SOB;('on', 'time');1
+Maverick SOB;('time', 'or');1
+Maverick SOB;('or', 'early');1
+Maverick SOB;('early', 'As');1
+Maverick SOB;('As', 'and');1
+Maverick SOB;('and', 'when');1
+Maverick SOB;('when', '.');1
+Maverick SOB;('.', 'Just');1
+Maverick SOB;('Just', 'bring');1
+Maverick SOB;('the', '≡ƒÆ░');1
+Maverick SOB;('≡ƒÆ░', 'Yes');1
+Maverick SOB;('Yes', 'you');1
+Maverick SOB;('you', 'can');1
+Maverick SOB;('can', 'trust');1
+Maverick SOB;('trust', 'me');1
+Maverick SOB;('me', ':');1
+Maverick SOB;(':', ')');1
+Maverick SOB;(')', 'Meet');1
+Maverick SOB;('Meet', 'me');3
+Maverick SOB;('me', 'outside');1
+Maverick SOB;('outside', 'back');1
+Maverick SOB;('back', 'of');1
+Maverick SOB;('of', 'shop');1
+Maverick SOB;('shop', 'Meet');1
+Maverick SOB;('me', 'here');1
+Maverick SOB;('nan', 'nan');16
+Maverick SOB;('nan', 'Likewise');1
+Maverick SOB;('Likewise', '.');1
+Maverick SOB;('.', 'Call');1
+Maverick SOB;('Call', 'again');1
+Maverick SOB;('again', ';');1
+Maverick SOB;(';', ')');1
+Maverick SOB;(')', 'Hey');1
+Maverick SOB;('Hey', '.');1
+Maverick SOB;('.', 'If');1
+Maverick SOB;('If', 'you');1
+Maverick SOB;('you', 'hear');1
+Maverick SOB;('hear', 'from');1
+Maverick SOB;('from', 'Goose');1
+Maverick SOB;('Goose', ',');1
+Maverick SOB;(',', 'let');1
+Maverick SOB;('me', 'know');1
+Maverick SOB;('know', 'please');1
+Maverick SOB;('please', '.');1
+Maverick SOB;('We', 'had');1
+Maverick SOB;('had', 'a');1
+Maverick SOB;('a', 'disagreement');1
+Maverick SOB;('disagreement', '.');1
+Maverick SOB;('.', 'Want');1
+Maverick SOB;('Want', 'to');3
+Maverick SOB;('sure', 'he');1
+Maverick SOB;('he', 'does');2
+Maverick SOB;('does', "n't");1
+Maverick SOB;("n't", 'start');1
+Maverick SOB;('start', 'doing');1
+Maverick SOB;('doing', 'deals');1
+Maverick SOB;('deals', 'behind');1
+Maverick SOB;('behind', 'my');1
+Maverick SOB;('my', 'back');1
+Maverick SOB;('back', '....');1
+Maverick SOB;('....', 'I');1
+Maverick SOB;('I', 'am');1
+Maverick SOB;('am', 'your');1
+Maverick SOB;('your', 'supplier');1
+Maverick SOB;('supplier', 'OK');1
+Maverick SOB;('?', 'No');1
+Maverick SOB;('No', 'man');1
+Maverick SOB;('man', '.');1
+Maverick SOB;('.', 'Did');1
+Maverick SOB;('Did', "n't");1
+Maverick SOB;("n't", 'notice');1
+Maverick SOB;('notice', 'the');1
+Maverick SOB;('the', 'date');1
+Maverick SOB;('date', 'until');1
+Maverick SOB;('until', 'now');1
+Maverick SOB;('.', 'This');1
+Maverick SOB;('This', 'is');1
+Maverick SOB;('is', 'straight');1
+Maverick SOB;('straight', 'up');1
+Maverick SOB;('up', 'serious');1
+Maverick SOB;('serious', '.');1
+Maverick SOB;('We', 'have');1
+Maverick SOB;('have', 'internal');1
+Maverick SOB;('internal', 'issues');1
+Maverick SOB;('issues', '.');1
+Maverick SOB;('.', 'No');1
+Maverick SOB;('No', 'problem');1
+Maverick SOB;('problem', 'for');1
+Maverick SOB;('for', 'you');2
+Maverick SOB;('you', ',');1
+Maverick SOB;('but', 'only');1
+Maverick SOB;('only', 'talk');1
+Maverick SOB;('talk', 'to');1
+Maverick SOB;('to', 'me');1
+Maverick SOB;('me', 'OK');1
+Maverick SOB;('?', 'Yes');1
+Maverick SOB;('Yes', 'yes');1
+Maverick SOB;('yes', '.');1
+Maverick SOB;('.', 'And');1
+Maverick SOB;('And', 'if');1
+Maverick SOB;('if', 'he');1
+Maverick SOB;('does', 'reach');1
+Maverick SOB;('reach', 'out');1
+Maverick SOB;('out', ',');1
+Maverick SOB;(',', 'do');1
+Maverick SOB;("n't", 'listen');1
+Maverick SOB;('listen', 'to');1
+Maverick SOB;('to', 'any');1
+Maverick SOB;('any', 'of');1
+Maverick SOB;('of', 'his');1
+Maverick SOB;('his', 'nonsense');1
+Maverick SOB;('nonsense', '.');1
+Maverick SOB;('.', 'Guy');1
+Maverick SOB;('Guy', 'is');1
+Maverick SOB;('is', 'acting');1
+Maverick SOB;('acting', 'the');1
+Maverick SOB;('the', 'fool');1
+Maverick SOB;('fool', 'right');1
+Maverick SOB;('right', 'now');1
+Maverick SOB;('now', 'alright');1
+Maverick SOB;('alright', '≡ƒÖä');1
+Maverick SOB;('≡ƒÖä', 'Sure');1
+Maverick SOB;('Sure', '...');1
+Maverick SOB;('...', 'Dude');1
+Maverick SOB;('Dude', '.');1
+Maverick SOB;('.', 'All');1
+Maverick SOB;('All', 'is');1
+Maverick SOB;('is', 'good');1
+Maverick SOB;('good', '.');1
+Maverick SOB;('.', 'Relax');1
+Maverick SOB;('Relax', '.');1
+Maverick SOB;('.', 'I');2
+Maverick SOB;('I', 'take');1
+Maverick SOB;('take', 'care');1
+Maverick SOB;('care', 'of');1
+Maverick SOB;('of', 'all');1
+Maverick SOB;('all', 'this');2
+Maverick SOB;('...', 'Split');1
+Maverick SOB;('Split', 'personality');1
+Maverick SOB;('personality', '?');1
+Maverick SOB;('?', 'nan');8
+Maverick SOB;('nan', 'Damn');2
+Maverick SOB;('Damn', '...');1
+Maverick SOB;('...', 'what');1
+Maverick SOB;('what', 'else');1
+Maverick SOB;('else', 'u');1
+Maverick SOB;('u', 'got');1
+Maverick SOB;('got', '.');1
+Maverick SOB;('need', 'tools');1
+Maverick SOB;('tools', 'for');1
+Maverick SOB;('for', '2');1
+Maverick SOB;('2', 'at');1
+Maverick SOB;('at', 'least');1
+Maverick SOB;('least', 'on');1
+Maverick SOB;('on', 'next');1
+Maverick SOB;('next', 'job');1
+Maverick SOB;('nan', 'Got');1
+Maverick SOB;('Got', 'some');1
+Maverick SOB;('some', 'more');1
+Maverick SOB;('more', 'for');1
+Maverick SOB;('you', '...');1
+Maverick SOB;('Damn', 'man');1
+Maverick SOB;('man', 'you');1
+Maverick SOB;('you', "'re");1
+Maverick SOB;("'re", 'Fagin');1
+Maverick SOB;('Fagin', 'now');1
+Maverick SOB;('now', '?');1
+Maverick SOB;('?', 'So');1
+Maverick SOB;('So', 'what');1
+Maverick SOB;('what', "'s");1
+Maverick SOB;("'s", 'up');1
+Maverick SOB;('up', '.');1
+Maverick SOB;('You', 'selling');1
+Maverick SOB;('selling', 'anything');1
+Maverick SOB;('anything', 'more');1
+Maverick SOB;('more', '?');1
+Maverick SOB;('?', 'Oh');1
+Maverick SOB;('Oh', 'man');1
+Maverick SOB;('man', ',');1
+Maverick SOB;(',', 'yes');1
+Maverick SOB;('need', 'help');1
+Maverick SOB;('help', 'to');1
+Maverick SOB;('to', 'shift');1
+Maverick SOB;('shift', 'all');1
+Maverick SOB;('this', 'stolen');1
+Maverick SOB;('stolen', 'gear');2
+Maverick SOB;('gear', '.');1
+Maverick SOB;('.', 'There');1
+Maverick SOB;('There', "'s");1
+Maverick SOB;("'s", 'so');1
+Maverick SOB;('so', 'much');1
+Maverick SOB;('much', 'of');1
+Maverick SOB;('of', 'it');1
+Maverick SOB;('it', '.');1
+Maverick SOB;('.', 'The');1
+Maverick SOB;('The', 'team');1
+Maverick SOB;('team', 'have');1
+Maverick SOB;('have', 'been');1
+Maverick SOB;('been', 'busy');1
+Maverick SOB;('busy', 'little');1
+Maverick SOB;('little', 'bees');1
+Maverick SOB;('bees', '≡ƒÉ¥');1
+Maverick SOB;('≡ƒÉ¥', 'nan');1
+Maverick SOB;('What', 'can');1
+Maverick SOB;('can', 'you');1
+Maverick SOB;('you', 'offer');1
+Maverick SOB;('offer', 'me');1
+Maverick SOB;('nan', 'Spicy');1
+Maverick SOB;('Spicy', '?');1
+Maverick SOB;('nan', 'Snowy');1
+Maverick SOB;('Snowy', '≡ƒî¿');1
+Maverick SOB;('≡ƒî¿', 'out');1
+Maverick SOB;('out', 'nan');1
+Maverick SOB;('nan', 'Want');2
+Maverick SOB;('to', 'buy');2
+Maverick SOB;('buy', 'some');1
+Maverick SOB;('some', 'candlesticks');1
+Maverick SOB;('candlesticks', '?');1
+Maverick SOB;('nan', 'I');1
+Maverick SOB;('I', 'pay');1
+Maverick SOB;('pay', '...');1
+Maverick SOB;('nan', '(');1
+Maverick SOB;('(', 'smiley');1
+Maverick SOB;('smiley', ')');1
+Maverick SOB;(')', 'OK');1
+Maverick SOB;('OK', 'will');1
+Maverick SOB;('be', 'careful');1
+Maverick SOB;('careful', '...');1
+Maverick SOB;('nan', '500kr');1
+Maverick SOB;('500kr', 'Your');1
+Maverick SOB;('Your', 'loss');1
+Maverick SOB;('loss', ',');1
+Maverick SOB;(',', 'not');1
+Maverick SOB;('not', 'mine');1
+Maverick SOB;('mine', '.');1
+Maverick SOB;('You', 'photo');1
+Maverick SOB;('photo', 'bombed');1
+Maverick SOB;('bombed', '?');1
+Maverick SOB;('buy', '?');1
+Maverick SOB;('nan', 'Yes');1
+Maverick SOB;('Yes', 'they');1
+Maverick SOB;('they', 'were');1
+Maverick SOB;('were', 'my');1
+Maverick SOB;('my', 'grandma');1
+Maverick SOB;('grandma', "'s");1
+Maverick SOB;("'s", 'of');1
+Maverick SOB;('of', 'course');1
+Maverick SOB;('course', '...');1
+Maverick SOB;('...', '\\nDude');1
+Maverick SOB;('\\nDude', 'like');1
+Maverick SOB;('like', 'I');1
+Maverick SOB;("'m", 'really');1
+Maverick SOB;('really', 'going');1
+Maverick SOB;('going', 'to');1
+Maverick SOB;('to', 'admit');1
+Maverick SOB;('admit', 'it');1
+Maverick SOB;('it', "'s");1
+Maverick SOB;("'s", 'all');1
+Maverick SOB;('all', 'stolen');1
+Maverick SOB;('gear', '?');1
+Maverick SOB;('?', 'Seriously');1
+Maverick SOB;('Seriously', '?');1
+Maverick SOB;('nan', 'Meet');1
+Maverick SOB;('me', 'in');1
+Maverick SOB;('in', 'town');1
+Maverick SOB;('town', 'nan');1
+Maverick SOB;('nan', 'Maybe');1
+Maverick SOB;('Maybe', '....');1
+Maverick SOB;('....', '\\nWhat');1
+Maverick SOB;('\\nWhat', 'u');1
+Maverick SOB;('u', 'looking');1
+Maverick SOB;('looking', 'for');1
+Maverick SOB;('for', '?');1
+Maverick SOB;('nan', 'Like');1
+Maverick SOB;('Like', 'this');1
+Maverick SOB;('this', 'you');1
+Maverick SOB;('you', 'mean');1
+Maverick SOB;('mean', '?');1
+Maverick SOB;('?', '10,000kr');1
+Maverick SOB;('10,000kr', '8000kr');1
+Maverick.4444;('No', 'thanks');1
+Maverick.4444;('thanks', 'Should');1
+Maverick.4444;('Should', 'u');1
+Maverick.4444;('u', 'be');1
+Maverick.4444;('be', 'using');1
+Maverick.4444;('using', 'this');1
+Maverick.4444;('this', 'channel');1
+Maverick.4444;('channel', '?');1
+Mike.Jonson;('Yet', 'maybe');1
+Mike.Jonson;('maybe', 'not');1
+Mike.Jonson;('not', 'smart');1
+Mike.Jonson;('smart', '.');1
+Mike.Jonson;('.', 'Good');1
+Mike.Jonson;('Good', 'point');1
+Mike.Jonson;('point', '.');1
+Mike.Jonson;('.', 'nan');1
+Mike.Jonson;('nan', 'So');1
+Mike.Jonson;('So', 'what');1
+Mike.Jonson;('what', "'s");1
+Mike.Jonson;("'s", 'up');1
+Mike.Jonson;('up', 'dog');1
+Mike.Jonson;('dog', '?');1
+Mike.Jonson;('?', 'Hi');1
+Mike.Jonson;('Hi', 'Sadie');1
+Mike.Jonson;('Sadie', '.');1
+Mike.Jonson;('.', 'I');4
+Mike.Jonson;('I', 'am');2
+Mike.Jonson;('am', 'shy');1
+Mike.Jonson;('shy', '.');1
+Mike.Jonson;('.', 'No');1
+Mike.Jonson;('No', 'sorry');1
+Mike.Jonson;('sorry', '.');1
+Mike.Jonson;('I', 'do');4
+Mike.Jonson;('do', "n't");3
+Mike.Jonson;("n't", 'know');2
+Mike.Jonson;('know', 'many');1
+Mike.Jonson;('many', 'ladies');1
+Mike.Jonson;('ladies', '.');1
+Mike.Jonson;('.', 'This');2
+Mike.Jonson;('This', 'is');2
+Mike.Jonson;('is', 'a');1
+Mike.Jonson;('a', 'wild');1
+Mike.Jonson;('wild', 'guess');1
+Mike.Jonson;('guess', 'but');1
+Mike.Jonson;('but', 'do');1
+Mike.Jonson;('do', 'you');2
+Mike.Jonson;('you', 'have');1
+Mike.Jonson;('have', 'a');1
+Mike.Jonson;('a', 'roomie');1
+Mike.Jonson;('roomie', '...');1
+Mike.Jonson;('...', '?');1
+Mike.Jonson;('?', 'Bingo');1
+Mike.Jonson;('Bingo', 'buzzword');1
+Mike.Jonson;('buzzword', 'quarantine');1
+Mike.Jonson;('quarantine', 'and');1
+Mike.Jonson;('and', 'social');1
+Mike.Jonson;('social', 'distance');1
+Mike.Jonson;('distance', '?');1
+Mike.Jonson;('?', 'What');2
+Mike.Jonson;('What', 'do');1
+Mike.Jonson;('do', 'u');1
+Mike.Jonson;('u', 'like');1
+Mike.Jonson;('like', 'to');1
+Mike.Jonson;('to', 'do');1
+Mike.Jonson;('do', 'to');1
+Mike.Jonson;('to', 'kill');1
+Mike.Jonson;('kill', 'time');1
+Mike.Jonson;('time', '?');1
+Mike.Jonson;('What', 'sort');1
+Mike.Jonson;('sort', 'of');1
+Mike.Jonson;('of', '\\humans\\');1
+Mike.Jonson;('\\humans\\', "''");1
+Mike.Jonson;("''", 'are');1
+Mike.Jonson;('are', 'you');1
+Mike.Jonson;('you', 'in');1
+Mike.Jonson;('in', '2');1
+Mike.Jonson;('2', '?');1
+Mike.Jonson;('?', "''");1
+Mike.Jonson;("''", 'Do');1
+Mike.Jonson;('Do', 'you');1
+Mike.Jonson;('you', 'want');2
+Mike.Jonson;('want', 'to');2
+Mike.Jonson;('to', 'ask');1
+Mike.Jonson;('ask', 'me');1
+Mike.Jonson;('me', 'a');1
+Mike.Jonson;('a', 'serious');1
+Mike.Jonson;('serious', 'question');1
+Mike.Jonson;('question', '?');1
+Mike.Jonson;('?', 'Talk');1
+Mike.Jonson;('Talk', 'to');1
+Mike.Jonson;('to', 'chat');1
+Mike.Jonson;('chat', 'bots');1
+Mike.Jonson;('bots', 'who');1
+Mike.Jonson;('who', 'will');1
+Mike.Jonson;('will', 'attempt');1
+Mike.Jonson;('attempt', 'to');1
+Mike.Jonson;('to', 'compromise');1
+Mike.Jonson;('compromise', 'me');1
+Mike.Jonson;('me', 'The');1
+Mike.Jonson;('The', 'sort');1
+Mike.Jonson;('sort', 'who');1
+Mike.Jonson;('who', 'manipulate');1
+Mike.Jonson;('manipulate', 'me');1
+Mike.Jonson;('me', '.');1
+Mike.Jonson;('.', 'Sure');1
+Mike.Jonson;('Sure', '.');1
+Mike.Jonson;('I', 'guess');1
+Mike.Jonson;('guess', 'it');1
+Mike.Jonson;('it', 'will');1
+Mike.Jonson;('will', 'be');1
+Mike.Jonson;('be', 'something');1
+Mike.Jonson;('something', 'naughty');1
+Mike.Jonson;('naughty', 'now');1
+Mike.Jonson;('now', '?');1
+Mike.Jonson;('?', 'Nope');1
+Mike.Jonson;('Nope', '.');1
+Mike.Jonson;('am', 'useless');1
+Mike.Jonson;('useless', 'in');1
+Mike.Jonson;('in', 'bed');1
+Mike.Jonson;('bed', '.');1
+Mike.Jonson;('.', 'How');1
+Mike.Jonson;('How', 'exciting');1
+Mike.Jonson;('exciting', 'from');1
+Mike.Jonson;('from', 'a');1
+Mike.Jonson;('a', 'complete');1
+Mike.Jonson;('complete', 'stranger');1
+Mike.Jonson;('stranger', 'I');1
+Mike.Jonson;('know', '.');1
+Mike.Jonson;('is', 'all');1
+Mike.Jonson;('all', 'a');1
+Mike.Jonson;('a', 'bit');1
+Mike.Jonson;('bit', 'new');1
+Mike.Jonson;('new', 'and');1
+Mike.Jonson;('and', 'confusing');1
+Mike.Jonson;('confusing', 'to');1
+Mike.Jonson;('to', 'me');1
+Mike.Jonson;('me', '...');1
+Mike.Jonson;('...', 'I');1
+Mike.Jonson;("n't", 'mind');1
+Mike.Jonson;('mind', 'Yes');1
+Mike.Jonson;('Yes', 'please');1
+Mike.Jonson;('please', 'and');1
+Mike.Jonson;('and', 'thank');1
+Mike.Jonson;('thank', 'you');1
+Mike.Jonson;('you', 'Yes');2
+Mike.Jonson;('Yes', 'I');1
+Mike.Jonson;('I', 'need');1
+Mike.Jonson;('need', 'it');1
+Mike.Jonson;('it', '.');1
+Mike.Jonson;('.', 'With');1
+Mike.Jonson;('With', 'sugar');1
+Mike.Jonson;('sugar', 'on');1
+Mike.Jonson;('on', 'top');1
+Mike.Jonson;('top', '.');1
+Mike.Jonson;('.', 'Oh');1
+Mike.Jonson;('Oh', 'wow');1
+Mike.Jonson;('wow', '.');1
+Mike.Jonson;('.', 'Thank');1
+Mike.Jonson;('Thank', 'you');2
+Mike.Jonson;('you', 'so');1
+Mike.Jonson;('so', 'much');1
+Mike.Jonson;('much', '.');1
+Mike.Jonson;('.', 'So');1
+Mike.Jonson;('So', 'now');1
+Mike.Jonson;('now', 'what');1
+Mike.Jonson;('what', 'do');2
+Mike.Jonson;('do', 'I');1
+Mike.Jonson;('do', '?');1
+Mike.Jonson;('?', 'Oh');1
+Mike.Jonson;('Oh', 'no');1
+Mike.Jonson;('no', 'have');1
+Mike.Jonson;('have', 'I');1
+Mike.Jonson;('I', 'lost');1
+Mike.Jonson;('lost', 'you');1
+Mike.Jonson;('you', 'already');1
+Mike.Jonson;('already', '?');1
+Mike.Jonson;('?', '?');2
+Mike.Jonson;('?', 'Look');1
+Mike.Jonson;('Look', 'longingly');1
+Mike.Jonson;('longingly', 'at');1
+Mike.Jonson;('at', 'you');1
+Mike.Jonson;('Yes', 'Thank');1
+Mike.Jonson;('you', 'Ok');1
+Mike.Jonson;('Ok', 'what');1
+Mike.Jonson;('to', 'see');1
+Mike.Jonson;('see', '?');1
+Mike.Jonson;('?', 'Ok');1
+Mike.Jonson;('Ok', 'That');1
+Mike.Jonson;('That', "'s");1
+Mike.Jonson;("'s", 'your');1
+Mike.Jonson;('your', 'back');1
+Mike.Jonson;('back', 'side');1
+Mike.Jonson;('side', '?');1
+Telegram;('Telegram', 'surpassed');1
+Telegram;('surpassed', '500');1
+Telegram;('500', 'million');1
+Telegram;('million', 'active');1
+Telegram;('active', 'users');1
+Telegram;('users', '.');1
+Telegram;('.', '\\n');1
+Telegram;('\\n', '\\nIn');1
+Telegram;('\\nIn', '2021');1
+Telegram;('2021', ',');1
+Telegram;(',', 'more');1
+Telegram;('more', 'than');1
+Telegram;('than', '150');1
+Telegram;('150', 'million');1
+Telegram;('million', 'new');1
+Telegram;('new', 'users');1
+Telegram;('users', 'from');1
+Telegram;('from', 'around');1
+Telegram;('around', 'the');1
+Telegram;('the', 'world');1
+Telegram;('world', 'joined');1
+Telegram;('joined', 'Telegram.\\n\\nThank');1
+Telegram;('Telegram.\\n\\nThank', 'you');1
+Telegram;('you', '!');1
+Telegram;('!', 'These');1
+Telegram;('These', 'milestones');1
+Telegram;('milestones', 'were');1
+Telegram;('were', 'made');1
+Telegram;('made', 'possible');1
+Telegram;('possible', 'by');1
+Telegram;('by', 'users');1
+Telegram;('users', 'like');1
+Telegram;('like', 'you');1
+Telegram;('you', 'who');1
+Telegram;('who', 'invite');1
+Telegram;('invite', 'their');1
+Telegram;('their', 'friends');1
+Telegram;('friends', 'to');1
+Telegram;('to', 'Telegram');1
+Telegram;('Telegram', '.');1
+Telegram;('.', '\\n\\nIf');1
+Telegram;('\\n\\nIf', 'you');1
+Telegram;('you', 'have');1
+Telegram;('have', 'contacts');1
+Telegram;('contacts', 'that');1
+Telegram;('that', 'joined');1
+Telegram;('joined', 'in');1
+Telegram;('in', 'the');1
+Telegram;('the', 'last');1
+Telegram;('last', 'few');1
+Telegram;('few', 'days');1
+Telegram;('days', ',');1
+Telegram;(',', 'you');1
+Telegram;('you', 'can');1
+Telegram;('can', 'welcome');1
+Telegram;('welcome', 'them');1
+Telegram;('them', 'using');1
+Telegram;('using', 'one');1
+Telegram;('one', 'of');2
+Telegram;('of', 'TelegramΓÇÖs');1
+Telegram;('TelegramΓÇÖs', 'unique');1
+Telegram;('unique', 'features');1
+Telegram;('features', ',');2
+Telegram;(',', 'such');1
+Telegram;('such', 'as');1
+Telegram;('as', 'an');1
+Telegram;('an', 'animated');1
+Telegram;('animated', 'sticker');1
+Telegram;('sticker', 'or');1
+Telegram;('or', 'a');1
+Telegram;('a', 'video');1
+Telegram;('video', 'message.\\n\\nTo');1
+Telegram;('message.\\n\\nTo', 'find');1
+Telegram;('find', 'out');1
+Telegram;('out', 'more');1
+Telegram;('more', 'about');1
+Telegram;('about', 'Telegram');1
+Telegram;('Telegram', 'features');1
+Telegram;(',', 'have');1
+Telegram;('have', 'a');1
+Telegram;('a', 'look');1
+Telegram;('look', 'at');1
+Telegram;('at', 'https');1
+Telegram;('https', ':');1
+Telegram;(':', '//t.me/TelegramTips/233');1
+Telegram;('//t.me/TelegramTips/233', 'Voice');1
+Telegram;('Voice', 'Chats');3
+Telegram;('Chats', '2.0');1
+Telegram;('2.0', ':');1
+Telegram;(':', 'Channels');1
+Telegram;('Channels', ',');1
+Telegram;(',', 'Millions');1
+Telegram;('Millions', 'of');1
+Telegram;('of', 'Listeners');1
+Telegram;('Listeners', ',');1
+Telegram;(',', 'Recorded');1
+Telegram;('Recorded', 'Chats');1
+Telegram;('Chats', ',');1
+Telegram;(',', 'Admin');1
+Telegram;('Admin', 'Tools\\n\\nMillions');1
+Telegram;('Tools\\n\\nMillions', 'of');1
+Telegram;('of', 'Concurrent');1
+Telegram;('Concurrent', 'Listeners\\nΓÇó');1
+Telegram;('Listeners\\nΓÇó', 'Start');1
+Telegram;('Start', 'limitless');1
+Telegram;('limitless', 'Voice');1
+Telegram;('Chats', 'in');1
+Telegram;('in', 'Groups');1
+Telegram;('Groups', 'and');1
+Telegram;('and', 'Channels.\\nΓÇó');1
+Telegram;('Channels.\\nΓÇó', 'Host');1
+Telegram;('Host', 'discussions');1
+Telegram;('discussions', 'that');1
+Telegram;('that', 'can');1
+Telegram;('can', 'be');1
+Telegram;('be', 'listened');1
+Telegram;('listened', 'to');1
+Telegram;('to', 'by');1
+Telegram;('by', 'millions');1
+Telegram;('millions', 'of');1
+Telegram;('of', 'people');1
+Telegram;('people', 'simultaneously.\\n\\nVoice');1
+Telegram;('simultaneously.\\n\\nVoice', 'Chat');1
+Telegram;('Chat', 'Recordings\\nΓÇó');1
+Telegram;('Recordings\\nΓÇó', 'Record');1
+Telegram;('Record', 'voice');1
+Telegram;('voice', 'chats');1
+Telegram;('chats', 'to');1
+Telegram;('to', 'share');1
+Telegram;('share', 'or');1
+Telegram;('or', 'publish');1
+Telegram;('publish', 'in');1
+Telegram;('in', 'Channels');1
+Telegram;('Channels', 'later.\\nΓÇó');1
+Telegram;('later.\\nΓÇó', 'See');1
+Telegram;('See', 'that');1
+Telegram;('that', 'a');1
+Telegram;('a', 'chat');2
+Telegram;('chat', 'is');1
+Telegram;('is', 'being');1
+Telegram;('being', 'recorded');1
+Telegram;('recorded', 'from');1
+Telegram;('from', 'the');2
+Telegram;('the', 'red');1
+Telegram;('red', 'dot');1
+Telegram;('dot', 'next');1
+Telegram;('next', 'to');1
+Telegram;('to', 'its');1
+Telegram;('its', 'title.\\n\\nImproved');1
+Telegram;('title.\\n\\nImproved', 'List');1
+Telegram;('List', 'of');1
+Telegram;('of', 'Participants\\nΓÇó');1
+Telegram;('Participants\\nΓÇó', 'See');1
+Telegram;('See', 'user');1
+Telegram;('user', 'bio');1
+Telegram;('bio', 'texts');1
+Telegram;('texts', 'right');1
+Telegram;('right', 'from');1
+Telegram;('the', 'list');1
+Telegram;('list', 'of');1
+Telegram;('of', 'participants.\\nΓÇó');1
+Telegram;('participants.\\nΓÇó', 'Raise');1
+Telegram;('Raise', 'your');1
+Telegram;('your', 'hand');1
+Telegram;('hand', 'to');1
+Telegram;('to', 'show');1
+Telegram;('show', 'admins');1
+Telegram;('admins', 'you');1
+Telegram;('you', 'want');1
+Telegram;('want', 'to');1
+Telegram;('to', 'speak.\\n\\nTools');1
+Telegram;('speak.\\n\\nTools', 'for');1
+Telegram;('for', 'Organizers\\nΓÇó');1
+Telegram;('Organizers\\nΓÇó', 'Create');1
+Telegram;('Create', 'separate');1
+Telegram;('separate', 'Voice');1
+Telegram;('Voice', 'Chat');2
+Telegram;('Chat', 'Invite');1
+Telegram;('Invite', 'Links');1
+Telegram;('Links', 'for');1
+Telegram;('for', 'listeners');1
+Telegram;('listeners', 'or');1
+Telegram;('or', 'speakers.\\nΓÇó');1
+Telegram;('speakers.\\nΓÇó', 'Change');1
+Telegram;('Change', 'the');1
+Telegram;('the', 'title');1
+Telegram;('title', 'of');1
+Telegram;('of', 'your');2
+Telegram;('your', 'Voice');1
+Telegram;('Chat', 'to');1
+Telegram;('to', 'give');1
+Telegram;('give', 'people');1
+Telegram;('people', 'an');1
+Telegram;('an', 'idea');1
+Telegram;('idea', 'of');1
+Telegram;('of', 'the');1
+Telegram;('the', 'current');1
+Telegram;('current', 'topic.\\nΓÇó');1
+Telegram;('topic.\\nΓÇó', 'Join');1
+Telegram;('Join', 'Voice');1
+Telegram;('Chats', 'as');1
+Telegram;('as', 'one');1
+Telegram;('your', 'Channels');1
+Telegram;('Channels', 'to');1
+Telegram;('to', 'hide');1
+Telegram;('hide', 'your');1
+Telegram;('your', 'personal');1
+Telegram;('personal', 'account.\\n\\nSwipe');1
+Telegram;('account.\\n\\nSwipe', 'Action');1
+Telegram;('Action', 'Settings\\nΓÇó');1
+Telegram;('Settings\\nΓÇó', 'Choose');1
+Telegram;('Choose', 'which');1
+Telegram;('which', 'action');1
+Telegram;('action', 'is');1
+Telegram;('is', 'performed');1
+Telegram;('performed', 'when');1
+Telegram;('when', 'you');1
+Telegram;('you', 'swipe');1
+Telegram;('swipe', 'left');1
+Telegram;('left', 'on');1
+Telegram;('on', 'a');1
+Telegram;('chat', 'in');1
+Telegram;('in', 'your');1
+Telegram;('your', 'list');1
+Telegram;('list', ':');1
+Telegram;(':', 'Pin');1
+Telegram;('Pin', ',');1
+Telegram;(',', 'Mark');1
+Telegram;('Mark', 'as');1
+Telegram;('as', 'Read');1
+Telegram;('Read', ',');1
+Telegram;(',', 'Archive');1
+Telegram;('Archive', ',');1
+Telegram;(',', 'Mute');1
+Telegram;('Mute', 'or');1
+Telegram;('or', 'Delete.\\n\\nMore');1
+Telegram;('Delete.\\n\\nMore', 'about');1
+Telegram;('about', 'this');1
+Telegram;('this', 'update');1
+Telegram;('update', ':');1
+Telegram;(':', '\\nhttps');1
+Telegram;('\\nhttps', ':');1
+Telegram;(':', '//telegram.org/blog/voice-chats-on-steroids');1
+blondtrip24;('Do', 'u');1
+blondtrip24;('u', 'recognize');1
+blondtrip24;('recognize', 'me');1
+blondtrip24;('me', '?');1
+blondtrip24;('?', 'iono');1
+blondtrip24;('iono', 'how');1
+blondtrip24;('how', 'i');1
+blondtrip24;('i', 'have');1
+blondtrip24;('have', 'your');1
+blondtrip24;('your', 'num');1
+blondtrip24;('num', 'in');1
+blondtrip24;('in', 'my');1
+blondtrip24;('my', 'contacts');1
+blondtrip24;('contacts', 'but');1
+blondtrip24;('but', 'it');1
+blondtrip24;('it', 'recommended');1
+blondtrip24;('recommended', 'I');1
+blondtrip24;('I', 'add');1
+blondtrip24;('add', 'ya');1
+blondtrip24;('ya', ',');1
+blondtrip24;(',', ',');3
+blondtrip24;(',', 'My');1
+blondtrip24;('My', 'girl');1
+blondtrip24;('girl', 'and');1
+blondtrip24;('and', 'i');1
+blondtrip24;('i', 'going');1
+blondtrip24;('going', 'nutty');1
+blondtrip24;('nutty', 'over');1
+blondtrip24;('over', 'here');1
+blondtrip24;('here', 'with');1
+blondtrip24;('with', 'this');1
+blondtrip24;('this', 'social');1
+blondtrip24;('social', 'isolation');1
+blondtrip24;('isolation', 'and');1
+blondtrip24;('and', 'quarantine');1
+blondtrip24;('quarantine', ',');1
+blondtrip24;(',', 'so');1
+blondtrip24;('so', 'what');1
+blondtrip24;('what', 'r');1
+blondtrip24;('r', 'you');1
+blondtrip24;('you', 'doin');1
+blondtrip24;('doin', '?');1
+blondtrip24;('?', 'What');2
+blondtrip24;('What', 'do');1
+blondtrip24;('do', 'you');1
+blondtrip24;('you', 'like');1
+blondtrip24;('like', 'to');1
+blondtrip24;('to', 'do');1
+blondtrip24;('do', 'to');1
+blondtrip24;('to', 'stay');1
+blondtrip24;('stay', 'sane');1
+blondtrip24;('sane', '?');1
+blondtrip24;('What', 'sorta');1
+blondtrip24;('sorta', 'woman');1
+blondtrip24;('woman', 'are');1
+blondtrip24;('are', 'you');1
+blondtrip24;('you', 'in');1
+blondtrip24;('in', '2');1
+blondtrip24;('2', '?');1
+blondtrip24;('?', 'im');1
+blondtrip24;('im', 'not');1
+blondtrip24;('not', 'a');1
+blondtrip24;('a', 'bot');1
+blondtrip24;('bot', 'but');1
+blondtrip24;('but', 'you');1
+blondtrip24;('you', "'re");1
+blondtrip24;("'re", 'getting');1
+blondtrip24;('getting', 'weird');1
+blondtrip24;('weird', 'so');1
+blondtrip24;('so', '...');1
+blondtrip24;('...', 'whatever');1
+blondtrip24;('whatever', '..');1
+blondtrip24;('..', 'Suppose');1
+blondtrip24;('Suppose', 'I');1
+blondtrip24;('I', 'ask');1
+blondtrip24;('ask', 'ya');1
+blondtrip24;('ya', 'a');1
+blondtrip24;('a', 'straightforward');1
+blondtrip24;('straightforward', 'question');1
+blondtrip24;('question', '?');1
+blondtrip24;('?', 'I');2
+blondtrip24;('I', 'like');1
+blondtrip24;('like', 'a');1
+blondtrip24;('a', 'someone');1
+blondtrip24;('someone', 'who');1
+blondtrip24;('who', 'knows');1
+blondtrip24;('knows', 'how');1
+blondtrip24;('how', 'to');1
+blondtrip24;('to', 'satisfy');1
+blondtrip24;('satisfy', 'a');1
+blondtrip24;('a', 'lady');1
+blondtrip24;('lady', '..');1
+blondtrip24;('..', 'Have');1
+blondtrip24;('Have', 'you');1
+blondtrip24;('you', 'ever');1
+blondtrip24;('ever', 'made');1
+blondtrip24;('made', 'a');1
+blondtrip24;('a', 'woman');1
+blondtrip24;('woman', 'orgasm');1
+blondtrip24;('orgasm', ';');1
+blondtrip24;(';', 'X');1
+blondtrip24;('X', '?');1
+blondtrip24;('?', 'haha');1
+blondtrip24;('haha', 'Wish');1
+blondtrip24;('Wish', 'I');1
+blondtrip24;('I', 'could');1
+blondtrip24;('could', 'lay');1
+blondtrip24;('lay', 'there');1
+blondtrip24;('there', 'next');1
+blondtrip24;('next', 'to');1
+blondtrip24;('to', 'you');1
+blondtrip24;('you', ';');1
+blondtrip24;(';', ')');1
+blondtrip24;(')', 'do');1
+blondtrip24;('do', 'ya');1
+blondtrip24;('ya', 'know');1
+blondtrip24;('know', 'if');1
+blondtrip24;('if', 'you');1
+blondtrip24;('you', 'would');1
+blondtrip24;('would', 'get');1
+blondtrip24;('get', 'me');1
+blondtrip24;('me', 'to');1
+blondtrip24;('to', 'climax');1
+blondtrip24;('climax', '?');1
+blondtrip24;('?', 'lol');1
+blondtrip24;('lol', 'alright');1
+blondtrip24;('alright', 'I');1
+blondtrip24;('I', 'am');1
+blondtrip24;('am', 'into');1
+blondtrip24;('into', 'u.');1
+blondtrip24;('u.', 'do');1
+blondtrip24;('do', 'u');1
+blondtrip24;('u', 'fancy');1
+blondtrip24;('fancy', 'gals');1
+blondtrip24;('gals', 'with');1
+blondtrip24;('with', 'a');1
+blondtrip24;('a', 'bunch');1
+blondtrip24;('bunch', 'of');1
+blondtrip24;('of', 'tatoos');1
+blondtrip24;('tatoos', '?');1
+blondtrip24;('I', "'m");1
+blondtrip24;("'m", 'sorta');1
+blondtrip24;('sorta', 'gettin');1
+blondtrip24;('gettin', 'a');1
+blondtrip24;('a', 'lil');1
+blondtrip24;('lil', 'horny');1
+blondtrip24;('horny', 'haha');1
+blondtrip24;('haha', '...');1
+blondtrip24;('...', 'u');3
+blondtrip24;('u', 'wan');1
+blondtrip24;('wan', 'na');1
+blondtrip24;('na', 'see');1
+blondtrip24;('see', 'some');1
+blondtrip24;('some', 'more');1
+blondtrip24;('more', 'pix');1
+blondtrip24;('pix', '?');1
+blondtrip24;('?', 'tell');1
+blondtrip24;('tell', 'me');1
+blondtrip24;('me', 'you');1
+blondtrip24;('you', 'need');1
+blondtrip24;('need', 'it');1
+blondtrip24;('it', 'sugar');1
+blondtrip24;('sugar', 'it');1
+blondtrip24;('it', 'gets');1
+blondtrip24;('gets', 'me');1
+blondtrip24;('me', 'hot');1
+blondtrip24;('hot', '..');1
+blondtrip24;('..', 'nan');1
+blondtrip24;('nan', 'Tell');1
+blondtrip24;('Tell', 'me');1
+blondtrip24;('me', 'what');1
+blondtrip24;('what', 'u');1
+blondtrip24;('u', "'d");1
+blondtrip24;("'d", 'do');1
+blondtrip24;('do', '2');1
+blondtrip24;('2', 'me');1
+blondtrip24;('me', '...');1
+blondtrip24;('u', 'want');2
+blondtrip24;('want', 'to');1
+blondtrip24;('to', 'c');1
+blondtrip24;('c', 'more');1
+blondtrip24;('more', 'this');1
+blondtrip24;('this', 'time');1
+blondtrip24;('time', '?');1
+blondtrip24;('?', '?');2
+blondtrip24;('?', 'nan');2
+blondtrip24;('nan', 'U');1
+blondtrip24;('U', 'like');1
+blondtrip24;('like', 'that');1
+blondtrip24;('that', '?');1
+blondtrip24;('?', 'Give');1
+blondtrip24;('Give', 'me');1
+blondtrip24;('me', 'one');1
+blondtrip24;('one', 'of');1
+blondtrip24;('of', 'you');1
+blondtrip24;('you', '..');1
+blondtrip24;('..', 'make');1
+blondtrip24;('make', 'it');1
+blondtrip24;('it', 'a');1
+blondtrip24;('a', 'really');1
+blondtrip24;('really', 'sexy');1
+blondtrip24;('sexy', 'one');1
+blondtrip24;('one', '!');1
+blondtrip24;('!', 'i');1
+blondtrip24;('i', "'m");1
+blondtrip24;("'m", 'honestly');1
+blondtrip24;('honestly', 'gettin');1
+blondtrip24;('gettin', 'sort');1
+blondtrip24;('sort', 'of');1
+blondtrip24;('of', 'turned');1
+blondtrip24;('turned', 'on');1
+blondtrip24;('on', '...');1
+blondtrip24;('want', '2');1
+blondtrip24;('2', 'see');1
+blondtrip24;('see', 'my');1
+blondtrip24;('my', 'back');1
+blondtrip24;('back', 'side');1
+blondtrip24;('side', '?');1
+blondtrip24;('nan', 'I');1
+blondtrip24;('I', 'can');1
+blondtrip24;('can', 'not');1
+blondtrip24;('not', 'take');1
+blondtrip24;('take', 'it');1
+blondtrip24;('it', 'nemore');1
+blondtrip24;('nemore', '...');1
+blondtrip24;('...', 'cum');1
+blondtrip24;('cum', 'see');1
+blondtrip24;('see', 'me');1
+blondtrip24;('me', 'right');1
+blondtrip24;('right', 'now');1
+blondtrip24;('now', '.');1
+blondtrip24;('.', 'check');1
+blondtrip24;('check', 'out');1
+blondtrip24;('out', 'my');1
+blondtrip24;('my', 'page');1
+blondtrip24;('page', 'here');1
+blondtrip24;('here', 'make');1
+blondtrip24;('make', 'sure');1
+blondtrip24;('sure', 'u');1
+blondtrip24;('u', 'save');1
+blondtrip24;('save', 'the');1
+blondtrip24;('the', 'invite');1
+blondtrip24;('invite', '..');1
+blondtrip24;('..', 'Hey');1
+blondtrip24;('Hey', 'safesharesecure.com/badbeach20');1
+blondtrip24;('safesharesecure.com/badbeach20', '?');1
+blondtrip24;('?', '2Er8bTR');1

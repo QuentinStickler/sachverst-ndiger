@@ -1,0 +1,1926 @@
+Sender;Ngram;Count
+Bad Boy;('≡', 'ƒ');2
+Bad Boy;('ƒ', 'æ');1
+Bad Boy;('æ', 'ì');1
+Bad Boy;('ì', ' ');1
+Bad Boy;(' ', 'a');43
+Bad Boy;('a', 'l');16
+Bad Boy;('l', 'r');2
+Bad Boy;('r', 'i');13
+Bad Boy;('i', 'g');8
+Bad Boy;('g', 'h');8
+Bad Boy;('h', 't');9
+Bad Boy;('t', ' ');64
+Bad Boy;(' ', 'g');21
+Bad Boy;('g', 'e');20
+Bad Boy;('e', 'e');19
+Bad Boy;('e', 'z');1
+Bad Boy;('z', 'e');1
+Bad Boy;('e', 'r');35
+Bad Boy;('r', '?');6
+Bad Boy;('?', ' ');31
+Bad Boy;(' ', 'I');41
+Bad Boy;('I', ' ');34
+Bad Boy;(' ', 'w');25
+Bad Boy;('w', 'a');2
+Bad Boy;('a', 'n');60
+Bad Boy;('n', 't');6
+Bad Boy;(' ', 't');80
+Bad Boy;('t', 'o');20
+Bad Boy;('o', ' ');20
+Bad Boy;('t', 'r');8
+Bad Boy;('r', 'a');8
+Bad Boy;('a', 'd');7
+Bad Boy;('d', 'e');17
+Bad Boy;('e', '.');10
+Bad Boy;('.', ' ');65
+Bad Boy;(' ', 'T');6
+Bad Boy;('T', 'h');4
+Bad Boy;('h', 'e');44
+Bad Boy;('e', ' ');92
+Bad Boy;(' ', 'b');34
+Bad Boy;('b', 'o');8
+Bad Boy;('o', 'y');2
+Bad Boy;('y', 's');1
+Bad Boy;('s', ' ');54
+Bad Boy;(' ', 'l');19
+Bad Boy;('l', 'e');15
+Bad Boy;('e', 't');21
+Bad Boy;(' ', 'm');38
+Bad Boy;('m', 'e');24
+Bad Boy;(' ', 'k');7
+Bad Boy;('k', 'n');4
+Bad Boy;('n', 'o');12
+Bad Boy;('o', 'w');19
+Bad Boy;('w', ' ');15
+Bad Boy;(' ', 'y');26
+Bad Boy;('y', 'o');21
+Bad Boy;('o', 'u');39
+Bad Boy;('u', ' ');25
+Bad Boy;(' ', 'd');24
+Bad Boy;('e', 'a');20
+Bad Boy;('l', ' ');15
+Bad Boy;(' ', 'i');18
+Bad Boy;('i', 'n');46
+Bad Boy;('n', ' ');48
+Bad Boy;(' ', 'c');28
+Bad Boy;('c', 'h');12
+Bad Boy;('a', 'p');7
+Bad Boy;('p', ' ');11
+Bad Boy;('a', 'r');16
+Bad Boy;('r', ' ');27
+Bad Boy;('n', 'd');20
+Bad Boy;('d', ' ');32
+Bad Boy;(' ', 'o');19
+Bad Boy;('o', 'c');3
+Bad Boy;('c', 'c');1
+Bad Boy;('c', 'a');23
+Bad Boy;('a', 's');14
+Bad Boy;('s', 'i');9
+Bad Boy;('i', 'o');5
+Bad Boy;('o', 'n');21
+Bad Boy;('n', 'a');15
+Bad Boy;('l', 'l');20
+Bad Boy;('l', 'y');6
+Bad Boy;('y', ' ');36
+Bad Boy;(' ', 's');42
+Bad Boy;('s', 'o');12
+Bad Boy;('o', 'm');13
+Bad Boy;('s', 'e');19
+Bad Boy;('e', 'l');11
+Bad Boy;(' ', 'e');8
+Bad Boy;('e', 'v');3
+Bad Boy;('v', 'e');14
+Bad Boy;('r', 'y');5
+Bad Boy;(' ', 'n');27
+Bad Boy;('t', 'h');59
+Bad Boy;('e', 'n');20
+Bad Boy;('n', 'e');21
+Bad Boy;('e', 'd');9
+Bad Boy;('b', 'u');10
+Bad Boy;('u', 'y');4
+Bad Boy;('y', '.');4
+Bad Boy;('.', '.');47
+Bad Boy;(' ', 'Y');17
+Bad Boy;('Y', 'e');11
+Bad Boy;('w', ',');2
+Bad Boy;(',', ' ');5
+Bad Boy;(' ', ' ');3
+Bad Boy;('l', 'i');12
+Bad Boy;('i', 's');23
+Bad Boy;('s', 't');25
+Bad Boy;('t', 'e');6
+Bad Boy;('I', "'");3
+Bad Boy;("'", 'm');2
+Bad Boy;('m', ' ');5
+Bad Boy;('o', 'r');20
+Bad Boy;('r', 'r');9
+Bad Boy;('m', 'a');11
+Bad Boy;('u', 't');4
+Bad Boy;('r', 'n');2
+Bad Boy;('m', 'y');6
+Bad Boy;('e', 's');28
+Bad Boy;('s', 's');12
+Bad Boy;('n', '.');13
+Bad Boy;('I', 't');1
+Bad Boy;('w', 'o');6
+Bad Boy;('n', "'");9
+Bad Boy;("'", 't');9
+Bad Boy;(' ', 'h');11
+Bad Boy;('h', 'a');21
+Bad Boy;('p', 'p');4
+Bad Boy;('p', 'e');5
+Bad Boy;('a', 'g');7
+Bad Boy;('g', 'a');3
+Bad Boy;('a', 'i');5
+Bad Boy;(' ', 'p');11
+Bad Boy;('p', 'r');5
+Bad Boy;('r', 'o');9
+Bad Boy;('m', 'i');9
+Bad Boy;('h', 'i');20
+Bad Boy;('t', 'i');8
+Bad Boy;('i', 'm');5
+Bad Boy;('i', 't');13
+Bad Boy;('w', 'i');8
+Bad Boy;('i', 'l');6
+Bad Boy;('b', 'e');7
+Bad Boy;('d', 'i');4
+Bad Boy;('i', 'f');2
+Bad Boy;('f', 'f');6
+Bad Boy;('f', 'e');5
+Bad Boy;('r', 'e');20
+Bad Boy;('t', '.');8
+Bad Boy;(' ', 'S');4
+Bad Boy;('S', 'e');2
+Bad Boy;('u', 's');17
+Bad Boy;('s', 'l');2
+Bad Boy;('r', 'u');3
+Bad Boy;('a', 'k');6
+Bad Boy;('k', 'e');12
+Bad Boy;('s', 'a');7
+Bad Boy;('a', 'm');4
+Bad Boy;('t', 'a');5
+Bad Boy;('t', 'w');1
+Bad Boy;('i', 'c');6
+Bad Boy;('c', 'e');4
+Bad Boy;('p', 'a');5
+Bad Boy;('a', 'y');8
+Bad Boy;('e', 'p');5
+Bad Boy;('u', 'r');6
+Bad Boy;('e', 'c');3
+Bad Boy;('c', 'r');2
+Bad Boy;('t', 's');2
+Bad Boy;('s', '.');12
+Bad Boy;('I', 'n');1
+Bad Boy;('h', 'o');8
+Bad Boy;(' ', 'O');11
+Bad Boy;('O', 'k');10
+Bad Boy;('k', ' ');22
+Bad Boy;(' ', 'u');8
+Bad Boy;('u', 'n');3
+Bad Boy;('r', 's');7
+Bad Boy;('d', ',');1
+Bad Boy;('n', 'k');4
+Bad Boy;('k', 's');4
+Bad Boy;(' ', 'D');5
+Bad Boy;('D', 'i');2
+Bad Boy;('i', 'd');4
+Bad Boy;('y', 'e');5
+Bad Boy;('s', '?');3
+Bad Boy;('o', 'k');7
+Bad Boy;('Y', 'o');6
+Bad Boy;(' ', 'r');5
+Bad Boy;('e', 'g');1
+Bad Boy;('g', 'r');1
+Bad Boy;('o', 's');3
+Bad Boy;('d', 'o');8
+Bad Boy;('o', '.');3
+Bad Boy;('r', 'd');2
+Bad Boy;('r', 't');5
+Bad Boy;('t', 'm');1
+Bad Boy;('s', 'u');4
+Bad Boy;('u', 'p');5
+Bad Boy;('e', 'x');6
+Bad Boy;('x', 'p');2
+Bad Boy;('n', 's');4
+Bad Boy;('i', 'v');7
+Bad Boy;('e', '?');7
+Bad Boy;('t', 't');6
+Bad Boy;('t', 'p');3
+Bad Boy;('p', 's');3
+Bad Boy;('s', ':');2
+Bad Boy;(':', '/');2
+Bad Boy;('/', '/');2
+Bad Boy;('/', 'i');2
+Bad Boy;('.', 'a');2
+Bad Boy;('p', '.');5
+Bad Boy;('.', 'g');4
+Bad Boy;('g', 'o');9
+Bad Boy;('o', 'o');12
+Bad Boy;('g', 'l');2
+Bad Boy;('l', '/');2
+Bad Boy;('/', 'W');1
+Bad Boy;('W', '8');1
+Bad Boy;('8', 'y');1
+Bad Boy;('y', 'K');1
+Bad Boy;('K', 'U');1
+Bad Boy;('U', 'a');1
+Bad Boy;('a', 'P');1
+Bad Boy;('P', 's');1
+Bad Boy;('s', '6');2
+Bad Boy;('6', '9');1
+Bad Boy;('9', '7');1
+Bad Boy;('7', 'H');1
+Bad Boy;('H', 'T');1
+Bad Boy;('T', 'j');1
+Bad Boy;('j', 'm');1
+Bad Boy;('m', 's');2
+Bad Boy;('6', ' ');1
+Bad Boy;(' ', 'H');5
+Bad Boy;('H', 'o');4
+Bad Boy;('a', 'b');3
+Bad Boy;(' ', '9');1
+Bad Boy;('9', '0');1
+Bad Boy;('0', '0');9
+Bad Boy;('0', 'k');5
+Bad Boy;('k', 'r');5
+Bad Boy;('s', 'h');14
+Bad Boy;('u', 'l');2
+Bad Boy;('l', 'd');3
+Bad Boy;('u', 'g');2
+Bad Boy;('h', ' ');9
+Bad Boy;('t', 'l');2
+Bad Boy;('l', 'o');8
+Bad Boy;('o', 't');10
+Bad Boy;(' ', 'f');14
+Bad Boy;('f', 'r');3
+Bad Boy;('i', 'e');3
+Bad Boy;('t', "'");8
+Bad Boy;("'", 's');9
+Bad Boy;('o', 'd');4
+Bad Boy;('d', 'a');3
+Bad Boy;('f', 'o');5
+Bad Boy;('x', 'c');3
+Bad Boy;('n', 'g');26
+Bad Boy;('b', 'r');3
+Bad Boy;('g', ' ');18
+Bad Boy;('h', '.');4
+Bad Boy;(' ', 'N');5
+Bad Boy;('N', 'e');2
+Bad Boy;('x', 't');1
+Bad Boy;(' ', '3');2
+Bad Boy;('3', '0');3
+Bad Boy;('0', ' ');2
+Bad Boy;('?', '?');13
+Bad Boy;('m', 'o');6
+Bad Boy;('e', 'y');3
+Bad Boy;(' ', 'B');6
+Bad Boy;('B', 'y');1
+Bad Boy;('o', 'p');5
+Bad Boy;(' ', "'");1
+Bad Boy;('y', "'");1
+Bad Boy;("'", ' ');1
+Bad Boy;(' ', 'P');2
+Bad Boy;('P', 'l');2
+Bad Boy;('o', 'i');4
+Bad Boy;('u', '.');1
+Bad Boy;('O', 'n');1
+Bad Boy;('l', ',');1
+Bad Boy;('r', 'v');3
+Bad Boy;('r', '.');1
+Bad Boy;('S', 'o');3
+Bad Boy;('a', ' ');9
+Bad Boy;('d', 'r');1
+Bad Boy;('g', 's');3
+Bad Boy;(' ', 'W');7
+Bad Boy;('W', 'e');2
+Bad Boy;('c', 'o');4
+Bad Boy;('n', 'v');1
+Bad Boy;('n', 'i');4
+Bad Boy;('t', '?');1
+Bad Boy;('?', '\\');1
+Bad Boy;('\\', 'n');2
+Bad Boy;('n', 'S');1
+Bad Boy;('w', 'h');5
+Bad Boy;('a', 't');18
+Bad Boy;('o', 'f');8
+Bad Boy;('f', ' ');10
+Bad Boy;('n', '?');2
+Bad Boy;(' ', '≡');1
+Bad Boy;('ƒ', 'ñ');1
+Bad Boy;('ñ', '¼');1
+Bad Boy;('¼', ' ');1
+Bad Boy;('f', 'u');1
+Bad Boy;('u', 'c');5
+Bad Boy;('c', 'k');10
+Bad Boy;('f', 'i');1
+Bad Boy;(' ', 'J');4
+Bad Boy;('J', 'u');3
+Bad Boy;(' ', '4');1
+Bad Boy;('4', '8');1
+Bad Boy;('8', 'h');1
+Bad Boy;('h', 'r');5
+Bad Boy;('W', 'h');5
+Bad Boy;('w', 'e');6
+Bad Boy;('d', 'y');1
+Bad Boy;(' ', 'M');2
+Bad Boy;('M', 'e');1
+Bad Boy;(' ', 'G');7
+Bad Boy;('G', 'e');2
+Bad Boy;('v', 'o');2
+Bad Boy;('y', 'i');1
+Bad Boy;('m', 'u');4
+Bad Boy;('b', 'a');4
+Bad Boy;('a', 'c');5
+Bad Boy;('B', 'l');1
+Bad Boy;('l', 'a');6
+Bad Boy;('B', 'M');1
+Bad Boy;('M', 'W');1
+Bad Boy;('W', ' ');1
+Bad Boy;('H', 'e');2
+Bad Boy;('G', 'l');1
+Bad Boy;('r', 'k');2
+Bad Boy;('o', 'g');1
+Bad Boy;("'", 'l');1
+Bad Boy;('d', 'u');2
+Bad Boy;('u', 'e');2
+Bad Boy;('e', 'm');2
+Bad Boy;('B', 'u');1
+Bad Boy;('g', '.');2
+Bad Boy;('G', 'o');3
+Bad Boy;(' ', '2');2
+Bad Boy;('2', ' ');1
+Bad Boy;('e', 'k');2
+Bad Boy;(' ', 'C');5
+Bad Boy;('C', 'a');2
+Bad Boy;('M', 'a');1
+Bad Boy;('k', '.');2
+Bad Boy;('t', 'u');3
+Bad Boy;('u', 'f');3
+Bad Boy;('f', 'a');1
+Bad Boy;('e', 'w');2
+Bad Boy;('k', 'a');2
+Bad Boy;('N', 'o');2
+Bad Boy;('.', 's');1
+Bad Boy;('e', 'i');1
+Bad Boy;('b', 'i');2
+Bad Boy;('d', 'n');2
+Bad Boy;('d', '?');1
+Bad Boy;('k', 'i');3
+Bad Boy;('G', 'i');1
+Bad Boy;('p', 'l');4
+Bad Boy;('e', '!');1
+Bad Boy;('!', ' ');3
+Bad Boy;('s', ',');1
+Bad Boy;('g', '!');1
+Bad Boy;('l', '.');3
+Bad Boy;('2', '4');1
+Bad Boy;('4', 'h');1
+Bad Boy;(' ', '.');1
+Bad Boy;(' ', '1');5
+Bad Boy;('1', '8');1
+Bad Boy;('8', '3');1
+Bad Boy;('0', 'h');1
+Bad Boy;(' ', '@');1
+Bad Boy;('@', ' ');1
+Bad Boy;('B', 'a');1
+Bad Boy;('b', 'y');3
+Bad Boy;('C', 'o');1
+Bad Boy;('I', 's');2
+Bad Boy;('J', 'a');1
+Bad Boy;('k', 't');1
+Bad Boy;('1', '?');1
+Bad Boy;('g', '?');1
+Bad Boy;('o', 'b');2
+Bad Boy;('b', 'v');1
+Bad Boy;('v', 'i');1
+Bad Boy;('1', '5');1
+Bad Boy;('5', ',');1
+Bad Boy;(',', '0');1
+Bad Boy;('B', 'e');1
+Bad Boy;(' ', 'U');1
+Bad Boy;('U', ' ');1
+Bad Boy;('w', '.');1
+Bad Boy;(' ', 'A');3
+Bad Boy;('A', 'p');1
+Bad Boy;(' ', 'F');2
+Bad Boy;('F', 'o');2
+Bad Boy;('o', 'l');3
+Bad Boy;('l', 's');1
+Bad Boy;(' ', 'j');2
+Bad Boy;('j', 'o');1
+Bad Boy;(' ', 'R');2
+Bad Boy;('R', 'e');2
+Bad Boy;('k', '?');2
+Bad Boy;('a', 'v');1
+Bad Boy;('d', '.');3
+Bad Boy;('f', 'l');1
+Bad Boy;('A', 'l');1
+Bad Boy;('/', 'y');1
+Bad Boy;('y', 'k');1
+Bad Boy;('k', 'j');1
+Bad Boy;('j', '9');1
+Bad Boy;('9', 'W');1
+Bad Boy;('W', 'o');1
+Bad Boy;('r', 'V');1
+Bad Boy;('V', 'V');1
+Bad Boy;('V', 'Q');1
+Bad Boy;('Q', 'b');1
+Bad Boy;('b', 'V');1
+Bad Boy;('V', 'h');1
+Bad Boy;('h', '3');1
+Bad Boy;('3', 'k');1
+Bad Boy;('k', 'd');1
+Bad Boy;('d', '7');1
+Bad Boy;('7', ' ');1
+Bad Boy;('A', 'm');1
+Bad Boy;('o', 'v');1
+Bad Boy;('.', '?');1
+Bad Boy;('l', '?');1
+Bad Boy;(' ', 'L');1
+Bad Boy;('L', 'o');1
+Bad Boy;('1', '0');2
+Bad Boy;('n', 'c');1
+Bad Boy;('i', 'k');3
+Bad Boy;('u', 'd');2
+Bad Boy;('C', 'h');2
+Bad Boy;('l', 'm');2
+Bad Boy;('t', 'y');4
+Bad Boy;('b', ' ');1
+Bad Boy;(' ', 'q');1
+Bad Boy;('q', 'u');1
+Bad Boy;('u', 'a');1
+Bad Boy;('r', 'c');1
+Bad Boy;('j', 'u');1
+Bad Boy;('w', 'n');2
+Bad Boy;('n', 'l');1
+Bad Boy;('o', 'a');1
+Bad Boy;('m', 'p');1
+Bad Boy;('D', 'u');1
+Bad Boy;('N', 'i');1
+Bad Boy;('D', 'o');2
+Bad Boy;('h', 'l');1
+Bad Boy;('p', 'y');1
+Bad Boy;('h', '?');2
+Bad Boy;('y', '?');1
+Bad Boy;('T', 'i');1
+Bad Boy;('T', 'o');1
+Bad Boy;('u', 'b');1
+Bad Boy;('b', 'l');1
+Bad Boy;('a', 'u');1
+Bad Boy;('y', '!');1
+Bad Boy;('!', '!');3
+Bad Boy;('g', 'i');1
+Bad Boy;('g', 'u');1
+Bad Boy;('s', 'k');1
+Bad Boy;('m', '?');1
+Bad Boy;('p', '?');1
+Bad Boy;('n', 'y');1
+Bad Boy;('f', '?');1
+Bad Boy;('r', '\\');1
+Bad Boy;('n', 'H');1
+Bad Boy;(' ', '7');1
+Bad Boy;('7', '5');1
+Bad Boy;('5', '0');1
+Bad Boy;('r', '4');1
+Bad Boy;('4', ' ');1
+Bad Boy;('a', 'f');1
+Maverick SOB;('O', 'h');2
+Maverick SOB;('h', ' ');11
+Maverick SOB;(' ', 'j');6
+Maverick SOB;('j', 'e');1
+Maverick SOB;('e', 'e');19
+Maverick SOB;('e', 'z');1
+Maverick SOB;('z', '.');1
+Maverick SOB;('.', ' ');65
+Maverick SOB;(' ', 'U');1
+Maverick SOB;('U', ' ');1
+Maverick SOB;(' ', 'r');9
+Maverick SOB;('r', ' ');28
+Maverick SOB;(' ', 'e');8
+Maverick SOB;('e', 'v');3
+Maverick SOB;('v', 'e');13
+Maverick SOB;('e', 'r');34
+Maverick SOB;('r', 'y');4
+Maverick SOB;('y', 'w');1
+Maverick SOB;('w', 'h');8
+Maverick SOB;('h', 'e');37
+Maverick SOB;('r', 'e');32
+Maverick SOB;('e', ' ');89
+Maverick SOB;(' ', 'W');14
+Maverick SOB;('W', 'h');5
+Maverick SOB;('h', 'a');21
+Maverick SOB;('a', 't');18
+Maverick SOB;('t', ' ');62
+Maverick SOB;(' ', 'd');19
+Maverick SOB;('d', 'o');14
+Maverick SOB;('o', ' ');31
+Maverick SOB;(' ', 'y');32
+Maverick SOB;('y', 'o');26
+Maverick SOB;('o', 'u');40
+Maverick SOB;('u', ' ');28
+Maverick SOB;(' ', 'w');23
+Maverick SOB;('w', 'a');6
+Maverick SOB;('a', 'n');73
+Maverick SOB;('n', 't');10
+Maverick SOB;(' ', 'm');32
+Maverick SOB;('m', 'a');12
+Maverick SOB;('n', '?');2
+Maverick SOB;('?', ' ');24
+Maverick SOB;(' ', 'O');17
+Maverick SOB;('O', 'K');17
+Maverick SOB;('K', ' ');14
+Maverick SOB;(' ', 'b');21
+Maverick SOB;('b', 'u');8
+Maverick SOB;('u', 't');11
+Maverick SOB;(' ', 'h');17
+Maverick SOB;('h', 'o');4
+Maverick SOB;('o', 'w');18
+Maverick SOB;('w', ' ');8
+Maverick SOB;(' ', 'c');18
+Maverick SOB;('c', 'a');12
+Maverick SOB;('n', ' ');69
+Maverick SOB;(' ', 'I');21
+Maverick SOB;('I', ' ');17
+Maverick SOB;(' ', 't');62
+Maverick SOB;('t', 'r');4
+Maverick SOB;('r', 'u');3
+Maverick SOB;('u', 's');10
+Maverick SOB;('s', 't');19
+Maverick SOB;(' ', 'a');36
+Maverick SOB;('a', 'f');2
+Maverick SOB;('f', 't');3
+Maverick SOB;('t', 'e');10
+Maverick SOB;(' ', 'l');15
+Maverick SOB;('l', 'a');9
+Maverick SOB;('a', 's');10
+Maverick SOB;('t', 'i');15
+Maverick SOB;('i', 'm');6
+Maverick SOB;('m', 'e');25
+Maverick SOB;('e', '?');3
+Maverick SOB;(' ', 'Y');15
+Maverick SOB;('Y', 'o');6
+Maverick SOB;('e', 'a');25
+Maverick SOB;('a', 'l');18
+Maverick SOB;('l', 'l');19
+Maverick SOB;('l', 'y');10
+Maverick SOB;('y', ' ');22
+Maverick SOB;(' ', 's');32
+Maverick SOB;('s', 'c');2
+Maverick SOB;('c', 'r');1
+Maverick SOB;('e', 'w');2
+Maverick SOB;('w', 'e');6
+Maverick SOB;('e', 'd');14
+Maverick SOB;('d', ' ');22
+Maverick SOB;(' ', 'u');9
+Maverick SOB;('u', 'p');7
+Maverick SOB;('p', '.');3
+Maverick SOB;('.', '.');46
+Maverick SOB;(' ', 'H');4
+Maverick SOB;('H', 'a');1
+Maverick SOB;('a', ' ');10
+Maverick SOB;('y', 'e');5
+Maverick SOB;('r', 'i');11
+Maverick SOB;('i', 'g');5
+Maverick SOB;('g', 'h');5
+Maverick SOB;('h', 't');4
+Maverick SOB;('t', '.');7
+Maverick SOB;('H', 'o');2
+Maverick SOB;('n', 'y');3
+Maverick SOB;('e', 's');21
+Maverick SOB;('s', ' ');40
+Maverick SOB;('a', 'v');7
+Maverick SOB;('a', 'r');16
+Maverick SOB;('r', 'd');1
+Maverick SOB;('t', 'h');34
+Maverick SOB;('s', 'h');6
+Maverick SOB;('h', 'i');15
+Maverick SOB;('i', 't');16
+Maverick SOB;('b', 'e');12
+Maverick SOB;('e', 'f');2
+Maverick SOB;('f', 'o');8
+Maverick SOB;('o', 'r');15
+Maverick SOB;('e', '.');17
+Maverick SOB;(' ', '≡');10
+Maverick SOB;('≡', 'ƒ');10
+Maverick SOB;('ƒ', 'ñ');1
+Maverick SOB;('ñ', 'ö');1
+Maverick SOB;('ö', ' ');2
+Maverick SOB;(' ', 'n');54
+Maverick SOB;('n', 'e');13
+Maverick SOB;('t', 'o');25
+Maverick SOB;('s', 'p');2
+Maverick SOB;('p', 'e');4
+Maverick SOB;('a', 'k');6
+Maverick SOB;('k', ' ');13
+Maverick SOB;(' ', 'G');9
+Maverick SOB;('G', 'o');8
+Maverick SOB;('o', 'o');10
+Maverick SOB;('o', 's');4
+Maverick SOB;('s', 'e');15
+Maverick SOB;('a', 'b');4
+Maverick SOB;('b', 'o');2
+Maverick SOB;('i', 's');14
+Maverick SOB;('s', '.');7
+Maverick SOB;(' ', 'B');6
+Maverick SOB;('B', 'a');1
+Maverick SOB;('a', 'd');5
+Maverick SOB;('B', 'o');1
+Maverick SOB;('o', 'y');1
+Maverick SOB;('y', '.');4
+Maverick SOB;('a', 'g');7
+Maverick SOB;('g', 'r');4
+Maverick SOB;(' ', 'g');12
+Maverick SOB;('g', 'i');2
+Maverick SOB;('i', 'v');4
+Maverick SOB;('e', 'c');2
+Maverick SOB;('c', 'o');2
+Maverick SOB;('o', 'n');16
+Maverick SOB;('n', 'd');11
+Maverick SOB;('c', 'h');8
+Maverick SOB;('n', 'c');1
+Maverick SOB;('c', 'e');4
+Maverick SOB;('e', ',');2
+Maverick SOB;(',', ' ');8
+Maverick SOB;(' ', ' ');5
+Maverick SOB;('y', 't');2
+Maverick SOB;('i', 'n');34
+Maverick SOB;('n', 'g');19
+Maverick SOB;('g', ' ');18
+Maverick SOB;('s', 'a');3
+Maverick SOB;('a', 'y');5
+Maverick SOB;('K', '?');3
+Maverick SOB;(' ', 'D');6
+Maverick SOB;('D', 'e');2
+Maverick SOB;('o', 'd');5
+Maverick SOB;('d', ',');1
+Maverick SOB;(' ', 'p');14
+Maverick SOB;('p', 'l');6
+Maverick SOB;('l', 'e');20
+Maverick SOB;('k', 'e');11
+Maverick SOB;('s', 'u');6
+Maverick SOB;('u', 'r');9
+Maverick SOB;('n', "'");4
+Maverick SOB;("'", 't');4
+Maverick SOB;(' ', 'S');10
+Maverick SOB;('S', 'i');1
+Maverick SOB;('i', 'c');7
+Maverick SOB;('c', 'k');14
+Maverick SOB;(' ', 'o');24
+Maverick SOB;('o', 'f');9
+Maverick SOB;('f', ' ');10
+Maverick SOB;('c', 'l');1
+Maverick SOB;('n', 'i');4
+Maverick SOB;('p', ' ');6
+Maverick SOB;('o', 't');10
+Maverick SOB;('r', 's');5
+Maverick SOB;(' ', 'F');4
+Maverick SOB;('F', 'i');2
+Maverick SOB;('i', 'r');1
+Maverick SOB;('j', 'o');3
+Maverick SOB;('o', 'b');5
+Maverick SOB;('b', '.');3
+Maverick SOB;('a', 'c');10
+Maverick SOB;('r', 'o');4
+Maverick SOB;('I', 'n');1
+Maverick SOB;('c', 'i');1
+Maverick SOB;('t', 'y');4
+Maverick SOB;('y', '?');6
+Maverick SOB;(' ', 'N');5
+Maverick SOB;('N', 'a');1
+Maverick SOB;('a', 'h');1
+Maverick SOB;('t', "'");4
+Maverick SOB;("'", 's');7
+Maverick SOB;('s', 'o');9
+Maverick SOB;('o', 'm');9
+Maverick SOB;('e', 'o');2
+Maverick SOB;('e', 'l');9
+Maverick SOB;('l', 's');4
+Maverick SOB;('e', "'");2
+Maverick SOB;('t', 'u');2
+Maverick SOB;('r', 'f');1
+Maverick SOB;('f', '.');1
+Maverick SOB;('W', 'e');4
+Maverick SOB;('u', 'b');1
+Maverick SOB;('r', 'b');1
+Maverick SOB;('b', 's');3
+Maverick SOB;('g', 'e');7
+Maverick SOB;('e', 't');15
+Maverick SOB;('d', '.');4
+Maverick SOB;(' ', 'L');4
+Maverick SOB;('L', 'o');1
+Maverick SOB;('o', 'c');2
+Maverick SOB;('l', ' ');19
+Maverick SOB;('n', 'u');2
+Maverick SOB;('u', 'm');1
+Maverick SOB;('m', 'b');2
+Maverick SOB;('n', 'l');2
+Maverick SOB;(' ', 'M');5
+Maverick SOB;('M', 'a');2
+Maverick SOB;('y', 'b');2
+Maverick SOB;('m', 'u');2
+Maverick SOB;('u', 'c');2
+Maverick SOB;('t', '?');2
+Maverick SOB;('n', 'a');42
+Maverick SOB;('y', 'a');1
+Maverick SOB;('n', 'k');2
+Maverick SOB;('k', '?');1
+Maverick SOB;('Y', 'e');9
+Maverick SOB;('S', 'e');3
+Maverick SOB;('r', 't');2
+Maverick SOB;('t', 'l');2
+Maverick SOB;('B', 'r');2
+Maverick SOB;('p', 'a');4
+Maverick SOB;('k', 'a');2
+Maverick SOB;('ƒ', 'ô');1
+Maverick SOB;('ô', 'ª');1
+Maverick SOB;('ª', ' ');1
+Maverick SOB;(' ', 'i');16
+Maverick SOB;('i', 'd');3
+Maverick SOB;('d', 'e');10
+Maverick SOB;('l', 'o');5
+Maverick SOB;('o', 'k');4
+Maverick SOB;('l', 'i');10
+Maverick SOB;('i', 'k');4
+Maverick SOB;('j', 'u');1
+Maverick SOB;('p', 'i');2
+Maverick SOB;('k', 'i');4
+Maverick SOB;('e', 'g');1
+Maverick SOB;('g', 'u');1
+Maverick SOB;('u', 'l');3
+Maverick SOB;('r', 'c');1
+Maverick SOB;('l', '.');2
+Maverick SOB;(' ', 'T');5
+Maverick SOB;('T', 'h');4
+Maverick SOB;('e', 'x');2
+Maverick SOB;('x', 'p');1
+Maverick SOB;('e', 'n');13
+Maverick SOB;('n', 's');3
+Maverick SOB;('s', 'i');3
+Maverick SOB;('r', 'a');4
+Maverick SOB;('F', 'u');1
+Maverick SOB;('u', 'n');2
+Maverick SOB;('n', 'n');1
+Maverick SOB;('i', 'l');13
+Maverick SOB;('n', 'o');13
+Maverick SOB;('u', 'g');1
+Maverick SOB;(' ', 'k');4
+Maverick SOB;('p', 'o');2
+Maverick SOB;('w', 'd');2
+Maverick SOB;('v', 'a');3
+Maverick SOB;('a', 'i');4
+Maverick SOB;('b', 'l');3
+Maverick SOB;(' ', '$');1
+Maverick SOB;('$', '1');1
+Maverick SOB;('1', '1');1
+Maverick SOB;('1', '0');4
+Maverick SOB;('0', ',');2
+Maverick SOB;(',', '0');3
+Maverick SOB;('0', '0');10
+Maverick SOB;('0', ' ');3
+Maverick SOB;('w', 'i');7
+Maverick SOB;(' ', 'f');10
+Maverick SOB;('n', 'f');1
+Maverick SOB;('f', 'l');1
+Maverick SOB;('i', 'o');3
+Maverick SOB;('n', '.');6
+Maverick SOB;('f', 'i');1
+Maverick SOB;(' ', 'q');3
+Maverick SOB;('q', 'u');3
+Maverick SOB;('u', 'a');3
+Maverick SOB;('y', ',');1
+Maverick SOB;(' ', 'v');2
+Maverick SOB;('a', 'p');1
+Maverick SOB;('m', 'y');3
+Maverick SOB;('f', 'r');2
+Maverick SOB;('i', 'e');2
+Maverick SOB;('c', 'u');1
+Maverick SOB;('w', 'n');2
+Maverick SOB;('d', 'r');1
+Maverick SOB;('l', 'u');2
+Maverick SOB;('u', 'e');2
+Maverick SOB;('T', 'i');1
+Maverick SOB;('k', '.');2
+Maverick SOB;(' ', 'J');2
+Maverick SOB;('J', 'u');2
+Maverick SOB;('u', '.');2
+Maverick SOB;('L', 'e');1
+Maverick SOB;('d', 'n');2
+Maverick SOB;('s', 'd');1
+Maverick SOB;('d', 'a');3
+Maverick SOB;('g', '.');2
+Maverick SOB;('ƒ', 'æ');3
+Maverick SOB;('æ', 'î');1
+Maverick SOB;('î', ' ');1
+Maverick SOB;('b', 'r');2
+Maverick SOB;('r', '.');2
+Maverick SOB;(' ', '1');4
+Maverick SOB;('0', '.');1
+Maverick SOB;('.', 'm');1
+Maverick SOB;('m', 'i');5
+Maverick SOB;('I', "'");2
+Maverick SOB;("'", 'm');2
+Maverick SOB;('m', ' ');6
+Maverick SOB;('w', '.');3
+Maverick SOB;('B', 'l');1
+Maverick SOB;('j', 'a');1
+Maverick SOB;('?', '?');18
+Maverick SOB;('æ', 'Ç');1
+Maverick SOB;('Ç', ' ');1
+Maverick SOB;(' ', 'P');1
+Maverick SOB;('P', 'l');1
+Maverick SOB;('o', 'i');3
+Maverick SOB;('s', 's');4
+Maverick SOB;('o', 'l');5
+Maverick SOB;('W', 'o');1
+Maverick SOB;('?', '\\');1
+Maverick SOB;('\\', 'n');3
+Maverick SOB;('n', 'O');1
+Maverick SOB;(' ', 'Γ');1
+Maverick SOB;('Γ', '£');1
+Maverick SOB;('£', 'ö');1
+Maverick SOB;('a', 'm');6
+Maverick SOB;('m', 'n');3
+Maverick SOB;('p', 'u');1
+Maverick SOB;(' ', 'A');5
+Maverick SOB;('A', 'r');1
+Maverick SOB;('t', 'c');1
+Maverick SOB;(' ', '?');2
+Maverick SOB;('S', 'o');2
+Maverick SOB;('u', 'f');1
+Maverick SOB;('f', 'f');2
+Maverick SOB;('f', '?');1
+Maverick SOB;('w', 'o');2
+Maverick SOB;('r', 'k');3
+Maverick SOB;('g', 'o');5
+Maverick SOB;('A', ' ');1
+Maverick SOB;('r', 'r');2
+Maverick SOB;('N', 'o');3
+Maverick SOB;('b', 'i');1
+Maverick SOB;('1', '5');1
+Maverick SOB;('5', ',');1
+Maverick SOB;('0', 'k');4
+Maverick SOB;('k', 'r');4
+Maverick SOB;('m', 's');1
+Maverick SOB;('e', 'p');1
+Maverick SOB;('W', 'i');2
+Maverick SOB;('k', 'n');3
+Maverick SOB;('N', 'e');1
+Maverick SOB;('k', 's');2
+Maverick SOB;('m', 'o');3
+Maverick SOB;('t', 'w');1
+Maverick SOB;(' ', '6');1
+Maverick SOB;('6', '.');1
+Maverick SOB;('.', '3');1
+Maverick SOB;('3', '0');2
+Maverick SOB;('0', '-');1
+Maverick SOB;('-', '7');1
+Maverick SOB;('7', 'p');1
+Maverick SOB;('p', 'm');1
+Maverick SOB;('m', '.');1
+Maverick SOB;(' ', '3');1
+Maverick SOB;('r', 'n');2
+Maverick SOB;('ƒ', 'Æ');2
+Maverick SOB;('Æ', '╕');1
+Maverick SOB;('╕', ' ');1
+Maverick SOB;('æ', 'ì');1
+Maverick SOB;('ì', ' ');1
+Maverick SOB;('d', 'u');1
+Maverick SOB;('B', 'e');1
+Maverick SOB;('r', 'l');1
+Maverick SOB;('A', 's');1
+Maverick SOB;('Æ', '░');1
+Maverick SOB;('░', ' ');1
+Maverick SOB;(' ', ':');1
+Maverick SOB;(':', ')');1
+Maverick SOB;(')', ' ');3
+Maverick SOB;('M', 'e');3
+Maverick SOB;('t', 's');1
+Maverick SOB;('b', 'a');2
+Maverick SOB;('o', 'p');1
+Maverick SOB;('L', 'i');2
+Maverick SOB;(' ', 'C');1
+Maverick SOB;('C', 'a');1
+Maverick SOB;('g', 'a');1
+Maverick SOB;(' ', ';');1
+Maverick SOB;(';', ')');1
+Maverick SOB;('H', 'e');1
+Maverick SOB;('e', 'y');3
+Maverick SOB;('I', 'f');1
+Maverick SOB;('d', 'i');1
+Maverick SOB;('e', 'm');2
+Maverick SOB;('W', 'a');3
+Maverick SOB;('o', 'e');2
+Maverick SOB;('s', 'n');1
+Maverick SOB;('t', 'a');3
+Maverick SOB;('e', 'h');1
+Maverick SOB;('p', 'p');1
+Maverick SOB;('D', 'i');1
+Maverick SOB;('p', 'r');1
+Maverick SOB;('u', ',');1
+Maverick SOB;('l', 'k');1
+Maverick SOB;('A', 'n');1
+Maverick SOB;('i', 'f');2
+Maverick SOB;('t', ',');1
+Maverick SOB;('G', 'u');1
+Maverick SOB;('u', 'y');3
+Maverick SOB;('c', 't');1
+Maverick SOB;('l', 'r');1
+Maverick SOB;('ƒ', 'Ö');1
+Maverick SOB;('Ö', 'ä');1
+Maverick SOB;('ä', ' ');1
+Maverick SOB;('S', 'u');1
+Maverick SOB;('D', 'u');2
+Maverick SOB;('u', 'd');2
+Maverick SOB;('A', 'l');1
+Maverick SOB;(' ', 'R');1
+Maverick SOB;('R', 'e');1
+Maverick SOB;('a', 'x');1
+Maverick SOB;('x', '.');1
+Maverick SOB;('S', 'p');2
+Maverick SOB;('D', 'a');2
+Maverick SOB;('.', 'w');1
+Maverick SOB;(' ', '2');1
+Maverick SOB;('2', ' ');1
+Maverick SOB;('x', 't');1
+Maverick SOB;('u', "'");1
+Maverick SOB;("'", 'r');1
+Maverick SOB;('F', 'a');1
+Maverick SOB;('w', '?');1
+Maverick SOB;('n', ',');1
+Maverick SOB;('l', 'p');1
+Maverick SOB;('s', 'y');1
+Maverick SOB;('t', 't');1
+Maverick SOB;('ƒ', 'É');1
+Maverick SOB;('É', '¥');1
+Maverick SOB;('¥', ' ');1
+Maverick SOB;('f', 'e');1
+Maverick SOB;('c', 'y');1
+Maverick SOB;('S', 'n');1
+Maverick SOB;('w', 'y');1
+Maverick SOB;('ƒ', 'î');1
+Maverick SOB;('î', '¿');1
+Maverick SOB;('¿', ' ');1
+Maverick SOB;('d', 'l');1
+Maverick SOB;('s', '?');1
+Maverick SOB;(' ', '(');1
+Maverick SOB;('(', 's');1
+Maverick SOB;('s', 'm');1
+Maverick SOB;('y', ')');1
+Maverick SOB;('f', 'u');1
+Maverick SOB;(' ', '5');1
+Maverick SOB;('5', '0');1
+Maverick SOB;('s', ',');1
+Maverick SOB;('p', 'h');1
+Maverick SOB;('d', '?');1
+Maverick SOB;('d', 'm');2
+Maverick SOB;('a', "'");1
+Maverick SOB;('.', '\\');2
+Maverick SOB;('n', 'D');1
+Maverick SOB;('r', '?');2
+Maverick SOB;('s', 'l');1
+Maverick SOB;('n', 'W');1
+Maverick SOB;(' ', '8');1
+Maverick SOB;('8', '0');1
+Maverick.4444;('N', 'o');1
+Maverick.4444;('o', ' ');1
+Maverick.4444;(' ', 't');2
+Maverick.4444;('t', 'h');2
+Maverick.4444;('h', 'a');2
+Maverick.4444;('a', 'n');2
+Maverick.4444;('n', 'k');1
+Maverick.4444;('k', 's');1
+Maverick.4444;('s', ' ');2
+Maverick.4444;(' ', 'S');1
+Maverick.4444;('S', 'h');1
+Maverick.4444;('h', 'o');1
+Maverick.4444;('o', 'u');1
+Maverick.4444;('u', 'l');1
+Maverick.4444;('l', 'd');1
+Maverick.4444;('d', ' ');1
+Maverick.4444;(' ', 'u');2
+Maverick.4444;('u', ' ');1
+Maverick.4444;(' ', 'b');1
+Maverick.4444;('b', 'e');1
+Maverick.4444;('e', ' ');1
+Maverick.4444;('u', 's');1
+Maverick.4444;('s', 'i');1
+Maverick.4444;('i', 'n');1
+Maverick.4444;('n', 'g');1
+Maverick.4444;('g', ' ');1
+Maverick.4444;('h', 'i');1
+Maverick.4444;('i', 's');1
+Maverick.4444;(' ', 'c');1
+Maverick.4444;('c', 'h');1
+Maverick.4444;('n', 'n');1
+Maverick.4444;('n', 'e');1
+Maverick.4444;('e', 'l');1
+Maverick.4444;('l', '?');1
+Mike.Jonson;('Y', 'e');4
+Mike.Jonson;('e', 't');3
+Mike.Jonson;('t', ' ');20
+Mike.Jonson;(' ', 'm');9
+Mike.Jonson;('m', 'a');5
+Mike.Jonson;('a', 'y');1
+Mike.Jonson;('y', 'b');1
+Mike.Jonson;('b', 'e');3
+Mike.Jonson;('e', ' ');14
+Mike.Jonson;(' ', 'n');8
+Mike.Jonson;('n', 'o');6
+Mike.Jonson;('o', 't');2
+Mike.Jonson;(' ', 's');13
+Mike.Jonson;('s', 'm');1
+Mike.Jonson;('a', 'r');4
+Mike.Jonson;('r', 't');3
+Mike.Jonson;('t', '.');3
+Mike.Jonson;('.', ' ');16
+Mike.Jonson;(' ', 'G');1
+Mike.Jonson;('G', 'o');1
+Mike.Jonson;('o', 'o');3
+Mike.Jonson;('o', 'd');1
+Mike.Jonson;('d', ' ');8
+Mike.Jonson;(' ', 'p');2
+Mike.Jonson;('p', 'o');1
+Mike.Jonson;('o', 'i');1
+Mike.Jonson;('i', 'n');10
+Mike.Jonson;('n', 't');4
+Mike.Jonson;('n', 'a');2
+Mike.Jonson;('a', 'n');15
+Mike.Jonson;('n', ' ');4
+Mike.Jonson;(' ', 'S');4
+Mike.Jonson;('S', 'o');2
+Mike.Jonson;('o', ' ');21
+Mike.Jonson;(' ', 'w');11
+Mike.Jonson;('w', 'h');5
+Mike.Jonson;('h', 'a');12
+Mike.Jonson;('a', 't');10
+Mike.Jonson;('t', "'");2
+Mike.Jonson;("'", 's');2
+Mike.Jonson;('s', ' ');14
+Mike.Jonson;(' ', 'u');3
+Mike.Jonson;('u', 'p');1
+Mike.Jonson;('p', ' ');1
+Mike.Jonson;(' ', 'd');11
+Mike.Jonson;('d', 'o');10
+Mike.Jonson;('o', 'g');1
+Mike.Jonson;('g', '?');1
+Mike.Jonson;('?', ' ');9
+Mike.Jonson;(' ', 'H');2
+Mike.Jonson;('H', 'i');1
+Mike.Jonson;('i', ' ');1
+Mike.Jonson;('S', 'a');1
+Mike.Jonson;('a', 'd');3
+Mike.Jonson;('d', 'i');3
+Mike.Jonson;('i', 'e');3
+Mike.Jonson;('e', '.');6
+Mike.Jonson;(' ', 'I');9
+Mike.Jonson;('I', ' ');9
+Mike.Jonson;(' ', 'a');16
+Mike.Jonson;('a', 'm');2
+Mike.Jonson;('m', ' ');3
+Mike.Jonson;('s', 'h');1
+Mike.Jonson;('h', 'y');1
+Mike.Jonson;('y', '.');2
+Mike.Jonson;(' ', 'N');2
+Mike.Jonson;('N', 'o');2
+Mike.Jonson;('s', 'o');6
+Mike.Jonson;('o', 'r');4
+Mike.Jonson;('r', 'r');1
+Mike.Jonson;('r', 'y');1
+Mike.Jonson;('o', 'n');7
+Mike.Jonson;('n', "'");3
+Mike.Jonson;("'", 't');3
+Mike.Jonson;(' ', 'k');3
+Mike.Jonson;('k', 'n');2
+Mike.Jonson;('o', 'w');6
+Mike.Jonson;('w', ' ');4
+Mike.Jonson;('n', 'y');1
+Mike.Jonson;('y', ' ');3
+Mike.Jonson;(' ', 'l');4
+Mike.Jonson;('l', 'a');2
+Mike.Jonson;('e', 's');8
+Mike.Jonson;('s', '.');1
+Mike.Jonson;(' ', 'T');7
+Mike.Jonson;('T', 'h');6
+Mike.Jonson;('h', 'i');3
+Mike.Jonson;('i', 's');6
+Mike.Jonson;(' ', 'i');6
+Mike.Jonson;('a', ' ');5
+Mike.Jonson;('w', 'i');3
+Mike.Jonson;('i', 'l');4
+Mike.Jonson;('l', 'd');1
+Mike.Jonson;(' ', 'g');2
+Mike.Jonson;('g', 'u');2
+Mike.Jonson;('u', 'e');3
+Mike.Jonson;('s', 's');3
+Mike.Jonson;(' ', 'b');7
+Mike.Jonson;('b', 'u');2
+Mike.Jonson;('u', 't');1
+Mike.Jonson;(' ', 'y');10
+Mike.Jonson;('y', 'o');10
+Mike.Jonson;('o', 'u');11
+Mike.Jonson;('u', ' ');10
+Mike.Jonson;(' ', 'h');2
+Mike.Jonson;('a', 'v');2
+Mike.Jonson;('v', 'e');2
+Mike.Jonson;(' ', 'r');1
+Mike.Jonson;('r', 'o');3
+Mike.Jonson;('o', 'm');6
+Mike.Jonson;('m', 'i');3
+Mike.Jonson;('.', '.');4
+Mike.Jonson;('.', '?');1
+Mike.Jonson;(' ', 'B');1
+Mike.Jonson;('B', 'i');1
+Mike.Jonson;('n', 'g');7
+Mike.Jonson;('g', 'o');1
+Mike.Jonson;('u', 'z');1
+Mike.Jonson;('z', 'z');1
+Mike.Jonson;('z', 'w');1
+Mike.Jonson;('w', 'o');2
+Mike.Jonson;('r', 'd');1
+Mike.Jonson;(' ', 'q');2
+Mike.Jonson;('q', 'u');2
+Mike.Jonson;('u', 'a');1
+Mike.Jonson;('r', 'a');2
+Mike.Jonson;('t', 'i');4
+Mike.Jonson;('n', 'e');3
+Mike.Jonson;(' ', ' ');1
+Mike.Jonson;('n', 'd');4
+Mike.Jonson;('o', 'c');1
+Mike.Jonson;('c', 'i');2
+Mike.Jonson;('i', 'a');1
+Mike.Jonson;('a', 'l');4
+Mike.Jonson;('l', ' ');5
+Mike.Jonson;('s', 't');4
+Mike.Jonson;('t', 'a');1
+Mike.Jonson;('n', 'c');1
+Mike.Jonson;('c', 'e');1
+Mike.Jonson;('e', '?');4
+Mike.Jonson;(' ', 'W');3
+Mike.Jonson;('W', 'h');2
+Mike.Jonson;('l', 'i');1
+Mike.Jonson;('i', 'k');1
+Mike.Jonson;('k', 'e');1
+Mike.Jonson;(' ', 't');10
+Mike.Jonson;('t', 'o');8
+Mike.Jonson;('k', 'i');1
+Mike.Jonson;('l', 'l');4
+Mike.Jonson;('i', 'm');1
+Mike.Jonson;('m', 'e');6
+Mike.Jonson;(' ', 'o');2
+Mike.Jonson;('o', 'f');1
+Mike.Jonson;('f', ' ');1
+Mike.Jonson;(' ', '\\');1
+Mike.Jonson;('\\', 'h');1
+Mike.Jonson;('h', 'u');1
+Mike.Jonson;('u', 'm');1
+Mike.Jonson;('n', 's');1
+Mike.Jonson;('s', '\\');1
+Mike.Jonson;('\\', '"');1
+Mike.Jonson;('"', ' ');2
+Mike.Jonson;('r', 'e');3
+Mike.Jonson;(' ', '2');1
+Mike.Jonson;('2', '?');1
+Mike.Jonson;('?', '"');1
+Mike.Jonson;(' ', 'D');1
+Mike.Jonson;('D', 'o');1
+Mike.Jonson;('w', 'a');2
+Mike.Jonson;('a', 's');2
+Mike.Jonson;('s', 'k');1
+Mike.Jonson;('k', ' ');9
+Mike.Jonson;('s', 'e');5
+Mike.Jonson;('e', 'r');2
+Mike.Jonson;('r', 'i');1
+Mike.Jonson;('i', 'o');2
+Mike.Jonson;('u', 's');3
+Mike.Jonson;('n', '?');1
+Mike.Jonson;('T', 'a');1
+Mike.Jonson;('l', 'k');1
+Mike.Jonson;(' ', 'c');4
+Mike.Jonson;('c', 'h');2
+Mike.Jonson;('b', 'o');1
+Mike.Jonson;('t', 's');1
+Mike.Jonson;('h', 'o');2
+Mike.Jonson;('t', 't');1
+Mike.Jonson;('t', 'e');3
+Mike.Jonson;('e', 'm');1
+Mike.Jonson;('m', 'p');3
+Mike.Jonson;('p', 't');1
+Mike.Jonson;('c', 'o');3
+Mike.Jonson;('p', 'r');1
+Mike.Jonson;('h', 'e');1
+Mike.Jonson;('n', 'i');1
+Mike.Jonson;('i', 'p');1
+Mike.Jonson;('p', 'u');1
+Mike.Jonson;('u', 'l');1
+Mike.Jonson;('S', 'u');1
+Mike.Jonson;('u', 'r');2
+Mike.Jonson;('i', 't');5
+Mike.Jonson;('t', 'h');3
+Mike.Jonson;('g', ' ');3
+Mike.Jonson;('a', 'u');1
+Mike.Jonson;('u', 'g');2
+Mike.Jonson;('g', 'h');1
+Mike.Jonson;('h', 't');1
+Mike.Jonson;('t', 'y');1
+Mike.Jonson;('w', '?');1
+Mike.Jonson;('o', 'p');2
+Mike.Jonson;('p', 'e');1
+Mike.Jonson;('e', 'l');1
+Mike.Jonson;('l', 'e');3
+Mike.Jonson;('e', 'd');2
+Mike.Jonson;('d', '.');1
+Mike.Jonson;('H', 'o');1
+Mike.Jonson;(' ', 'e');1
+Mike.Jonson;('e', 'x');1
+Mike.Jonson;('x', 'c');1
+Mike.Jonson;(' ', 'f');1
+Mike.Jonson;('f', 'r');1
+Mike.Jonson;('p', 'l');2
+Mike.Jonson;('t', 'r');1
+Mike.Jonson;('g', 'e');1
+Mike.Jonson;('r', ' ');3
+Mike.Jonson;('w', '.');2
+Mike.Jonson;('b', 'i');1
+Mike.Jonson;('e', 'w');1
+Mike.Jonson;('n', 'f');1
+Mike.Jonson;('f', 'u');1
+Mike.Jonson;('s', 'i');2
+Mike.Jonson;(' ', 'Y');3
+Mike.Jonson;('e', 'a');2
+Mike.Jonson;('n', 'k');3
+Mike.Jonson;('e', 'e');2
+Mike.Jonson;('W', 'i');1
+Mike.Jonson;('h', ' ');3
+Mike.Jonson;('s', 'u');1
+Mike.Jonson;('g', 'a');1
+Mike.Jonson;('p', '.');1
+Mike.Jonson;(' ', 'O');4
+Mike.Jonson;('O', 'h');2
+Mike.Jonson;('m', 'u');1
+Mike.Jonson;('u', 'c');1
+Mike.Jonson;('h', '.');1
+Mike.Jonson;('o', '?');1
+Mike.Jonson;('l', 'o');2
+Mike.Jonson;('o', 's');1
+Mike.Jonson;('l', 'r');1
+Mike.Jonson;('d', 'y');1
+Mike.Jonson;('y', '?');1
+Mike.Jonson;('?', '?');2
+Mike.Jonson;(' ', 'L');1
+Mike.Jonson;('L', 'o');1
+Mike.Jonson;('o', 'k');1
+Mike.Jonson;('g', 'i');1
+Mike.Jonson;('g', 'l');1
+Mike.Jonson;('l', 'y');1
+Mike.Jonson;('O', 'k');2
+Mike.Jonson;('b', 'a');1
+Mike.Jonson;('a', 'c');1
+Mike.Jonson;('c', 'k');1
+Mike.Jonson;('i', 'd');1
+Mike.Jonson;('d', 'e');1
+Telegram;('T', 'e');6
+Telegram;('e', 'l');13
+Telegram;('l', 'e');16
+Telegram;('e', 'g');7
+Telegram;('g', 'r');7
+Telegram;('r', 'a');8
+Telegram;('a', 'm');7
+Telegram;('m', ' ');6
+Telegram;(' ', 's');10
+Telegram;('s', 'u');2
+Telegram;('u', 'r');10
+Telegram;('r', 'p');1
+Telegram;('p', 'a');5
+Telegram;('a', 's');5
+Telegram;('s', 's');5
+Telegram;('s', 'e');9
+Telegram;('e', 'd');10
+Telegram;('d', ' ');16
+Telegram;(' ', '5');1
+Telegram;('5', '0');2
+Telegram;('0', '0');1
+Telegram;('0', ' ');2
+Telegram;(' ', 'm');8
+Telegram;('m', 'i');7
+Telegram;('i', 'l');6
+Telegram;('l', 'l');5
+Telegram;('l', 'i');12
+Telegram;('i', 'o');9
+Telegram;('o', 'n');16
+Telegram;('n', ' ');19
+Telegram;(' ', 'a');19
+Telegram;('a', 'c');4
+Telegram;('c', 't');4
+Telegram;('t', 'i');9
+Telegram;('i', 'v');3
+Telegram;('v', 'e');6
+Telegram;('e', ' ');47
+Telegram;(' ', 'u');7
+Telegram;('u', 's');7
+Telegram;('e', 'r');15
+Telegram;('r', 's');9
+Telegram;('s', '.');4
+Telegram;('.', ' ');2
+Telegram;(' ', '\\');3
+Telegram;('\\', 'n');31
+Telegram;('n', 'I');3
+Telegram;('I', 'n');2
+Telegram;(' ', '2');2
+Telegram;('2', '0');1
+Telegram;('0', '2');1
+Telegram;('2', '1');1
+Telegram;('1', ',');1
+Telegram;(',', ' ');10
+Telegram;('m', 'o');2
+Telegram;('o', 'r');16
+Telegram;('r', 'e');12
+Telegram;(' ', 't');25
+Telegram;('t', 'h');13
+Telegram;('h', 'a');25
+Telegram;('a', 'n');19
+Telegram;(' ', '1');1
+Telegram;('1', '5');1
+Telegram;(' ', 'n');2
+Telegram;('n', 'e');16
+Telegram;('e', 'w');2
+Telegram;('w', ' ');3
+Telegram;('s', ' ');30
+Telegram;(' ', 'f');10
+Telegram;('f', 'r');4
+Telegram;('r', 'o');7
+Telegram;('o', 'm');4
+Telegram;('a', 'r');7
+Telegram;('o', 'u');18
+Telegram;('u', 'n');3
+Telegram;('n', 'd');5
+Telegram;('h', 'e');10
+Telegram;(' ', 'w');7
+Telegram;('w', 'o');1
+Telegram;('r', 'l');1
+Telegram;('l', 'd');1
+Telegram;(' ', 'j');2
+Telegram;('j', 'o');2
+Telegram;('o', 'i');12
+Telegram;('i', 'n');17
+Telegram;(' ', 'T');6
+Telegram;('m', '.');3
+Telegram;('.', '\\');12
+Telegram;('n', '\\');9
+Telegram;('n', 'T');3
+Telegram;('T', 'h');2
+Telegram;('n', 'k');2
+Telegram;('k', ' ');3
+Telegram;(' ', 'y');11
+Telegram;('y', 'o');11
+Telegram;('u', '!');1
+Telegram;('!', ' ');1
+Telegram;('e', 's');7
+Telegram;('s', 't');12
+Telegram;('t', 'o');10
+Telegram;('w', 'e');2
+Telegram;('m', 'a');2
+Telegram;('a', 'd');3
+Telegram;('d', 'e');6
+Telegram;(' ', 'p');7
+Telegram;('p', 'o');1
+Telegram;('o', 's');3
+Telegram;('s', 'i');4
+Telegram;('i', 'b');1
+Telegram;('b', 'l');3
+Telegram;(' ', 'b');5
+Telegram;('b', 'y');2
+Telegram;('y', ' ');2
+Telegram;(' ', 'l');10
+Telegram;('i', 'k');1
+Telegram;('k', 'e');3
+Telegram;('u', ' ');5
+Telegram;('w', 'h');3
+Telegram;('h', 'o');3
+Telegram;('o', ' ');12
+Telegram;(' ', 'i');9
+Telegram;('n', 'v');2
+Telegram;('v', 'i');3
+Telegram;('i', 't');6
+Telegram;('t', 'e');16
+Telegram;('e', 'i');2
+Telegram;('i', 'r');1
+Telegram;('r', ' ');14
+Telegram;('r', 'i');2
+Telegram;('i', 'e');1
+Telegram;('e', 'n');8
+Telegram;('d', 's');2
+Telegram;('I', 'f');1
+Telegram;('f', ' ');10
+Telegram;(' ', 'h');5
+Telegram;('a', 'v');2
+Telegram;(' ', 'c');7
+Telegram;('c', 'o');7
+Telegram;('n', 't');7
+Telegram;('t', 'a');3
+Telegram;('t', 's');11
+Telegram;('a', 't');22
+Telegram;('t', ' ');24
+Telegram;('l', 'a');2
+Telegram;('f', 'e');3
+Telegram;(' ', 'd');3
+Telegram;('d', 'a');2
+Telegram;('a', 'y');1
+Telegram;('y', 's');1
+Telegram;('s', ',');6
+Telegram;('c', 'a');2
+Telegram;('l', 'c');1
+Telegram;('m', 'e');4
+Telegram;('e', 'm');1
+Telegram;('n', 'g');5
+Telegram;('g', ' ');2
+Telegram;(' ', 'o');17
+Telegram;('o', 'f');9
+Telegram;('m', 'Γ');1
+Telegram;('Γ', 'Ç');11
+Telegram;('Ç', 'Ö');1
+Telegram;('Ö', 's');1
+Telegram;('n', 'i');3
+Telegram;('i', 'q');1
+Telegram;('q', 'u');1
+Telegram;('u', 'e');1
+Telegram;('e', 'a');7
+Telegram;('t', 'u');2
+Telegram;('u', 'c');1
+Telegram;('c', 'h');7
+Telegram;('h', ' ');3
+Telegram;('i', 'm');3
+Telegram;('i', 'c');13
+Telegram;('c', 'k');1
+Telegram;('a', ' ');5
+Telegram;(' ', 'v');2
+Telegram;('i', 'd');4
+Telegram;('e', 'o');4
+Telegram;('s', 'a');1
+Telegram;('a', 'g');1
+Telegram;('g', 'e');2
+Telegram;('e', '.');3
+Telegram;('T', 'o');3
+Telegram;('f', 'i');1
+Telegram;('u', 't');4
+Telegram;('a', 'b');2
+Telegram;('b', 'o');2
+Telegram;('l', 'o');2
+Telegram;('o', 'o');4
+Telegram;('o', 'k');1
+Telegram;('h', 't');3
+Telegram;('t', 't');3
+Telegram;('t', 'p');2
+Telegram;('p', 's');4
+Telegram;('s', ':');2
+Telegram;(':', '/');2
+Telegram;('/', '/');2
+Telegram;('/', 't');2
+Telegram;('t', '.');2
+Telegram;('.', 'm');1
+Telegram;('e', '/');1
+Telegram;('/', 'T');1
+Telegram;('m', 'T');1
+Telegram;('T', 'i');1
+Telegram;('i', 'p');5
+Telegram;('s', '/');1
+Telegram;('/', '2');1
+Telegram;('2', '3');1
+Telegram;('3', '3');1
+Telegram;('3', ' ');1
+Telegram;(' ', 'V');5
+Telegram;('V', 'o');6
+Telegram;('c', 'e');8
+Telegram;(' ', 'C');15
+Telegram;('C', 'h');13
+Telegram;('2', '.');1
+Telegram;('.', '0');1
+Telegram;('0', ':');1
+Telegram;(':', ' ');2
+Telegram;('n', 'n');4
+Telegram;('l', 's');6
+Telegram;(' ', 'M');3
+Telegram;('M', 'i');2
+Telegram;('n', 's');5
+Telegram;(' ', 'L');4
+Telegram;('L', 'i');4
+Telegram;('i', 's');13
+Telegram;(' ', 'R');5
+Telegram;('R', 'e');4
+Telegram;('e', 'c');4
+Telegram;('r', 'd');4
+Telegram;(' ', 'A');3
+Telegram;('A', 'd');1
+Telegram;('d', 'm');2
+Telegram;('o', 'l');2
+Telegram;('s', '\\');6
+Telegram;('n', 'M');2
+Telegram;('C', 'o');1
+Telegram;('n', 'c');1
+Telegram;('c', 'u');3
+Telegram;('r', 'r');2
+Telegram;('n', 'Γ');10
+Telegram;('Ç', 'ó');10
+Telegram;('ó', ' ');10
+Telegram;(' ', 'S');4
+Telegram;('S', 't');1
+Telegram;('r', 't');3
+Telegram;('t', 'l');3
+Telegram;(' ', 'G');1
+Telegram;('G', 'r');1
+Telegram;('u', 'p');2
+Telegram;(' ', 'H');1
+Telegram;('H', 'o');1
+Telegram;('d', 'i');2
+Telegram;('s', 'c');1
+Telegram;('b', 'e');2
+Telegram;('p', 'e');8
+Telegram;('o', 'p');3
+Telegram;('p', 'l');2
+Telegram;('m', 'u');1
+Telegram;('u', 'l');1
+Telegram;('l', 't');1
+Telegram;('s', 'l');1
+Telegram;('l', 'y');1
+Telegram;('y', '.');1
+Telegram;('n', 'V');1
+Telegram;('g', 's');2
+Telegram;('v', 'o');2
+Telegram;('s', 'h');3
+Telegram;('p', 'u');1
+Telegram;('u', 'b');1
+Telegram;('r', '.');1
+Telegram;('S', 'e');3
+Telegram;('e', 'e');2
+Telegram;(' ', 'r');3
+Telegram;('d', 'o');1
+Telegram;('o', 't');1
+Telegram;('e', 'x');2
+Telegram;('x', 't');2
+Telegram;('I', 'm');1
+Telegram;('m', 'p');1
+Telegram;('p', 'r');1
+Telegram;('o', 'v');1
+Telegram;(' ', 'P');2
+Telegram;('P', 'a');1
+Telegram;('c', 'i');2
+Telegram;('b', 'i');1
+Telegram;('i', 'g');1
+Telegram;('g', 'h');1
+Telegram;('R', 'a');1
+Telegram;('a', 'i');1
+Telegram;('o', 'w');1
+Telegram;('w', 'a');1
+Telegram;('s', 'p');2
+Telegram;('a', 'k');2
+Telegram;('k', '.');1
+Telegram;('f', 'o');3
+Telegram;(' ', 'O');1
+Telegram;('O', 'r');1
+Telegram;('r', 'g');2
+Telegram;('g', 'a');1
+Telegram;('i', 'z');1
+Telegram;('z', 'e');1
+Telegram;('C', 'r');1
+Telegram;('e', 'p');1
+Telegram;(' ', 'I');1
+Telegram;('k', 's');1
+Telegram;(' ', 'g');1
+Telegram;('g', 'i');1
+Telegram;('p', 'i');1
+Telegram;('c', '.');1
+Telegram;(' ', 'J');1
+Telegram;('J', 'o');1
+Telegram;('h', 'i');4
+Telegram;('s', 'o');1
+Telegram;('n', 'a');1
+Telegram;('a', 'l');1
+Telegram;('l', ' ');1
+Telegram;('c', 'c');1
+Telegram;('n', 'S');1
+Telegram;('S', 'w');1
+Telegram;('w', 'i');2
+Telegram;('A', 'c');1
+Telegram;('e', 't');2
+Telegram;('r', 'f');1
+Telegram;('r', 'm');1
+Telegram;('s', 'w');1
+Telegram;('e', 'f');1
+Telegram;('f', 't');1
+Telegram;('t', ':');1
+Telegram;('P', 'i');1
+Telegram;('n', ',');1
+Telegram;('M', 'a');1
+Telegram;('r', 'k');1
+Telegram;('d', ',');1
+Telegram;('A', 'r');1
+Telegram;('r', 'c');1
+Telegram;('e', ',');1
+Telegram;('M', 'u');1
+Telegram;(' ', 'D');1
+Telegram;('D', 'e');1
+Telegram;('M', 'o');1
+Telegram;('p', 'd');1
+Telegram;('e', ':');1
+Telegram;(':', '\\');1
+Telegram;('n', 'h');1
+Telegram;('.', 'o');1
+Telegram;('g', '/');2
+Telegram;('/', 'b');1
+Telegram;('o', 'g');1
+Telegram;('/', 'v');1
+Telegram;('e', '-');1
+Telegram;('-', 'c');1
+Telegram;('s', '-');1
+Telegram;('-', 'o');1
+Telegram;('n', '-');1
+Telegram;('-', 's');1
+blondtrip24;('D', 'o');1
+blondtrip24;('o', ' ');16
+blondtrip24;(' ', 'u');8
+blondtrip24;('u', ' ');13
+blondtrip24;(' ', 'r');5
+blondtrip24;('r', 'e');14
+blondtrip24;('e', 'c');4
+blondtrip24;('c', 'o');5
+blondtrip24;('o', 'g');1
+blondtrip24;('g', 'n');1
+blondtrip24;('n', 'i');1
+blondtrip24;('i', 'z');1
+blondtrip24;('z', 'e');1
+blondtrip24;('e', ' ');35
+blondtrip24;(' ', 'm');16
+blondtrip24;('m', 'e');12
+blondtrip24;('e', '?');4
+blondtrip24;('?', ' ');12
+blondtrip24;(' ', 'i');16
+blondtrip24;('i', 'o');3
+blondtrip24;('o', 'n');9
+blondtrip24;('n', 'o');6
+blondtrip24;(' ', 'h');10
+blondtrip24;('h', 'o');6
+blondtrip24;('o', 'w');5
+blondtrip24;('w', ' ');3
+blondtrip24;('i', ' ');2
+blondtrip24;('h', 'a');12
+blondtrip24;('a', 'v');3
+blondtrip24;('v', 'e');7
+blondtrip24;(' ', 'y');13
+blondtrip24;('y', 'o');10
+blondtrip24;('o', 'u');13
+blondtrip24;('u', 'r');4
+blondtrip24;('r', ' ');5
+blondtrip24;(' ', 'n');10
+blondtrip24;('n', 'u');2
+blondtrip24;('u', 'm');2
+blondtrip24;('m', ' ');7
+blondtrip24;('i', 'n');10
+blondtrip24;('n', ' ');10
+blondtrip24;('m', 'y');3
+blondtrip24;('y', ' ');14
+blondtrip24;(' ', 'c');7
+blondtrip24;('n', 't');5
+blondtrip24;('t', 'a');6
+blondtrip24;('a', 'c');3
+blondtrip24;('c', 't');1
+blondtrip24;('t', 's');2
+blondtrip24;('s', ' ');6
+blondtrip24;(' ', 'b');5
+blondtrip24;('b', 'u');3
+blondtrip24;('u', 't');4
+blondtrip24;('t', ' ');22
+blondtrip24;('i', 't');8
+blondtrip24;('o', 'm');6
+blondtrip24;('m', 'm');1
+blondtrip24;('e', 'n');1
+blondtrip24;('n', 'd');3
+blondtrip24;('d', 'e');3
+blondtrip24;('e', 'd');3
+blondtrip24;('d', ' ');11
+blondtrip24;(' ', 'I');7
+blondtrip24;('I', ' ');6
+blondtrip24;(' ', 'a');15
+blondtrip24;('a', 'd');4
+blondtrip24;('d', 'd');1
+blondtrip24;('y', 'a');3
+blondtrip24;('a', ',');1
+blondtrip24;(',', ',');3
+blondtrip24;(',', ' ');2
+blondtrip24;(' ', 'M');1
+blondtrip24;('M', 'y');1
+blondtrip24;(' ', 'g');8
+blondtrip24;('g', 'i');1
+blondtrip24;('i', 'r');2
+blondtrip24;('r', 'l');1
+blondtrip24;('l', ' ');6
+blondtrip24;('a', 'n');14
+blondtrip24;('g', 'o');1
+blondtrip24;('o', 'i');2
+blondtrip24;('n', 'g');2
+blondtrip24;('g', ' ');2
+blondtrip24;('t', 't');4
+blondtrip24;('t', 'y');1
+blondtrip24;(' ', 'o');9
+blondtrip24;('o', 'v');1
+blondtrip24;('e', 'r');6
+blondtrip24;('h', 'e');5
+blondtrip24;(' ', 'w');13
+blondtrip24;('w', 'i');2
+blondtrip24;('t', 'h');7
+blondtrip24;('h', ' ');4
+blondtrip24;(' ', 't');16
+blondtrip24;('h', 'i');2
+blondtrip24;('i', 's');5
+blondtrip24;(' ', 's');21
+blondtrip24;('s', 'o');9
+blondtrip24;('o', 'c');1
+blondtrip24;('c', 'i');1
+blondtrip24;('i', 'a');1
+blondtrip24;('a', 'l');4
+blondtrip24;('o', 'l');2
+blondtrip24;('l', 'a');3
+blondtrip24;('a', 't');9
+blondtrip24;('t', 'i');8
+blondtrip24;(' ', 'q');2
+blondtrip24;('q', 'u');2
+blondtrip24;('u', 'a');1
+blondtrip24;('a', 'r');5
+blondtrip24;('r', 'a');2
+blondtrip24;('n', 'e');10
+blondtrip24;('e', ',');1
+blondtrip24;('w', 'h');4
+blondtrip24;(' ', 'd');6
+blondtrip24;('d', 'o');6
+blondtrip24;('n', '?');2
+blondtrip24;(' ', 'W');3
+blondtrip24;('W', 'h');2
+blondtrip24;(' ', 'l');7
+blondtrip24;('l', 'i');5
+blondtrip24;('i', 'k');3
+blondtrip24;('k', 'e');6
+blondtrip24;('t', 'o');8
+blondtrip24;('s', 't');4
+blondtrip24;('a', 'y');2
+blondtrip24;('s', 'a');4
+blondtrip24;('o', 'r');9
+blondtrip24;('r', 't');3
+blondtrip24;('a', ' ');14
+blondtrip24;('w', 'o');3
+blondtrip24;('m', 'a');6
+blondtrip24;(' ', '2');3
+blondtrip24;('2', '?');1
+blondtrip24;('i', 'm');3
+blondtrip24;('o', 't');4
+blondtrip24;('b', 'o');1
+blondtrip24;('u', "'");2
+blondtrip24;("'", 'r');1
+blondtrip24;('g', 'e');6
+blondtrip24;('e', 't');5
+blondtrip24;('w', 'e');1
+blondtrip24;('e', 'i');1
+blondtrip24;('r', 'd');2
+blondtrip24;('o', '.');1
+blondtrip24;('.', '.');15
+blondtrip24;('.', ' ');12
+blondtrip24;('t', 'e');3
+blondtrip24;('e', 'v');2
+blondtrip24;('r', '.');1
+blondtrip24;(' ', 'S');1
+blondtrip24;('S', 'u');1
+blondtrip24;('u', 'p');1
+blondtrip24;('p', 'p');1
+blondtrip24;('p', 'o');1
+blondtrip24;('o', 's');2
+blondtrip24;('s', 'e');6
+blondtrip24;('a', 's');2
+blondtrip24;('s', 'k');1
+blondtrip24;('k', ' ');3
+blondtrip24;('t', 'r');1
+blondtrip24;('a', 'i');1
+blondtrip24;('i', 'g');3
+blondtrip24;('g', 'h');3
+blondtrip24;('h', 't');3
+blondtrip24;('t', 'f');1
+blondtrip24;('f', 'o');1
+blondtrip24;('r', 'w');1
+blondtrip24;('w', 'a');4
+blondtrip24;('u', 'e');1
+blondtrip24;('e', 's');4
+blondtrip24;('e', 'o');1
+blondtrip24;(' ', 'k');2
+blondtrip24;('k', 'n');2
+blondtrip24;('w', 's');1
+blondtrip24;('s', 'f');1
+blondtrip24;('f', 'y');1
+blondtrip24;('d', 'y');1
+blondtrip24;('y', '.');1
+blondtrip24;(' ', 'H');2
+blondtrip24;('H', 'a');1
+blondtrip24;(' ', 'e');1
+blondtrip24;('r', 'g');1
+blondtrip24;('g', 'a');3
+blondtrip24;('s', 'm');1
+blondtrip24;(' ', ';');2
+blondtrip24;(';', 'X');1
+blondtrip24;('X', '?');1
+blondtrip24;('a', 'h');2
+blondtrip24;('W', 'i');1
+blondtrip24;('s', 'h');2
+blondtrip24;('u', 'l');2
+blondtrip24;('l', 'd');2
+blondtrip24;('e', 'x');2
+blondtrip24;('x', 't');1
+blondtrip24;(';', ')');1
+blondtrip24;(')', ' ');1
+blondtrip24;('i', 'f');1
+blondtrip24;('f', ' ');4
+blondtrip24;('c', 'l');1
+blondtrip24;('a', 'x');1
+blondtrip24;('x', '?');2
+blondtrip24;('l', 'o');1
+blondtrip24;('l', 'r');1
+blondtrip24;('r', 'i');2
+blondtrip24;('a', 'm');1
+blondtrip24;('u', '.');2
+blondtrip24;(' ', 'f');1
+blondtrip24;('f', 'a');1
+blondtrip24;('n', 'c');2
+blondtrip24;('c', 'y');1
+blondtrip24;('l', 's');1
+blondtrip24;('u', 'n');1
+blondtrip24;('c', 'h');3
+blondtrip24;('o', 'f');3
+blondtrip24;('o', 'o');1
+blondtrip24;('s', '?');1
+blondtrip24;('I', "'");1
+blondtrip24;("'", 'm');2
+blondtrip24;('i', 'l');1
+blondtrip24;('r', 'n');2
+blondtrip24;('n', 'y');1
+blondtrip24;('a', '.');1
+blondtrip24;('n', 'n');2
+blondtrip24;('n', 'a');4
+blondtrip24;('e', 'e');4
+blondtrip24;('m', 'o');3
+blondtrip24;(' ', 'p');2
+blondtrip24;('p', 'i');1
+blondtrip24;('i', 'x');1
+blondtrip24;('e', 'l');2
+blondtrip24;('l', 'l');3
+blondtrip24;('s', 'u');2
+blondtrip24;('u', 'g');1
+blondtrip24;('t', '.');1
+blondtrip24;(' ', 'T');1
+blondtrip24;('T', 'e');1
+blondtrip24;("'", 'd');1
+blondtrip24;('2', ' ');2
+blondtrip24;('e', '.');4
+blondtrip24;('c', ' ');1
+blondtrip24;('?', '?');2
+blondtrip24;(' ', 'U');1
+blondtrip24;('U', ' ');1
+blondtrip24;('t', '?');1
+blondtrip24;(' ', 'G');1
+blondtrip24;('G', 'i');1
+blondtrip24;('i', 'v');1
+blondtrip24;('a', 'k');3
+blondtrip24;('e', 'a');2
+blondtrip24;('l', 'y');2
+blondtrip24;('x', 'y');1
+blondtrip24;('e', '!');1
+blondtrip24;('!', ' ');1
+blondtrip24;('i', "'");1
+blondtrip24;('t', 'l');1
+blondtrip24;('t', 'u');1
+blondtrip24;('n', '.');1
+blondtrip24;('b', 'a');2
+blondtrip24;('c', 'k');2
+blondtrip24;('s', 'i');1
+blondtrip24;('i', 'd');1
+blondtrip24;('c', 'a');1
+blondtrip24;('e', 'm');1
+blondtrip24;('c', 'u');2
+blondtrip24;('w', '.');1
+blondtrip24;('p', 'a');1
+blondtrip24;('a', 'g');1
+blondtrip24;('n', 'v');1
+blondtrip24;('v', 'i');1
+blondtrip24;('H', 'e');1
+blondtrip24;('e', 'y');1
+blondtrip24;('a', 'f');1
+blondtrip24;('f', 'e');1
+blondtrip24;('.', 'c');1
+blondtrip24;('m', '/');1
+blondtrip24;('/', 'b');1
+blondtrip24;('d', 'b');1
+blondtrip24;('b', 'e');1
+blondtrip24;('h', '2');1
+blondtrip24;('2', '0');1
+blondtrip24;('0', '?');1
+blondtrip24;('?', '2');1
+blondtrip24;('2', 'E');1
+blondtrip24;('E', 'r');1
+blondtrip24;('r', '8');1
+blondtrip24;('8', 'b');1
+blondtrip24;('b', 'T');1
+blondtrip24;('T', 'R');1
