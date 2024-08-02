@@ -33,7 +33,7 @@ crime_keywords = ['heist', 'hit', 'job', 'score', 'boost', 'fence', 'knockover',
                   'intimidate', 'coerce', 'force', 'slot', 'lace', 'dose', 'spike', 'copied', 'pinch']
 
 # Load the CSV file
-data = pd.read_csv("Data.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv(r"C:\sachverst-ndiger\Data.csv", sep="|", encoding="utf-16-LE")
 
 # Filter messages containing any of the crime-related keywords
 def contains_crime_keywords(text):
