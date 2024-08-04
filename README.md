@@ -16,3 +16,7 @@ Bad Boy war hinter einem Shop in einem schwarzen BMW
 
 Nächste Übergabe 30.03.21 zwischen 18:29 und 18:34 wieder Koks, 15.000kr für 100 Gramm (Zeile 150-165), Maverick verkauft wieder an Bad Boy, wieder hinter demselben Shop
 Bad Boy verkauft es weiter an andere Kunden (Zeile 123)
+
+Zeile 169: Maverick hat Stress mit Goose und hat Angst, dass dieser seine Kunden hinter seinem Rücken wegjagt
+
+Zeile 177: https://www.verywellmind.com/thmb/0MKFOD0sqg5d6sZsqyw5QGk_S5A=/500x350/filters:no_upscale%28%29:max_bytes%28150000%29:strip_icc%28%29/GettyImages-140357602-5715d2563df78c3fa26fa72c.jpg
