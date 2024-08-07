@@ -20,3 +20,17 @@ Bad Boy verkauft es weiter an andere Kunden (Zeile 123)
 Zeile 169: Maverick hat Stress mit Goose und hat Angst, dass dieser seine Kunden hinter seinem Rücken wegjagt
 
 Zeile 177: https://www.verywellmind.com/thmb/0MKFOD0sqg5d6sZsqyw5QGk_S5A=/500x350/filters:no_upscale%28%29:max_bytes%28150000%29:strip_icc%28%29/GettyImages-140357602-5715d2563df78c3fa26fa72c.jpg
+
+
+MikeBlondTrip:
+Die sexten zusammen
+BlondTrip scheint ne Frau zu sein (Bezeichnet sich selber als "Gal")
+zwischendrin leere Zeilen --> Das werden dann Nudes sein laut Mikes Antworten immer
+Blond Trip schickt ihm das hier (Iwie ihre Seite): safesharesecure.com/badbeach20?2Er8bTR
+
+
+Jose Topgun & Goldy Finger:
+Die scheinen sich bereits zu kennen 
+Zeile 1: "Your here too huh?"
+Jose schickt Goldy iwas und sagt "This is the target." und schickt anscheinend Standort oder so
+Viele leere Zeilen (Gifs und so?)
