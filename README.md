@@ -32,5 +32,6 @@ Blond Trip schickt ihm das hier (Iwie ihre Seite): safesharesecure.com/badbeach2
 Jose Topgun & Goldy Finger:
 Die scheinen sich bereits zu kennen 
 Zeile 1: "Your here too huh?"
-Jose schickt Goldy iwas und sagt "This is the target." und schickt anscheinend Standort oder so
-Viele leere Zeilen (Gifs und so?)
+Jose schickt Goldy iwas und sagt "This is the target." und schickt Bild von einem Haus
+Goldy Finger hat auch nachrichten gelöscht, damit die Polizei sie später nicht findet
+Viele Bilder von verschiedenen Locations
