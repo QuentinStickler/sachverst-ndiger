@@ -1,45 +1,50 @@
 import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
 
 # Lade die CSV-Datei in ein DataFrame
-data = pd.read_csv("Data.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("Data_Original.csv", sep="|", encoding="utf-16-LE")
 
-# Remove leading and trailing spaces from the "Timestamp" string
+# Entferne führende und nachfolgende Leerzeichen aus dem "Timestamp"-String
 data["Timestamp"] = data["Timestamp"].str.strip()
 
-# Convert the "Timestamp" column to datetime format
+# Konvertiere die "Timestamp"-Spalte in das datetime-Format
 data["Timestamp"] = pd.to_datetime(data["Timestamp"], utc=True)
 
-# Extrahieren der Stundeninformation aus dem Zeitstempel
+# Extrahiere die Stundeninformation aus dem Zeitstempel
 data["Hour"] = data["Timestamp"].dt.hour
 
-# Group the data by "Sender Names" and "Hour" and count the messages per hour for senders
+# Gruppiere die Daten nach "Sender Name" und "Hour" und zähle die Nachrichten pro Stunde
 sender_activity_profiles = data.groupby(["Sender Name", "Hour"]).size().unstack(fill_value=0)
 
-# Get list of all senders
-senders = sender_activity_profiles.index
+# Berechne die Kosinusähnlichkeit zwischen den Aktivitätsprofilen aller Sender
+similarity_matrix = cosine_similarity(sender_activity_profiles)
 
-# Create an empty dictionary to store correlations between senders
-sender_correlations = {}
+# Erstelle ein DataFrame aus der Ähnlichkeitsmatrix
+similarity_df = pd.DataFrame(similarity_matrix, 
+                             index=sender_activity_profiles.index, 
+                             columns=sender_activity_profiles.index)
 
-# Calculate correlations between activity profiles of each pair of senders
-for sender1 in senders:
-    for sender2 in senders:
-        if sender1 != sender2:
-            correlation = sender_activity_profiles.loc[sender1].corr(sender_activity_profiles.loc[sender2])
-            sender_correlations[(sender1, sender2)] = correlation
+# Umwandlung der Ähnlichkeitsmatrix in Paare, ohne Stack-Funktion
+similarity_pairs = []
 
-# Convert dictionary to DataFrame
-sender_correlation_df = pd.DataFrame(sender_correlations, index=["Correlation"]).T
+# Iteriere über alle Sender, um Paare zu erstellen
+senders = similarity_df.index
+for i in range(len(senders)):
+    for j in range(i + 1, len(senders)):  # Beachte: j beginnt bei i + 1, um doppelte Paare zu vermeiden
+        similarity_pairs.append({
+            'Sender 1': senders[i],
+            'Sender 2': senders[j],
+            'Similarity': similarity_df.iloc[i, j]
+        })
 
-# Save the correlation results to a CSV file
-sender_correlation_df.to_csv("sender_correlation_results.csv")
+# Konvertiere die Paare in ein DataFrame
+similarity_pairs_df = pd.DataFrame(similarity_pairs)
 
-print("Correlation Between Different Senders Based on Activity Time has been saved to sender_correlation_results.csv")
+# Filtere die Ähnlichkeitsdaten nach einem Schwellenwert, z.B. 0.8
+high_similarity_df = similarity_pairs_df[similarity_pairs_df['Similarity'] > 0.8]
 
-# Filter correlation DataFrame for correlations higher than 0.8
-high_correlation_df = sender_correlation_df[sender_correlation_df["Correlation"] > 0.8]
+# Speichere die Ergebnisse in einer CSV-Datei
+output_file = "high_cosine_similarity_results.csv"
+high_similarity_df.to_csv(output_file, index=False, encoding="utf-8")
 
-# Save the high correlation results to a CSV file
-high_correlation_df.to_csv("high_correlation_results.csv")
-
-print("Sender pairs with correlation higher than 0.8 have been saved to high_correlation_results.csv")
+print(f"Sender pairs with cosine similarity higher than 0.8 have been saved to {output_file}")

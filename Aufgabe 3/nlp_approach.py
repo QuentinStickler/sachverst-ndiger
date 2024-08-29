@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv("Data.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("Data_Original.csv", sep="|", encoding="utf-16-LE")
 
 from transformers import pipeline
 

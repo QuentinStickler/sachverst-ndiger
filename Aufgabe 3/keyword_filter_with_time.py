@@ -33,7 +33,7 @@ crime_keywords = ['heist', 'hit', 'job', 'score', 'boost', 'fence', 'knockover',
                   'intimidate', 'coerce', 'force', 'slot', 'lace', 'dose', 'spike', 'copied', 'pinch']
 
 # Load the CSV file
-data = pd.read_csv(r"C:\Users\amonb\OneDrive\Dokumente\Semester II\Der Sachverstädnige vor Gericht\Git Repository\sachverst-ndiger\Data_Original.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("Data_Original.csv", sep="|", encoding="utf-16-LE")
 
 # Remove leading and trailing spaces from the "Timestamp" string
 data["Timestamp"] = data["Timestamp"].str.strip()
