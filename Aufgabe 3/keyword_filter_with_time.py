@@ -33,7 +33,7 @@ crime_keywords = ['heist', 'hit', 'job', 'score', 'boost', 'fence', 'knockover',
                   'intimidate', 'coerce', 'force', 'slot', 'lace', 'dose', 'spike', 'copied', 'pinch']
 
 # Load the CSV file
-data = pd.read_csv("Data_Original.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("python_output.csv", sep="|", encoding="utf-8")
 
 # Remove leading and trailing spaces from the "Timestamp" string
 data["Timestamp"] = data["Timestamp"].str.strip()
@@ -52,4 +52,4 @@ def contains_crime_keywords(text):
 filtered_data = data[data['Text'].apply(contains_crime_keywords)]
 
 # Save the filtered messages to a new CSV file
-filtered_data.to_csv('filtered_criminal_messages_sorted.csv', sep='|', encoding='utf-16-LE', index=False)
+filtered_data.to_csv('new_filtered_criminal_messages_sorted.csv', sep='|', encoding='utf-8', index=False)

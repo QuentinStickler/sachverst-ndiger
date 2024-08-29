@@ -5,7 +5,7 @@ from collections import Counter
 #nltk.download('punkt')
 
 # Load the CSV file Data von Samsung SM-G950u1 Galaxy S8 TD-LTE
-data = pd.read_csv("Data_Original.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("python_output.csv", sep="|", encoding="utf-8")
 
 # Encoding Error
 #data_1 = pd.read_csv("Data Image 1.csv", sep="|", encoding="utf-16-LE")
@@ -17,7 +17,7 @@ data = pd.read_csv("Data_Original.csv", sep="|", encoding="utf-16-LE")
 grouped_data = data.groupby("Sender Name")["Text"].apply(lambda x: ' '.join(map(str, x))).reset_index()
 
 # Erstellt die CSV Datei in dem das Ergebnis gespeichert wird in UTF 8 Encoding
-output_file = "token_counts_data.csv"
+output_file = "new_token_counts_data.csv"
 with open(output_file, "w", encoding="utf-8") as file:
     file.write("Sender,TokenCount\n")
     

@@ -4,12 +4,12 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Create a folder to store the images if it doesn't exist
-output_folder = "activity_profiles_images"
+output_folder = "Aufgabe 2\compared_activity_profiles_images"
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
 # Lade die CSV-Datei in ein DataFrame
-data = pd.read_csv("Data_Original.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("python_output.csv", sep="|", encoding="utf-8")
 
 # Remove leading and trailing spaces from the "Timestamp" string
 data["Timestamp"] = data["Timestamp"].str.strip()
@@ -24,7 +24,7 @@ data["Hour"] = data["Timestamp"].dt.hour
 activity_profile = data.groupby([data["Sender Name"].str.strip(), "Hour"]).size().unstack(fill_value=0)
 
 # Liste der Sender, für die ein Histogramm erstellt werden soll
-senders = ["Twi Grey", "Twilight G", "Twilight Grey", "TwilightGrey"]  # Ersetze diese Liste durch die gewünschten Sender
+senders = ['46708275344@s.whatsapp.net', 'Maverick', 'maverick', 'Maverick SOB', 'Maverick.4444', 'Rupert Beae']  # Ersetze diese Liste durch die gewünschten Sender
 
 # Normalisieren der Nachrichtenzahlen pro Sender
 normalized_activity_profile = activity_profile.div(activity_profile.sum(axis=1), axis=0)
@@ -65,7 +65,7 @@ plt.xticks([pos + bar_width * (len(senders)-1)/2 for pos in r], filtered_activit
 plt.legend()
 
 # Speichern des kombinierten Histogramms
-output_path = os.path.join(output_folder, "twilightgrey_combined_normalized_activity_profile.png")
+output_path = os.path.join(output_folder, "maverick_combined_normalized_activity_profile.png")
 plt.tight_layout()
 plt.savefig(output_path)
 plt.close()

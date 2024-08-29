@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Laden der klassifizierten Nachrichten
-data = pd.read_csv("classified_messages.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("new_classified_messages.csv", sep="|", encoding="utf-8")
 
 # Statistiken über die Klassifikationen
 classification_counts = data['Classification'].value_counts()
@@ -47,7 +47,7 @@ if 'NEGATIVE' in data['Classification'].unique():
     print(negative_senders_percentage)
 
 # Speichern der sortierten relativen Häufigkeiten in einer neuen CSV-Datei
-percentage_output_file = "sorted_sender_classification_percentages.csv"
+percentage_output_file = "new_sorted_sender_classification_percentages.csv"
 sorted_sender_classification_percentages_df.to_csv(percentage_output_file, sep="|", encoding="utf-16-LE", index=False)
 
 print(f"\nDie sortierten relativen Häufigkeiten wurden in {percentage_output_file} gespeichert.")

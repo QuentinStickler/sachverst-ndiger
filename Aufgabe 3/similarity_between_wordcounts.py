@@ -5,7 +5,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 
 # Lade die CSV-Datei
-data = pd.read_csv("Data_Original.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("python_output.csv", sep="|", encoding="utf-8")
 
 # Gruppiere die Daten nach Sender Name
 grouped_data = data.groupby("Sender Name")["Text"].apply(lambda x: ' '.join(map(str, x))).reset_index()
@@ -40,7 +40,7 @@ for i in range(top_n):
     print(f"{user1} und {user2} - Ähnlichkeit: {similarity:.4f}")
 
 # Optional: Speichere die Top-N-Paare in einer CSV-Datei
-output_file = "top_user_similarities.csv"
+output_file = "new_top_user_similarities.csv"
 with open(output_file, "w", encoding="utf-8") as file:
     file.write("User 1,User 2,Similarity\n")
     for user1, user2, similarity in sorted_similarities[:top_n]:

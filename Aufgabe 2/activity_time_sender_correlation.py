@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Lade die CSV-Datei in ein DataFrame
-data = pd.read_csv("Data_Original.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("python_output.csv", sep="|", encoding="utf-8")
 
 # Entferne führende und nachfolgende Leerzeichen aus dem "Timestamp"-String
 data["Timestamp"] = data["Timestamp"].str.strip()
@@ -44,7 +44,7 @@ similarity_pairs_df = pd.DataFrame(similarity_pairs)
 high_similarity_df = similarity_pairs_df[similarity_pairs_df['Similarity'] > 0.8]
 
 # Speichere die Ergebnisse in einer CSV-Datei
-output_file = "high_cosine_similarity_results.csv"
+output_file = "new_high_cosine_similarity_results.csv"
 high_similarity_df.to_csv(output_file, index=False, encoding="utf-8")
 
 print(f"Sender pairs with cosine similarity higher than 0.8 have been saved to {output_file}")

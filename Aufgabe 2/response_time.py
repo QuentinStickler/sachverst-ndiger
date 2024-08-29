@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV file into a DataFrame
-data = pd.read_csv("Data.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("python_output.csv", sep="|", encoding="utf-8")
 
 # Remove leading and trailing spaces from the "Timestamp" string
 data["Timestamp"] = data["Timestamp"].str.strip()
@@ -19,6 +19,6 @@ response_times = data.groupby(["Sender Name", "Recipient Name"]).apply(lambda x:
 average_response_times = response_times.groupby(["Sender Name", "Recipient Name"]).mean()
 
 # Save the average response times to a CSV file
-average_response_times.to_csv("average_response_times.csv", header=True)
+average_response_times.to_csv("new_average_response_times.csv", header=True)
 
 print("Average Response Times have been saved to average_response_times.csv")

@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv("Data_Original.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("python_output.csv", sep="|", encoding="utf-8")
 
 from transformers import pipeline
 
@@ -18,7 +18,7 @@ def classify_message(text):
 data['Classification'] = data['Text'].apply(classify_message)
 
 # Save the classified messages to a new CSV file
-output_file = "classified_messages.csv"
-data.to_csv(output_file, sep="|", encoding="utf-16-LE", index=False)
+output_file = "new_classified_messages.csv"
+data.to_csv(output_file, sep="|", encoding="utf-8", index=False)
 
 print(f"Classified messages saved to {output_file}")

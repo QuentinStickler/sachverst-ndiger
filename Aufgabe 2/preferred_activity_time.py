@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Lade die CSV-Datei in ein DataFrame
-data = pd.read_csv("Data.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("python_output.csv", sep="|", encoding="utf-8")
 
 # Remove leading and trailing spaces from the "Timestamp" string
 data["Timestamp"] = data["Timestamp"].str.strip()
@@ -19,6 +19,6 @@ sender_activity_profiles = data.groupby(["Sender Name", "Hour"]).size().unstack(
 preferred_activity_time = sender_activity_profiles.idxmax(axis=1)
 
 # Write the preferred activity time of each sender to a CSV file
-preferred_activity_time.to_csv("preferred_activity_time.csv", header=["Preferred Activity Time"])
+preferred_activity_time.to_csv("new_preferred_activity_time.csv", header=["Preferred Activity Time"])
 
 print("Preferred Activity Time of Each Sender has been saved to preferred_activity_time.csv")

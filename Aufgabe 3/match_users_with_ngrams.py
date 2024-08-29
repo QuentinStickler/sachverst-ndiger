@@ -5,7 +5,7 @@ from itertools import combinations
 import numpy as np
 
 # Load the CSV file Data von Samsung SM-G950u1 Galaxy S8 TD-LTE
-data = pd.read_csv("Data_Original.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("python_output.csv", sep="|", encoding="utf-8")
 
 # Daten anhand der Sender Namen gruppieren
 grouped_data = data.groupby("Sender Name")["Text"].apply(lambda x: ' '.join(map(str, x))).reset_index()
@@ -61,7 +61,7 @@ for (sender1, ngrams1), (sender2, ngrams2) in combinations(ngram_data.items(), 2
 potential_matches.sort(key=lambda x: x[2], reverse=True)
 
 # Save potential matches to a CSV file
-output_file = "potential_matches_cosine.csv"
+output_file = "new_potential_matches_cosine.csv"
 with open(output_file, "w", encoding="utf-8") as file:
     file.write("Sender1,Sender2,Similarity\n")
     for sender1, sender2, similarity in potential_matches:

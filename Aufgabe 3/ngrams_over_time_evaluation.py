@@ -3,7 +3,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Step 1: Load the CSV file into a DataFrame
-file_path = 'word_trigrams_overtime_all_data.csv'
+file_path = 'new_word_trigrams_overtime_all_data.csv'
 df = pd.read_csv(file_path, delimiter='|')
 
 # Step 2: Group by Date and Ngram
@@ -57,7 +57,7 @@ for sender1 in cosine_sim_df.index:
 similarity_list.sort(key=lambda x: x[2], reverse=True)
 
 # Optionally, save the list to a CSV file
-output_path = 'sorted_sender_similarity_list_trigrams.csv'
+output_path = 'new_sorted_sender_similarity_list_trigrams.csv'
 with open(output_path, 'w', encoding='utf-8') as file:
     file.write("Sender1,Sender2,Similarity\n")
     for sender1, sender2, similarity in similarity_list:

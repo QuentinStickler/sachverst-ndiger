@@ -9,7 +9,7 @@ if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
 # Lade die CSV-Datei in ein DataFrame
-data = pd.read_csv("Data.csv", sep="|", encoding="utf-16-LE")
+data = pd.read_csv("python_output.csv", sep="|", encoding="utf-8")
 
 # Remove leading and trailing spaces from the "Timestamp" string
 data["Timestamp"] = data["Timestamp"].str.strip()
